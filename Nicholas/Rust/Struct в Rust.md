@@ -111,11 +111,11 @@ fn main() {
 	let subject = AlwaysRavno;
 }
 ```
-###### Линки
+#### Линки
  [[Свойство копирования типа данных]],
  [[Типы данных в Rust]],
-###### Тэги
+#### Тэги
  #Rust 
  #Программирование 
-###### Источники
+#### Источники
  https://doc.rust-lang.org/book/ch05-01-defining-structs.html
