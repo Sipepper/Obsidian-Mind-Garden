@@ -6,8 +6,8 @@ $$
 
 #### Линки
 [[Целое p-адическое число]],
-[[Функция или отображение]]
+[[Функция или отображение]],
 #### Тэги
  #p-адический_анализ 
 #### Источники
-1. Alain M. Robert A Course in p-adic Analysis c.4
+1. Alain M. Robert "A Course in p-adic Analysis" c.4

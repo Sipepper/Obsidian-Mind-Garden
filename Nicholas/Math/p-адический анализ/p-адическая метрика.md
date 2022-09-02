@@ -26,4 +26,4 @@ $$
 #### Тэги
  #p-адический_анализ 
 #### Источники
-1. Alain M. Robert A Course in p-adic Analysis c.7
+1. Alain M. Robert "A Course in p-adic Analysis" c.7
