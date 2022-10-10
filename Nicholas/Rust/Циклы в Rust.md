@@ -124,6 +124,6 @@ fn main() {
  [[If в Rust]],
  [[Типы данных в Rust]]
 #### Тэги
- #Rust 
+ #Программирование/Rust 
 #### Источники
 1. https://doc.rust-lang.org/book/ch03-05-control-flow.html

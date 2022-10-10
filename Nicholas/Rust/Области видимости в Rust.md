@@ -19,7 +19,7 @@ fn main() {
 #### Линки
  [[Задание переменных в Rust]]
 #### Тэги
- #Rust 
+ #Программирование/Rust 
  #Программирование 
 #### Источники
  https://www.youtube.com/watch?v=xYgfW8cIbMA

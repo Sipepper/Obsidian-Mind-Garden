@@ -17,7 +17,7 @@ fn main() {
  [[Области видимости в Rust]],
  [[Задание переменных в Rust]],
 #### Тэги
- #Rust 
+ #Программирование/Rust 
  #Программирование 
 #### Источники
 1. https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html

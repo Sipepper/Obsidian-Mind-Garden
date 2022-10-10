@@ -71,6 +71,6 @@ fn main() {
  [[Утверждения и Выражения в Rust]],
  [[Задание переменных в Rust]]
 #### Тэги
- #Rust 
+ #Программирование/Rust 
 #### Источники
 1. https://doc.rust-lang.org/book/ch03-03-how-functions-work.html

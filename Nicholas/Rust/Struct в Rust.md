@@ -117,7 +117,7 @@ fn main() {
 - [[Типы данных в Rust]],
 - [[Владение в Rust]]
 #### Тэги
- #Rust 
+ #Программирование/Rust 
  #Программирование 
 #### Источники
  https://doc.rust-lang.org/book/ch05-01-defining-structs.html

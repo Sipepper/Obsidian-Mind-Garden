@@ -97,6 +97,6 @@ fn takes_and_gives_back(a_string: String) -> String { // a_string входит �
  [[Утверждения и Выражения в Rust]],
  [[Функции в Rust]]
 #### Тэги
- #Rust 
+ #Программирование/Rust 
 #### Источники
 1. https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html

@@ -47,6 +47,6 @@ fn main() {
  [[Задание переменных в Rust]],
  [[Области видимости в Rust]]
 #### Тэги
- #Rust 
+ #Программирование/Rust 
 #### Источники
 1. https://doc.rust-lang.org/book/ch03-03-how-functions-work.html

@@ -24,6 +24,6 @@ fn main() {
 #### Линки
  
 #### Тэги
- #Rust 
+ #Программирование/Rust 
 #### Источники
 1. https://doc.rust-lang.org/book/ch03-04-comments.html

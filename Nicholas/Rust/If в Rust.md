@@ -69,7 +69,7 @@ fn main() {
  [[Утверждения и Выражения в Rust]],
  
 #### Тэги
- #Rust 
+ #Программирование/Rust 
  #Программирование 
 #### Источники
  https://doc.rust-lang.org/book/ch03-05-control-flow.html

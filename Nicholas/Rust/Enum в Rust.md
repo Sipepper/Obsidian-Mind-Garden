@@ -118,6 +118,6 @@ struct ChangeColorMessage(i32, i32, i32); // структура таплов
 - [[Методы в Rust]],
 - [[Функции в Rust]]
 #### Тэги
- #Rust 
+ #Программирование/Rust 
 #### Источники
  https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html

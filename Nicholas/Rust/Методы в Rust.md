@@ -133,7 +133,7 @@ impl Rectangle {
 - [[Struct в Rust]],
  
 #### Тэги
- #Rust
+ #Программирование/Rust
  #Программирование 
 #### Источники
 1. https://doc.rust-lang.org/book/ch05-03-method-syntax.html

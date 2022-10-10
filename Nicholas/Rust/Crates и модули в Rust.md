@@ -9,7 +9,7 @@ use std::io;
 #### Линки
  
 #### Тэги
- #Rust 
+ #Программирование/Rust 
  #Программирование 
 #### Источники
  https://www.youtube.com/watch?v=PQBX-ev5q2k

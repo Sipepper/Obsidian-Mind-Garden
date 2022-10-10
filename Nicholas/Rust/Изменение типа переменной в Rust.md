@@ -37,7 +37,7 @@ fn main() {
  [[Типы данных в Rust]],
  [[Задание переменных в Rust]]
 #### Тэги
- #Rust 
+ #Программирование/Rust 
  #Программирование 
 #### Источники
  https://www.youtube.com/watch?v=Uwa3P9dBHdA
