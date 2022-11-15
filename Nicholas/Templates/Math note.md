@@ -2,7 +2,7 @@
 ***
 ###### tags: # 
 ***
->[!dsn] Direct Strict note
+>[!dsn] Direct strict note
 >
 
 
