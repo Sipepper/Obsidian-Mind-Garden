@@ -32,6 +32,6 @@ $$
  [[Целое p-адическое число]],
  [[Кольцо]]
 #### Тэги
- #Анализ/p-адический 
+ #Analysis/p-adic 
 #### Источники
 1. Alain M. Robert A Course in p-adic Analysis c.4

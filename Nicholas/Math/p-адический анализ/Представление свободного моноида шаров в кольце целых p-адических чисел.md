@@ -57,6 +57,6 @@ $$
  [[Матрица]],
  [[Линейные группы]]
 #### Тэги
- #Анализ/p-адический 
+ #Analysis/p-adic 
 #### Источники
 1. Alain M. Robert - "A course in p-adic analysis" c.12

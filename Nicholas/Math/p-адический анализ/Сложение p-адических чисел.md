@@ -27,6 +27,6 @@ $$b=\sigma(a)=\sum\limits_{i\ge0}(p-1-a_{i})p^{i}$$
 - [[Функция или отображение]],
 - [[Неподвижная точка]]
 #### Тэги
- #Анализ/p-адический 
+ #Analysis/p-adic 
 #### Источники
 1. Alain M. Robert A Course in p-adic Analysis c.3
