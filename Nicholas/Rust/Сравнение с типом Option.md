@@ -38,7 +38,7 @@ fn main() {
 - [[Нумератор Option]],
 - [[match в Rust]],
 - [[Функции в Rust]],
-- [[Задание переменных в Rust]],
+- [[How to define a variable in Rust]],
 #### Possibly related
 - 
 ***

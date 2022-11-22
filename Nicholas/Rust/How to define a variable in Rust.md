@@ -1,4 +1,7 @@
-# Задание переменных в Rust
+# How to define a variable in Rust
+***
+###### tags: #Программирование/Rust  
+***
 Создание неизменяемой переменной
 ```rust
 fn main() {
@@ -46,10 +49,11 @@ fn main() {
 	x="stroka";
 }
 ```
-#### Линки
- [[Типы данных в Rust]]
-#### Тэги
- #Программирование/Rust 
- #Программирование 
-#### Источники
- https://www.youtube.com/watch?v=xYgfW8cIbMA
+***
+#### Keywords
+- [[Типы данных в Rust]]
+#### Possibly related
+- 
+***
+#### Sources:
+1. https://www.youtube.com/watch?v=xYgfW8cIbMA

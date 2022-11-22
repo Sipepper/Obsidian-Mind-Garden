@@ -179,6 +179,5 @@ assert_eq!(slice, &[2,3]);
 - [[UTF-8 кодировка]],
 #### Тэги
  #Программирование/Rust 
- #Программирование 
 #### Источники
 1. https://doc.rust-lang.org/book/ch04-03-slices.html

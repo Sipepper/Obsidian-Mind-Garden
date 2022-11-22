@@ -189,7 +189,7 @@ fn no_dangle() -> String {
  [[Типы данных в Rust]],
  [[Функции в Rust]],
  [[Области видимости в Rust]],
- [[Задание переменных в Rust]],
+ [[How to define a variable in Rust]],
  
 #### Тэги
  #Программирование/Rust 

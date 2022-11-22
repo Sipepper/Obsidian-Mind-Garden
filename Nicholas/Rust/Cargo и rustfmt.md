@@ -17,7 +17,6 @@
  
 #### Тэги
  #Программирование/Rust 
- #Программирование
  
 #### Источники
  https://www.youtube.com/watch?v=gvgBUY8iNO4

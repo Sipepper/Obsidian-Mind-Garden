@@ -15,9 +15,8 @@ fn main() {
 #### Линки
  [[Сборщик мусора]],
  [[Области видимости в Rust]],
- [[Задание переменных в Rust]],
+ [[How to define a variable in Rust]],
 #### Тэги
  #Программирование/Rust 
- #Программирование 
 #### Источники
 1. https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html

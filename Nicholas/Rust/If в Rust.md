@@ -65,11 +65,10 @@ fn main() {
 
 ```
 #### Линки
- [[Задание переменных в Rust]],
+ [[How to define a variable in Rust]],
  [[Утверждения и Выражения в Rust]],
  
 #### Тэги
  #Программирование/Rust 
- #Программирование 
 #### Источники
  https://doc.rust-lang.org/book/ch03-05-control-flow.html

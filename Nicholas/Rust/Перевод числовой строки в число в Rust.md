@@ -22,6 +22,5 @@ fn main() {
  [[Строка в Rust]]
 #### Тэги
  #Программирование/Rust 
- #Программирование 
 #### Источники
  https://www.youtube.com/watch?v=Uwa3P9dBHdA

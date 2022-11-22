@@ -19,6 +19,5 @@ fn main() {
  [[Типы данных в Rust]]
 #### Тэги
  #Программирование/Rust 
- #Программирование 
 #### Источники
  https://www.youtube.com/watch?v=xYgfW8cIbMA

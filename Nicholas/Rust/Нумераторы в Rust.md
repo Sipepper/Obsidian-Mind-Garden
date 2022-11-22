@@ -114,7 +114,7 @@ struct ChangeColorMessage(i32, i32, i32); // структура таплов
 #### Линки
 - [[Struct в Rust]],
 - [[Типы данных в Rust]],
-- [[Задание переменных в Rust]],
+- [[How to define a variable in Rust]],
 - [[Методы в Rust]],
 - [[Функции в Rust]]
 #### Тэги
