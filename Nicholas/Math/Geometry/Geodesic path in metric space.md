@@ -3,7 +3,7 @@
 ###### tags: #Geometry  
 ***
 >[!dsn] Direct strict note
->Let $(X,d)$ be a metric space. A *geodesic path* joining $x\in X$ to $y\in X$ is a map $c$ from a closed interval $[o,l]\subset\mathbb{R}$ to $X$ such that $c(0)=x$, $c(l)=y$ and $d(c(t),c(t'))=|t-t'|$ for all $t,t'\in[0,l]$.^[Martin R. Bridson, Andre Haefliger - "Metric spaces of non-positive curvature" c.]
+>Let $(X,d)$ be a metric space. A *geodesic path* joining $x\in X$ to $y\in X$ is a map $c$ from a closed interval $[0,l]\subset\mathbb{R}$ to $X$ such that $c(0)=x$, $c(l)=y$ and $d(c(t),c(t'))=|t-t'|$ for all $t,t'\in[0,l]$.^[Martin R. Bridson, Andre Haefliger - "Metric spaces of non-positive curvature" c.]
 
 The image $\alpha$ of $c$ is called a *geodesic segment* with endpoints $x$ and $y$.
 

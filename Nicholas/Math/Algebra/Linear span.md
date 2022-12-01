@@ -11,7 +11,7 @@
 >Linear span of vectors $v_{1}=[3,2]^{t}$ and $v_{2}=[1,1]^{t}$ is equals to entire vector space $\mathbb{R}^{2}$, because every vector $v\in\mathbb{R}^{2}$ can be expressed as a linear combination of $v_{1}$ and $v_{2}$. But vectors $w_{1}=[1,\frac{1}{2}]^{t}$ and $w_{2}=[4,2]^{t}$ are linearly dependent and thus don't span whole plane, but vector a subspace $\alpha\cdot[1,\frac{1}{2}]$.
 ***
 #### Keywords
-- [[Векторное пространство]],
+- [[Vector space]],
 - [[Поле]],
 - [[Линейно зависимые вектора]],
 #### Possibly related

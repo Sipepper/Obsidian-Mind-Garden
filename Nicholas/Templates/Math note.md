@@ -5,7 +5,6 @@
 >[!dsn] Direct strict note
 >
 
-
 >[!proof]
 >
 

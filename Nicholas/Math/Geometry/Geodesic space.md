@@ -9,11 +9,17 @@
 
 >[!example] 
 >We can view a sphere $S^{2}$ as a metric space, then it's a geodesic space but not uniquely geodesic because every two antipodal point can be connected with infinitely many geodesics.
+
+#### Necessary condition to be a geodesic space
+>[!dsn] Direct strict note
+>If for every pair of points $x$ and $y$ in a complete metric space $X$ there exists a point $m\in X$ such that $$d(x,m)=d(y,m)=\frac{1}{2}d(x,y)$$, then $X$ is a geodesic space.
+
 ***
 #### Keywords
 - [[Метрика]],
 - [[Geodesic path in metric space]],
-- [[Sphere]]
+- [[Sphere]],
+- [[Полное метрическое пространство]]
 #### Possibly related
 - 
 ***
