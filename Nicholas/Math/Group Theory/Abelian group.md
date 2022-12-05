@@ -1,8 +1,18 @@
-# Абелева группа
-Пусть $G$ - группа, если операция в группе $G$ коммутативна, т.е. $ab=ba,\forall a,b\in G$, то группа $G$ называется *коммутативной* или *абелевой* - в честь Нильса Хенрика Абеля.
+# Abelian group
+***
+###### tags: #Group_Theory 
+***
+>[!dsn] Direct strict note
+>Let $G$ be a group, if algebraic operation in that group is commutative, i.e. $ab=ba$,$\forall a,b\in G$ then group $G$ is called a *commutative* or *abelian* group, in honor to Neils Henrik Abel.
 
-#### Линки
-[[Группа]],
-[[Алгебраическая операция или Закон композиции]]
-#### Тэги 
- #Group_Theory 
+>[!example] 
+>The additive group of $\mathbb{Q}$ is an abelian group.
+***
+#### Keywords
+- [[Группа]],
+- [[Множество рациональных чисел]],
+- [[Алгебраическая операция или Закон композиции]]
+#### Possibly related
+- 
+***
+#### Sources:
