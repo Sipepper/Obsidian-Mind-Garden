@@ -18,7 +18,7 @@
 >As an example we can take a vector space $\mathbb{R}^{2}$ which is a cartesian plane with "arrows" which we can add and multiply by a scalar.
 ***
 #### Keywords
-- [[Поле]],
+- [[Field]],
 - [[Множество]],
 - [[Алгебраическая операция или Закон композиции]],
 - [[Произведение множеств]]

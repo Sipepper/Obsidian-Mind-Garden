@@ -12,7 +12,7 @@
 ***
 #### Keywords
 - [[Vector space]],
-- [[Поле]],
+- [[Field]],
 - [[Линейно зависимые вектора]],
 #### Possibly related
 - [[Вектор]]

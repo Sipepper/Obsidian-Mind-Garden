@@ -20,7 +20,7 @@
 #### Keywords
 - [[Базис векторного пространства]],
 - [[Vector space]],
-- [[Определитель]],
+- [[Determinant]],
 - [[Отношение эквивалентности]],
 - [[Change of basis matrix]]
 #### Possibly related
