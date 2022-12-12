@@ -16,7 +16,7 @@
 
 ***
 #### Keywords
-- [[Метрика]],
+- [[Metric space]],
 - [[Geodesic path in metric space]],
 - [[Sphere]],
 - [[Полное метрическое пространство]]

@@ -17,7 +17,7 @@ The image $\alpha$ of $c$ is called a *geodesic segment* with endpoints $x$ and 
 4. >A *local geodesic* in $X$ is a map $c$ from an interval $I\subset\mathbb{R}$ to $X$ with the property that for every $t\in I$ there exists $\varepsilon>0$ such that $d(c(t'),c(c''))=|t'-t''|$ for all $t',t''\in I$ with $|t-t'|+|t-t''|\le\varepsilon$.
 ***
 #### Keywords
-- [[Метрика]],
+- [[Metric space]],
 - [[Интервал]],
 - [[Открытое и замкнутое множества]],
 #### Possibly related

@@ -18,7 +18,7 @@
 - [[Vector space]],
 - [[Открытый шар]],
 - [[Convex set]],
-- [[Функция или отображение]],
+- [[Function(mapping)]],
 #### Possibly related
 - 
 ***

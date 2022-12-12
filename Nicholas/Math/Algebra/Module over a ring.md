@@ -16,7 +16,7 @@
 ***
 #### Keywords
 - [[Кольцо]],
-- [[Алгебраическая операция или Закон композиции]],
+- [[Law of composition]],
 - [[Abelian group]]
 #### Possibly related
 - 

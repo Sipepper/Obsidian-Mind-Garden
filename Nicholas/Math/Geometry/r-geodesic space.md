@@ -13,7 +13,7 @@
 >
 ***
 #### Keywords
-- [[Метрика]],
+- [[Metric space]],
 - [[Geodesic space]],
 - [[Geodesic path in metric space]],
 #### Possibly related

@@ -1,6 +1,6 @@
 # {{title}}
 ***
-###### tags: # 
+###### tags: #
 ***
 >[!dsn] Direct strict note
 >

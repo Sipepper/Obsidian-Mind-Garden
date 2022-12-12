@@ -12,7 +12,7 @@
 ***
 #### Keywords
 - [[Множество]],
-- [[Метрика]],
+- [[Metric space]],
 - [[Convex set]],
 - [[Geodesic path in metric space]]
 #### Possibly related

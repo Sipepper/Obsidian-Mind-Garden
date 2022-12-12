@@ -20,7 +20,7 @@
 - [[Множество]],
 - [[Topological vector space]],
 - [[Открытый шар]],
-- [[Метрика]],
+- [[Metric space]],
 - [[Geodesic path in metric space]]
 #### Possibly related
 - 

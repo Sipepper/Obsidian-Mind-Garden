@@ -14,7 +14,7 @@
 ***
 #### Keywords
 - [[Geodesic path in metric space]],
-- [[Метрика]]
+- [[Metric space]]
 #### Possibly related
 - 
 ***

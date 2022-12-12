@@ -31,7 +31,7 @@ If we define a transformation $x_{i}=x_{i}(z_{1},\dots,z_{n})$, then in coordina
 - [[Риманова метрика]],
 - [[Псевдориманова метрика]],
 - [[Скалярное произведение]],
-- [[Группа]]
+- [[Group]]
 #### Possibly related
 - 
 ***

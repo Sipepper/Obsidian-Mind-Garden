@@ -12,7 +12,7 @@
 >Euclidean space $\mathbb{E}^{n}$ is an example of proper metric space, as every closed ball $\overline{B}$ is exactly equal to closure of open ball $B$.
 ***
 #### Keywords
-- [[Метрика]],
+- [[Metric space]],
 - [[Открытый шар]],
 - [[Замыкание множества]],
 - [[Компактное множество]],

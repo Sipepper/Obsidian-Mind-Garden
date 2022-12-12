@@ -13,9 +13,9 @@
 ***
 #### Keywords
 - [[Множество]],
-- [[Метрика]],
-- [[Функция или отображение]],
-- [[Произведение множеств]]
+- [[Metric space]],
+- [[Function(mapping)]],
+- [[Product set]]
 #### Possibly related
 - 
 ***

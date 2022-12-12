@@ -14,7 +14,7 @@ If $$\forall \varepsilon \quad d_{1}(x,y)<\varepsilon\quad\Rightarrow\quad \exis
 >
 ***
 #### Keywords
-- [[Метрика]],
+- [[Metric space]],
 - [[Открытый шар]],
 - [[Topological space]],
 - [[Топология индуцированная метрикой]]

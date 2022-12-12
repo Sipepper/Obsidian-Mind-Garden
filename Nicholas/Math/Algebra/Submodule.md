@@ -11,7 +11,7 @@
 #### Keywords
 - [[Module over a ring]],
 - [[Множество]],
-- [[Алгебраическая операция или Закон композиции]]
+- [[Law of composition]]
 #### Possibly related
 - 
 ***

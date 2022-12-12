@@ -9,9 +9,9 @@
 >The additive group of $\mathbb{Q}$ is an abelian group.
 ***
 #### Keywords
-- [[Группа]],
+- [[Group]],
 - [[Множество рациональных чисел]],
-- [[Алгебраическая операция или Закон композиции]]
+- [[Law of composition]]
 #### Possibly related
 - 
 ***
