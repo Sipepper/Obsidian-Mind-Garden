@@ -26,7 +26,7 @@ fn main() {
 ```
 ***
 #### Keywords
-- [[Функции в Rust]],
+- [[Functions in Rust]],
 - [[How to define a variable in Rust]]
 #### Possibly related
 - 

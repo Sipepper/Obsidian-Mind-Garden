@@ -25,7 +25,7 @@ $$b=\sigma(a)=\sum\limits_{i\ge0}(p-1-a_{i})p^{i}$$
 #### Линки
 - [[Целое p-адическое число]],
 - [[Function(mapping)]],
-- [[Неподвижная точка]]
+- [[Fixed point]]
 #### Тэги
  #Analysis/p-adic 
 #### Источники

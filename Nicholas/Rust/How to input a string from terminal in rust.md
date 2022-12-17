@@ -26,7 +26,7 @@ In order:
 - [[How to define a variable in Rust]],
 - [[Error handling in Rust]],
 - [[Методы в Rust]],
-- [[Функции в Rust]],
+- [[Functions in Rust]],
 #### Possibly related
 - 
 ***

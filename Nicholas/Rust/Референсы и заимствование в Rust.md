@@ -187,7 +187,7 @@ fn no_dangle() -> String {
  [[Типы данных в Rust]],
  [[Ownership in Rust]],
  [[Типы данных в Rust]],
- [[Функции в Rust]],
+ [[Functions in Rust]],
  [[Области видимости в Rust]],
  [[How to define a variable in Rust]],
  

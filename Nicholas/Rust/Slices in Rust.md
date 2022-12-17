@@ -116,7 +116,7 @@ The slicea above will have a `&[i32]` type.
 - [[Iterable objects in Rust]],
 - [[Типы данных в Rust]],
 - [[Literals in Rust]],
-- [[Функции в Rust]],
+- [[Functions in Rust]],
 - [[Loops in Rust]],
 - [[Референсы и заимствование в Rust]],
 - [[UTF-8 encoding]],

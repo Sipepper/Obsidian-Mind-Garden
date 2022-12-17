@@ -10,6 +10,8 @@
 >[!proof]
 >
 
+>[!solution]
+>
 ***
 #### Keywords
 - 

@@ -28,9 +28,9 @@ $$B_{<r}(a)=B_{<r}(s_{n})\longleftrightarrow a_{0}a_{1}\dots a_{n}(\in\mathcal{M
 - [[Matrix representation]],
 - [[Determinant]],
 - [[Матрица]],
-- [[Порядок целого p-адического числа]],
-- [[p-адическая норма]],
-- [[p-адическая метрика]]
+- [[p-adic order]],
+- [[p-adic norm]],
+- [[p-adic metric]]
 #### Possibly related
 - [[Линейные группы]]
 ***

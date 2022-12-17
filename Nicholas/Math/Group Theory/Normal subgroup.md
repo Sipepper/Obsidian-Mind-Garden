@@ -17,7 +17,7 @@
 #### Keywords
 - [[Смежный класс]],
 - [[Класс сопряженных елементов]],
-- [[Автоморфизм]],
+- [[Group automorphism]],
 - [[Group]]
 #### Possibly related
 - 

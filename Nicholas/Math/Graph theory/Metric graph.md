@@ -36,7 +36,7 @@
 - [[Restriction and extension of a mapping]],
 - [[Affine map]],
 - [[Connected topological space]],
-- [[Супремум и инфинум]],
+- [[Supremum and infinum]],
 - [[Graph or 1-dimensional complex]],
 - [[Isometry]],
 - [[Полное метрическое пространство]],

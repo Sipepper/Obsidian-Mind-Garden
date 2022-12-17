@@ -129,7 +129,7 @@ impl Rectangle {
 ```
 ***
 #### Линки
-- [[Функции в Rust]],
+- [[Functions in Rust]],
 - [[Struct в Rust]],
  
 #### Тэги

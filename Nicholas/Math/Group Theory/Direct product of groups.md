@@ -60,8 +60,9 @@ $$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
 - [[Circle group]],
 - [[Множество действительных чисел]],
 - [[Множество]],
-- [[Локально циклическая группа]],
+- [[Locally cyclic group]],
 - [[Фактор группа]],
+- [[Quasi-cyclic group]]
 #### Possibly related
 - 
 ***

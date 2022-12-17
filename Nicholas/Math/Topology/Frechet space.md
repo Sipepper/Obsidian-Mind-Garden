@@ -11,7 +11,7 @@
 #### Keywords
 - [[Topological vector space]],
 - [[Локально выпуклое подмножество]],
-- [[Вполне метризуемое пространство]]
+- [[Completely metrizable space]]
 #### Possibly related
 - 
 ***

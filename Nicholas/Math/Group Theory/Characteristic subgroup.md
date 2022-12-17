@@ -24,7 +24,7 @@
 ***
 #### Keywords
 - [[Group]],
-- [[Автоморфизм]],
+- [[Group automorphism]],
 - [[Homomorphism]],
 - [[Фактор группа]],
 - [[Index of a subgroup]]

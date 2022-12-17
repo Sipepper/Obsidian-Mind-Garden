@@ -31,7 +31,7 @@
 - [[Изоморфизм групп]],
 - [[Set of integers]],
 - [[Residue ring]],
-- [[Автоморфизм]],
+- [[Group automorphism]],
 #### Possibly related
 - 
 ***

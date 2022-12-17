@@ -10,7 +10,7 @@
 #### Keywords
 - [[p-adic fraction]],
 - [[Фактор группа]],
-- [[p-группа]],
+- [[p-group]],
 - [[Множество комплексных чисел]],
 - [[Set of integers]]
 #### Possibly related

@@ -47,7 +47,7 @@
 - [[Product set]],
 - [[Множество]],
 - [[Space of all continuous functions on the interval]],
-- [[Супремум и инфинум]],
+- [[Supremum and infinum]],
 - [[Открытый шар]]
 #### Possibly related
 - 

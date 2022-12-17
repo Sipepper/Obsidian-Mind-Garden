@@ -42,7 +42,7 @@ Thus we `None` "goes to" `None` and no more code is envolved.
 #### Keywords
 - [[Option enum]],
 - [[match в Rust]],
-- [[Функции в Rust]],
+- [[Functions in Rust]],
 - [[How to define a variable in Rust]],
 #### Possibly related
 - 
