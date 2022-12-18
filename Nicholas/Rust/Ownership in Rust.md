@@ -68,7 +68,7 @@ fn takes_and_gives_back(a_string: String) -> String { // a_string comes into sco
 - [[Области видимости в Rust]],
 - [[How to define a variable in Rust]],
 - [[Functions in Rust]],
-- [[Свойство копирования типа данных]],
+- [[Copy trait]],
 - [[Утверждения и Выражения в Rust]]
 #### Possibly related
 - 

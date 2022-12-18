@@ -1,0 +1,21 @@
+# p-group
+***
+###### tags: #Group_Theory 
+***
+>[!dsn] Direct strict note
+>Torsion group $P$ is said to be a $p$-*group*, if all it's elements, different from neutral, have order equal to some power of prime $p$.
+
+>[!example] 
+>Cyclic group $C_{p^n}$ is a $p$-group. Because order of every element must divide the order of the group, thus every element has order of some power of $p$.
+***
+#### Keywords
+- [[Torsion group]],
+- [[Порядок элемента в группе]],
+- [[Group]],
+- [[Cyclic group]],
+- [[Порядок группы]],
+- [[Lagrange's theorem for groups]]
+#### Possibly related
+- 
+***
+#### Sources:

@@ -2,19 +2,19 @@
 ***
 ###### tags: #Программирование/Rust  
 ***
-Создание неизменяемой переменной
+By default every variable in Rust is immutable, to create one we must use the `let` keyword
 ```rust
 fn main() {
     let x = 4;
 }
 ```
-Создание изменяемой переменной
+To create a mutable variable, we use the `mut` keyword
 ``` rust
 fn main() {
 	let mut x =4;
 }
 ```
-Возможно изменить значение переменной не делая её изменяемым типом данных
+We can change the variable value not making it mutable
 ``` rust
 fn main() {
 	let x=4;
@@ -23,7 +23,7 @@ fn main() {
 	...
 }
 ```
-По сути создаётся "новая" переменная с таким же именем, и допустима следующая конструкция
+We creating a "new" variable with the same name, acceptable the following construction
 ``` rust
 fn main() {
 	let x=4;
@@ -32,7 +32,7 @@ fn main() {
 	...
 }
 ```
-При "перезаписывании" переменной мы можем изменить её тип
+When we "reassigning" value we can change the type of variable
 ``` rust
 fn main() {
 	let x=4;
@@ -41,7 +41,7 @@ fn main() {
 	...
 }
 ```
-Мы не можем изменить тип переменной, даже если она изменяемая, т.е. следующий код приведёт к ошибке
+But we cannot change the variable type without reassigning, even if it's a mutable variable
 ``` rust
 fn main() {
 	let mut x=4;
@@ -49,9 +49,11 @@ fn main() {
 	x="stroka";
 }
 ```
+will cause an error.
 ***
 #### Keywords
-- [[Типы данных в Rust]]
+- [[Типы данных в Rust]],
+- 
 #### Possibly related
 - 
 ***

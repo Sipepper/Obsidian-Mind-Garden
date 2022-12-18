@@ -38,7 +38,7 @@
 - [[Supremum and infinum]],
 - [[Открытый шар]],
 - [[Последовательность]],
-- [[Эпсилон сеть]]
+- [[Epsilon-net]]
 #### Possibly related
 - 
 ***

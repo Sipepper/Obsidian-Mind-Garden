@@ -49,7 +49,7 @@ In another words, we must convert `Option<T>` type to `T` before we can do somet
 - [[Prelude]],
 - [[Дженерики в Rust]],
 - [[Типы данных в Rust]],
-- [[Нумераторы в Rust]],
+- [[Enums in Rust]],
 
 #### Possibly related
 - 

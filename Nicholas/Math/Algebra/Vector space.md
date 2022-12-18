@@ -16,6 +16,15 @@
 
 >[!example] 
 >As an example we can take a vector space $\mathbb{R}^{2}$ which is a cartesian plane with "arrows" which we can add and multiply by a scalar.
+
+#### Subspace
+>[!dsn] Direct strict note
+>A subset $W$ of vector space $V$ is a *subspace*, if:
+>- If $w,w'\in W$, then $w+w'\in W$
+>- If $w\in W$ and $c\in\mathbb{F}$, then $cw\in W$.
+>- The zero vector $\theta$ is in $W$.
+
+>Also $W\subset V$ is a subspace if any linear combination(span) of elements from $W$ is in $W$.^[Michael Artin - "Algebra, 2nd edition"]
 ***
 #### Keywords
 - [[Field]],
