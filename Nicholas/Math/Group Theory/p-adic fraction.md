@@ -9,7 +9,7 @@
 
 ***
 #### Keywords
-- [[Множество рациональных чисел]],
+- [[Rational numbers]],
 - [[Abelian group]],
 - [[Множество]]
 #### Possibly related

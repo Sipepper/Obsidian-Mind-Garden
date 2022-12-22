@@ -17,7 +17,7 @@
 ***
 #### Keywords
 - [[Group]],
-- [[Сопряженные подгруппы]]
+- [[Conjugation in groups]]
 #### Possibly related
 - 
 ***

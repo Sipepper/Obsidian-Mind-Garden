@@ -13,6 +13,6 @@
 #### Keywords
 - [[Group]],
 #### Possibly related
-- [[Наибольший элемент, максимальный элемент и верхняя граница частично упорядоченного множества]]
+- [[Greatest element, upper bound and maximal element of a partially ordered set]]
 ***
 #### Sources:

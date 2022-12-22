@@ -12,7 +12,7 @@
 - [[Множество]],
 - [[Law of composition]],
 - [[Abelian group]],
-- [[Множество рациональных чисел]]
+- [[Rational numbers]]
 #### Possibly related
 - 
 ***

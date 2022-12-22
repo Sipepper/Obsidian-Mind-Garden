@@ -10,7 +10,7 @@
 ***
 #### Keywords
 - [[Group]],
-- [[Множество рациональных чисел]],
+- [[Rational numbers]],
 - [[Law of composition]]
 #### Possibly related
 - 

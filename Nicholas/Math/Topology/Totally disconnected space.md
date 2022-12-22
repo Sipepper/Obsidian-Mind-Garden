@@ -21,7 +21,7 @@
 - [[Topological space]],
 - [[Connected topological space]],
 - [[Component of topological space]],
-- [[Множество рациональных чисел]],
+- [[Rational numbers]],
 - [[Подпространственная топология]],
 - [[Множество]]
 #### Possibly related
