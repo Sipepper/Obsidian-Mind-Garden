@@ -26,7 +26,7 @@
 - [[Group]],
 - [[Group automorphism]],
 - [[Homomorphism]],
-- [[Фактор группа]],
+- [[Quotient group]],
 - [[Index of a subgroup]]
 #### Possibly related
 - 

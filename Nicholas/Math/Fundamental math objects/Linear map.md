@@ -35,7 +35,7 @@
 >$(3)\Rightarrow(4)$:
 >Suppose that $U$ is metrizable and let $u_{n}\to\theta$. Let $K\in\mathbb{N}$, there exists a number $n_{K}\in\mathbb{N}$ such that if $n>n_{K}$, then $d(u_{n},\theta)<\frac{1}{K^{2}}$. Define $\gamma_{n}$ as $$\gamma_{n}=\begin{cases}1&n<n_{1}\\ K&n_{K}\le n<n_{K+1}\end{cases}$$ such that 
 >$$d(\gamma_{n}u_{n},\theta)=d(Ku_{n},\theta)\le Kd(u_{n},\theta)<K^{-1}$$ 
->Therefore, because $(2)\Rightarrow(3)$ we obtained that the sequence $\{f(\gamma_{n}u_{n})\}$ is bounded, and by [[Об ограниченности множества через последовательности|boundedness using sequences]] it follows that $f(u_{n})=\gamma^{-1}f(\gamma_{n}u_{n})\to\theta$ when $n\to\infty$.
+>Therefore, because $(2)\Rightarrow(3)$ we obtained that the sequence $\{f(\gamma_{n}u_{n})\}$ is bounded, and by [[Boundedness using subsequences|boundedness using sequences]] it follows that $f(u_{n})=\gamma^{-1}f(\gamma_{n}u_{n})\to\theta$ when $n\to\infty$.
 >
 >$(4)\Rightarrow(1)$:
 >Suppose that property $(1)$ is not holds; i.e. function $f$ is not continuous. Then exist some neighbourhood of zero $\mathcal{W}\subset V$ such that the preimage $f^{-1}(\mathcal{W})$ don't contain any neighbourhoods of zero in $U$. In particular, we can choose a sequence $\{u_{n}\}$ such that $u_{n}\in B_{1/n}(\theta)$ and $f(u_{n})\notin\mathcal{W}$ then $\{f(u_{n})\}$ is not converging to zero. Therefore $(4)$ will not hold.
@@ -50,7 +50,7 @@
 - [[Сбалансированное подмножество]],
 - [[Сходимость в топологическом векторном пространстве]],
 - [[Function(mapping)]],
-- [[Ограниченное множество]],
+- [[Bounded set]],
 - [[Прообраз функции]],
 #### Possibly related
 - 

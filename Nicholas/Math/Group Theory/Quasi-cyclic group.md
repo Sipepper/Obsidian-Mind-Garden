@@ -9,7 +9,7 @@
 ***
 #### Keywords
 - [[p-adic fraction]],
-- [[Фактор группа]],
+- [[Quotient group]],
 - [[p-group]],
 - [[Множество комплексных чисел]],
 - [[Set of integers]]

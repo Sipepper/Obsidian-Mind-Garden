@@ -16,8 +16,8 @@
 - [[Topological space]],
 - [[Непрерывное отображение]],
 - [[Множество действительных чисел]],
-- [[Целое p-адическое число]],
-- [[Кольцо целых p-адических чисел]]
+- [[Ring of p-adic integers]],
+- [[Ring of p-adic integers]]
 #### Possibly related
 - 
 ***

@@ -15,8 +15,8 @@
 >Normal subgroup can be defined as a subgroup invariant to all inner automorphisms.
 ***
 #### Keywords
-- [[Смежный класс]],
-- [[Класс сопряженных елементов]],
+- [[Group coset]],
+- [[Conjugacy class]],
 - [[Group automorphism]],
 - [[Group]]
 #### Possibly related

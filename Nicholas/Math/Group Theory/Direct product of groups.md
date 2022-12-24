@@ -61,7 +61,7 @@ $$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
 - [[Множество действительных чисел]],
 - [[Множество]],
 - [[Locally cyclic group]],
-- [[Фактор группа]],
+- [[Quotient group]],
 - [[Quasi-cyclic group]]
 #### Possibly related
 - 
