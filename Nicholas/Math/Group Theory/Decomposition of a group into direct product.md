@@ -19,7 +19,7 @@ $$G\cong\prod_{i\in I}H_{i}$$
 - [[Normal subgroup]],
 - [[Direct product of groups]],
 - [[Dihedral group]],
-- [[Изоморфизм групп]],
+- [[Isomorphism]],
 #### Possibly related
 - 
 ***

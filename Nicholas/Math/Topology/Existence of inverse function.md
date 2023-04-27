@@ -13,8 +13,8 @@
 ***
 #### Keywords
 - [[Function(mapping)]],
-- [[Множество]],
-- [[Обратная функция]]
+- [[Set]],
+- [[Inverse function]]
 #### Possibly related
 - 
 ***

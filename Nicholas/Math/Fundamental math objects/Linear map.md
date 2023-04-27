@@ -42,16 +42,16 @@
 ***
 #### Keywords
 - [[Linear map]],
-- [[Непрерывное отображение]],
-- [[Ограниченная функция]],
-- [[Последовательность]],
-- [[Метризуемое пространство]],
-- [[Окрестность точки]],
-- [[Сбалансированное подмножество]],
-- [[Сходимость в топологическом векторном пространстве]],
+- [[Continuous mapping]],
+- [[Bounded mapping]],
+- [[Sequence]],
+- [[Metrizable space]],
+- [[Neighborhood in topological space]],
+- [[Balanced subsets of topological vector spaces]],
+- [[Convergence in topological vector spaces]],
 - [[Function(mapping)]],
 - [[Bounded set]],
-- [[Прообраз функции]],
+- [[Preimage]],
 #### Possibly related
 - 
 ***

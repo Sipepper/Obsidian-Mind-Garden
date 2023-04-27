@@ -13,8 +13,8 @@
 #### Keywords
 - [[Vector space]],
 - [[Field]],
-- [[Линейно зависимые вектора]],
+- [[Linearly dependent vectors]],
 #### Possibly related
-- [[Вектор]]
+- [[Vector]]
 ***
 #### Sources:

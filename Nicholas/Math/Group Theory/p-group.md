@@ -10,10 +10,10 @@
 ***
 #### Keywords
 - [[Torsion group]],
-- [[Порядок элемента в группе]],
+- [[Order of element in group]],
 - [[Group]],
 - [[Cyclic group]],
-- [[Порядок группы]],
+- [[Group order]],
 - [[Lagrange's theorem for groups]]
 #### Possibly related
 - 

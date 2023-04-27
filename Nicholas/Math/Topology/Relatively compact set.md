@@ -9,10 +9,10 @@
 >Let $\mathbb{R}^{2}$ be Euclidean plane with usual topology, than open ball $B_{r}$ will be relatively compact, because closure $\overline{B_{r}}$ is a compact set.
 ***
 #### Keywords
-- [[Евклидово пространство]],
+- [[Euclidean space]],
 - [[Topological space]],
 - [[Closure of a set]],
-- [[Компактное множество]]
+- [[Compact set]]
 #### Possibly related
 - 
 ***

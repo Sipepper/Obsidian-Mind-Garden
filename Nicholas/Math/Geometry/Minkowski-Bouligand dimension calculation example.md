@@ -16,12 +16,12 @@
 >$$\overline{\dim}_{B}F\le\frac{1}{2}$$
 ***
 #### Keywords
-- [[Компактное множество]],
-- [[Интервал]],
-- [[Размерность Минковского-Булигана]],
+- [[Compact set]],
+- [[Interval]],
+- [[Box counting dimension]],
 - [[Set diameter]],
-- [[Дельта покрытие]],
-- [[Покрытие множества]],
+- [[Delta covering]],
+- [[Covering of a set]],
 #### Possibly related
 - 
 ***

@@ -18,10 +18,10 @@
 >
 ***
 #### Keywords
-- [[Евклидово пространство]],
-- [[Евклидова топология]],
-- [[Подпространственная топология]],
-- [[Последовательность]]
+- [[Euclidean space]],
+- [[Euclidean topology]],
+- [[Subspace topology]],
+- [[Sequence]]
 #### Possibly related
 - 
 ***

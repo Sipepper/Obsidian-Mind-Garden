@@ -18,10 +18,10 @@
 >Thus ordered basis $e_{1},e_{3},e_{2}$ is negative, because matrix of change from this basis to $e_{1},e_{2},e_{3}$ has a determinant equal to $-1$.
 ***
 #### Keywords
-- [[Базис векторного пространства]],
+- [[Basis of vector space]],
 - [[Vector space]],
 - [[Determinant]],
-- [[Отношение эквивалентности]],
+- [[Equivalence relation]],
 - [[Change of basis matrix]]
 #### Possibly related
 - 

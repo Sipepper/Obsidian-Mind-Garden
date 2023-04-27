@@ -32,7 +32,7 @@ $$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
 >Such multiplication and constructions above can easily be continued on any finite number of groups.
 #### Case of an arbitrary cardinality
 >[!dsn] Direct strice note
->Suppose that we have some family of groups $G_{\alpha}$, $\alpha\in I$, then by *direct product* of this family of groups we mean some subset
+>Suppose that we have some family of groups $G_{\alpha}$, $\alpha\in I$, then by *restricted direct product* of this family of groups we mean some subset
 >$$\overline{\prod\limits_{\alpha\in I}}G_{\alpha}$$ 
 >of functions from *box product* of groups with *finite support*. By a law of composition we take a composition of two such functions.
 >A direct product is denoted as 
@@ -50,16 +50,16 @@ $$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
 ***
 #### Keywords
 - [[Group]],
-- [[Декартово произведение групп]],
+- [[Box product of groups]],
 - [[Function(mapping)]],
-- [[Мощность множества]],
+- [[Cardinality of a set]],
 - [[Homomorphism]],
-- [[Ядро и область значений отображения]],
+- [[Kernel and image of a mapping]],
 - [[Law of composition]],
-- [[Product set]],
+- [[Cartesian product of sets]],
 - [[Circle group]],
-- [[Множество действительных чисел]],
-- [[Множество]],
+- [[Real line]],
+- [[Set]],
 - [[Locally cyclic group]],
 - [[Quotient group]],
 - [[Quasi-cyclic group]]

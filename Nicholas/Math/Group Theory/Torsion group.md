@@ -12,7 +12,7 @@
 ***
 #### Keywords
 - [[Group]],
-- [[Порядок элемента в группе]],
+- [[Order of element in group]],
 - [[Dihedral group]],
 #### Possibly related
 - 

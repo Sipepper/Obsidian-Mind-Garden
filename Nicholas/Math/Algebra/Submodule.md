@@ -10,7 +10,7 @@
 ***
 #### Keywords
 - [[Module over a ring]],
-- [[Множество]],
+- [[Set]],
 - [[Law of composition]]
 #### Possibly related
 - 

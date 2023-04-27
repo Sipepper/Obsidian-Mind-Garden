@@ -9,13 +9,13 @@
 >Let $A:U\to V$ be such mapping, i.e. continuous linear bijection. Because $A$ is also an open mapping, then $A^{-1}$ will be continuous.
 ***
 #### Keywords
-- [[Непрерывное отображение]],
+- [[Continuous mapping]],
 - [[Linear map]],
-- [[Банахово пространство]],
-- [[Обратная функция]],
+- [[Banach space]],
+- [[Inverse function]],
 - [[Function(mapping)]],
-- [[Открытое и замкнутое отображение]],
-- [[Теорема об открытом отображении]]
+- [[Open and closed mappings]],
+- [[Open mapping theorem]]
 #### Possibly related
 - 
 ***

@@ -13,8 +13,8 @@
 ***
 #### Keywords
 - [[Cofinite topology]],
-- [[Множество]],
-- [[Открытое и замкнутое множества]],
+- [[Set]],
+- [[Open and closed subsets]],
 - [[Connected topological space]],
 - [[Topological space]]
 #### Possibly related

@@ -39,7 +39,7 @@
 - [[Supremum and infinum]],
 - [[Graph or 1-dimensional complex]],
 - [[Isometry]],
-- [[Полное метрическое пространство]],
+- [[Complete metric space]],
 - [[Geodesic path in metric space]]
 #### Possibly related
 - 

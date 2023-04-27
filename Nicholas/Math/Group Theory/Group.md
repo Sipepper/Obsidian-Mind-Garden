@@ -1,6 +1,6 @@
 # Group
 ***
-###### tags: #Group_Theory 
+###### tags: #Group_Theory #Fundamental_math_objects 
 ***
 >[!dsn] Direct strict note
 >Let $G$ be a set together with the law of composition $\cdot$ . Then it is called a *group* if:
@@ -22,11 +22,11 @@
 >Let $GL_{n}(\mathbb{R})$ be a set of all $n\times n$ matrices, then the subset $SL_{n}(\mathbb{R})$ which consists of all matrices with determinant equal to one is a subgroup of $GL_{n}(\mathbb{R})$ because multipying two matrices with the determinant equal to $1$ will always give us the matrix with determinant equal to $1$.
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Law of composition]],
-- [[Линейные группы]],
+- [[Linear groups]],
 - [[Determinant]],
-- [[Матрица]],
+- [[Matrix]],
 - [[Monoid]],
 #### Possibly related
 - 

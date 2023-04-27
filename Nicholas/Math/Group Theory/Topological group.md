@@ -2,22 +2,27 @@
 ***
 ###### tags: #Group_theory/Topological  
 ***
->[!dsn] Direct strict note
->Group $G$ endowed with a topology $\tau$ such that mapping $(\cdot,\cdot):G\times G\to G$ defined as $(x,y)\mapsto xy^{-1}$ is continuous is called a *topological group*.^[Alain M. Robert - "A course in p-adic analysis" c.18]
+>[!dsn] Direct strict note+
+>Let $(G,\tau)$ be a set $G$, that is a group, with a topology $\tau$ on $G$. Then $(G,\tau)$ is said to be a *topological group* if
+>- the mapping $(x,y)\mapsto xy$ of the product space $(G,\tau)\times(G,\tau)$ onto $(G,\tau)$ is continuous, and
+>- the mapping $x\mapsto x^{-1}$ of $(G,\tau)$ onto $(G,\tau)$ is continuous.^[Sidney A. Morris - "Topology without tears" p.512]
 
->[!example] 
->Set of all real numbers $\mathbb{R}$ is a topological group with respect to addition.
+>[!example]+ 
+>The additive group of real numbers with the euclidean topology is a topological group, usually denoted by $\mathbb{R}$.^[Sidney A. Morris - "Topology without tears" p.513]
 
->[!example]
->Set of all $p$-adic integers $\mathbb{Z}_{p}$ is also a topological group. With respect to $p$-adic metric.
+>[!example]+
+>Set of all $p$-adic integers $\mathbb{Z}_{p}$ is also a topological group. With respect to $p$-adic metric.^[Alain M. Robert - "A course in p-adic analysis" c.18]
+
+>Of course not every topology on a group makes it into a topological group. If a topology $\tau$ on a group $G$ makes $(G,\tau)$ into a topological group, then $\tau$ is said to be a *group topology*.
 ***
 #### Keywords
 - [[Group]],
+- [[Set]],
 - [[Topological space]],
-- [[Непрерывное отображение]],
-- [[Множество действительных чисел]],
+- [[Cartesian product of sets]]
+- [[Continuous mapping]],
+- [[Real line]],
 - [[Ring of p-adic integers]],
-- [[Ring of p-adic integers]]
 #### Possibly related
 - 
 ***

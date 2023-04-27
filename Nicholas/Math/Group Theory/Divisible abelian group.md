@@ -12,7 +12,7 @@
 ***
 #### Keywords
 - [[Abelian group]],
-- [[Множество натуральных чисел]],
+- [[Set of natural numbers]],
 - [[Rational numbers]],
 - [[Quasi-cyclic group]]
 #### Possibly related

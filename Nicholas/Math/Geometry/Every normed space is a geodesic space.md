@@ -14,9 +14,9 @@
 ***
 #### Keywords
 - [[Geodesic path in metric space]],
-- [[Норма]],
+- [[Normed space]],
 - [[Vector space]],
-- [[Открытый шар]],
+- [[Open ball in metric space]],
 - [[Convex set]],
 - [[Function(mapping)]],
 #### Possibly related

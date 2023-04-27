@@ -18,18 +18,19 @@
 >Therefore by definition of closed set, the set $\Gamma(u)$ contains all of it's limit points. Thus closed.  
 ***
 #### Keywords
-- [[График оператора]],
-- [[Банахово пространство]],
+- [[Graph of a function]],
+- [[Banach space]],
 - [[Linear operator]],
 - [[Bounded operator]],
-- [[Открытое и замкнутое множества]],
-- [[Direct product of vector spaces]],
-- [[Норма]],
-- [[Непрерывное отображение]],
+- [[Open and closed subsets]],
+- [[Direct sum of vector spaces]],
+- [[Normed space]],
+- [[Continuous mapping]],
 - [[Function(mapping)]],
 - [[Strong convergence]],
-- [[Предельная точка топологического пространства]],
+- [[Limit point in topological space]],
+- [[Projection map in product spaces]]
 #### Possibly related
-- [[Проекция произведения топологических пространств]]
+- [[Projection map in product spaces]]
 ***
 #### Sources:

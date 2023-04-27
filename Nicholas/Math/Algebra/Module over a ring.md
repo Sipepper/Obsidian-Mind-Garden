@@ -15,7 +15,7 @@
 >
 ***
 #### Keywords
-- [[Кольцо]],
+- [[Ring]],
 - [[Law of composition]],
 - [[Abelian group]]
 #### Possibly related

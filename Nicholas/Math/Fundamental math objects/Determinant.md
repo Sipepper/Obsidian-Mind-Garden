@@ -32,7 +32,7 @@ For the $n\times n$ matrices following decomposition is true. $$\Delta=\sum\limi
 - $\det(A^{-1})=(\det A)^{-1}$, moreover matrix is invertible if and only if it has nonzero determinant.
 ***
 #### Keywords
-- [[Матрица]],
+- [[Matrix]],
 - [[Vector space]],
 #### Possibly related
 - [[Linear map]],

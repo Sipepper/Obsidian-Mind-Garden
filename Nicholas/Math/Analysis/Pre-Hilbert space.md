@@ -1,6 +1,6 @@
 # Pre-Hilbert space
 ***
-###### tags: # 
+###### tags: #Topology  
 ***
 >[!dsn] Direct strict note
 >Let $H$ be a vector space. The space $H$ is called a *Pre-Hilbert space* if exists mapping $(\cdot,\cdot)_{H}:H\times H\to\mathbb{R}$ such that
@@ -17,8 +17,8 @@
 #### Keywords
 - [[Vector space]],
 - [[Function(mapping)]],
-- [[Product set]],
-- [[Скалярное произведение]],
+- [[Cartesian product of sets]],
+- [[Inner product]],
 #### Possibly related
 - [[Билинейная форма]]
 ***

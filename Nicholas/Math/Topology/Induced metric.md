@@ -11,8 +11,8 @@
 ***
 #### Keywords
 - [[Metric space]],
-- [[Ограничение и продолжение отображения]],
-- [[Product set]]
+- [[Restriction and extension of a mapping]],
+- [[Cartesian product of sets]]
 #### Possibly related
 - 
 ***

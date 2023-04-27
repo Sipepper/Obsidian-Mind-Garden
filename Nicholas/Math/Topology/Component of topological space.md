@@ -41,11 +41,11 @@
 #### Keywords
 - [[Topological space]],
 - [[Connected topological space]],
-- [[Открытое и замкнутое множества]],
-- [[Подпространственная топология]],
+- [[Open and closed subsets]],
+- [[Subspace topology]],
 - [[Closure of a set]],
-- [[Евклидова топология]]
+- [[Euclidean topology]]
 #### Possibly related
-- [[Окрестность точки]]
+- [[Neighborhood in topological space]]
 ***
 #### Sources:

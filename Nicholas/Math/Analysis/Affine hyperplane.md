@@ -18,13 +18,13 @@
 >
 ***
 #### Keywords
-- [[Банахово пространство]],
-- [[Множество]],
-- [[Дуальное топологическое пространство]],
-- [[Открытое и замкнутое множества]],
+- [[Banach space]],
+- [[Set]],
+- [[Dual topological space]],
+- [[Open and closed subsets]],
 - [[Functional]],
-- [[Непрерывное отображение]],
-- [[Предельная точка топологического пространства]]
+- [[Continuous mapping]],
+- [[Limit point in topological space]]
 #### Possibly related
 - 
 ***

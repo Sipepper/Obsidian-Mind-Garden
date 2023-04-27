@@ -9,10 +9,10 @@
 >Let $H=\mathbb{R}^{3}$ and $M$ be a plane in space, then the orthogonal complement to $M$ will be a line which is perpendicular to plane $M$ and goes through origin, i.e. $1$-dimensional subset of $\mathbb{R}^{3}$.
 ***
 #### Keywords
-- [[Гильбертово пространство]],
-- [[Множество]],
-- [[Скалярное произведение]],
-- [[Евклидово пространство]],
+- [[Hilbert space]],
+- [[Set]],
+- [[Inner product]],
+- [[Euclidean space]],
 - [[Dimension of a vector space]]
 #### Possibly related
 - 

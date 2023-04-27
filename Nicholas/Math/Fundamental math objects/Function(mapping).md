@@ -16,8 +16,8 @@ Let $f$ be a functino from a sset $X$ to set $Y$.
 ***
 #### Keywords
 - [[Topological space]],
-- [[Product set]],
-- [[Множество]]
+- [[Cartesian product of sets]],
+- [[Set]]
 #### Possibly related
 - 
 ***

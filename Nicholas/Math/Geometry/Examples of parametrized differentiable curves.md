@@ -3,11 +3,11 @@
 ###### tags: #Geometry/Differential  
 ***
 >[!example]
->Parametrized differentiable curve defined as $$\alpha(t)(a\cos(t),a\sin(t),bt),\quad t\in\mathbb{R}$$ have trace in $\mathbb{R}^{3}$ in form of spiral with step $2\pi b$ with a cylinder $x^{2}+y^{2}=a^{2}$. Parameter $t$ is responsible for angle between $x$ axis and projection of $\alpha(t)$ on $xy$ plane 
+>Parametrized differentiable curve defined as $$\alpha(t)=(a\cos(t),a\sin(t),bt),\quad t\in\mathbb{R}$$ have trace in $\mathbb{R}^{3}$ in form of spiral with step $2\pi b$ with a cylinder $x^{2}+y^{2}=a^{2}$. Parameter $t$ is responsible for angle between $x$ axis and projection of $\alpha(t)$ on $xy$ plane 
 >![[Pasted image 20220519115056.png]]
 
 >[!example]
->Mapping $\alpha:\mathbb{r}\to\mathbb{R}^{2}$ defined by $\alpha(t)=(t^{3},t^{2})$, $t\in\mathbb{R}$, is a parametrized differentiable curve. Note that $\alpha'(0)=(0,0)$; i.e. tangent vector is a null vector for $t=0$.
+>Mapping $\alpha:\mathbb{R}\to\mathbb{R}^{2}$ defined by $\alpha(t)=(t^{3},t^{2})$, $t\in\mathbb{R}$, is a parametrized differentiable curve. Note that $\alpha'(0)=(0,0)$; i.e. tangent vector is a null vector for $t=0$.
 >![[Pasted image 20220519115751.png]]
 
 >[!example]
@@ -23,10 +23,10 @@
 >![[Pasted image 20220519120731.png]]
 ***
 #### Keywords
-- [[Параметризованная дифференцируемая кривая]],
+- [[Parametrized differentiable curve in euclidean space]],
 - [[Tangent vector and trace of the curve]],
 - [[Function(mapping)]],
-- [[Производная функции]]
+- [[Function derivative]]
 #### Possibly related
 - 
 ***

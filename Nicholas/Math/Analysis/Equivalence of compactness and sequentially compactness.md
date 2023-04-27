@@ -17,7 +17,7 @@
 >Because $$d(u_{n_{k}},u_{0})<\frac{\delta(u_{0})}{4},\quad k>K_{0}$$ we get $$B_{\frac{\delta(u_{0})}{2}}(u_{0})\supset B_{\frac{\delta(u_{0})}{4}}(u_{n_{k}}),\quad k>K_{0}$$ such that $$\delta(u_{n_{k}})\ge\frac{\delta(u_{0})}{4},\quad\forall k>K_{0}$$
 >Therefore $$\lim_{k\to\infty}\delta(u_{n_{k}})=\delta_{0}\ge\frac{\delta(u_{0})}{4}$$
 >Now choose $\varepsilon>0$ such that $$\delta_{0}>\varepsilon>0$$
->By theorem [[Теорема о вполне-ограниченности через подпоследовательности]] it follows that $A$ is completely bounded set. For $\varepsilon$ chosen before we choose a $\varepsilon$-net which is contained in $A$ and denote it by $N$
+>By theorem [[Total-boundedness by subsequences]] it follows that $A$ is completely bounded set. For $\varepsilon$ chosen before we choose a $\varepsilon$-net which is contained in $A$ and denote it by $N$
 >$$N=\set{v_{1},\dots,v_{n}}\subset A$$
 >Because $\delta>\varepsilon$, there exists $$\alpha_{1},\dots,\alpha_{n}\in L$$ such that $$B_{\varepsilon}(v_{i})\subset G_{\alpha},\quad\forall i\in\set{1,\dots,n}$$ noting that $$\delta(v_{i})\ge\delta_{0}>\varepsilon>0,\quad\forall i\in\set{1,\dots,n}$$
 >Because for $A$, $N$ is an $\varepsilon$-net we get $$u\in\bigcup_{i=1}^{n}B_{\varepsilon}(v_{i})\subset\bigcup_{i=1}^{n}G_{\alpha_{i}}$$
@@ -29,15 +29,15 @@
 >
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Metric space]],
-- [[Компактное множество]],
-- [[Последовательно компактное множество]],
-- [[Покрытие множества]],
-- [[Открытое и замкнутое множества]],
+- [[Compact set]],
+- [[Sequentially compact set]],
+- [[Covering of a set]],
+- [[Open and closed subsets]],
 - [[Supremum and infinum]],
-- [[Открытый шар]],
-- [[Последовательность]],
+- [[Open ball in metric space]],
+- [[Sequence]],
 - [[Epsilon-net]]
 #### Possibly related
 - 

@@ -13,12 +13,12 @@
 >
 ***
 #### Keywords
-- [[Базис топологии]],
-- [[Мощность множества]],
+- [[Topology basis]],
+- [[Cardinality of a set]],
 - [[Topological space]],
-- [[Топология произведения]],
-- [[Открытое и замкнутое множества]],
-- [[Множество]]
+- [[Product topology]],
+- [[Open and closed subsets]],
+- [[Set]]
 #### Possibly related
 - 
 ***

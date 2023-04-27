@@ -15,10 +15,10 @@ If $$\forall \varepsilon \quad d_{1}(x,y)<\varepsilon\quad\Rightarrow\quad \exis
 ***
 #### Keywords
 - [[Metric space]],
-- [[Открытый шар]],
+- [[Open ball in metric space]],
 - [[Topological space]],
-- [[Топология индуцированная метрикой]]
+- [[Topology induced by a metric]]
 #### Possibly related
-- [[Отношение эквивалентности]]
+- [[Equivalence relation]]
 ***
 #### Sources:

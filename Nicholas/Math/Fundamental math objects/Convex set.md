@@ -14,12 +14,12 @@
 
 ###### Metric spaces case
 >[!dsn] Direct  strict note
->A subset $C$ of a metric space $(X,d)$ is said to be *convex* if every pari of points $x,y\in C$ can be joined by a geodesin in $X$ and the image of every such geodesic is contained in $C$.^[Martin R. Bridson, Andre Haefliger - "Metric spaces of non-positive curvature" p.4]
+>A subset $C$ of a metric space $(X,d)$ is said to be *convex* if every pair of points $x,y\in C$ can be joined by a geodesic in $X$ and the image of every such geodesic is contained in $C$.^[Martin R. Bridson, Andre Haefliger - "Metric spaces of non-positive curvature" p.4]
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Topological vector space]],
-- [[Открытый шар]],
+- [[Open ball in metric space]],
 - [[Metric space]],
 - [[Geodesic path in metric space]]
 #### Possibly related

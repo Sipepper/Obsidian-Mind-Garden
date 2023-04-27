@@ -27,10 +27,10 @@
 >Points in mechanical system are changing in differentiable manner. 
 ***
 #### Keywords
-- [[Фазовое пространство]],
-- [[Производная функции]],
-- [[Гладкая функция]],
-- [[Гладкое многообразие]]
+- [[Phase space]],
+- [[Function derivative]],
+- [[Smooth function]],
+- [[Smooth manifold]]
 #### Possibly related
 - 
 ***

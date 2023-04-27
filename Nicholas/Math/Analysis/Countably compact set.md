@@ -17,14 +17,14 @@
 >Choose a sequence $\{x_{1},x_{2},\dots\}\subset B$ and denote it by $F$. Because $B$ has no limits points, $F$ as well has no limit point. Therefore, for any $n\in\mathbb{N}$ there exists and open set $O_{n}$ such that $O_{n}\cap F=\{x_{n}\}$. Also, for all $x\in A\setminus F$, exists $O_{x}$ such that $x\in O_{x}$ and $O_{x}\cap F=\emptyset$. Thus $\set{O_{x},x\in A\setminus F}$ is an open covering of $A$ without finite subcover which contradicts compactness of $A$.
 ***
 #### Keywords
-- [[Множество]],
-- [[Мощность множества]],
-- [[Предельная точка топологического пространства]],
-- [[Компактное множество]],
+- [[Set]],
+- [[Cardinality of a set]],
+- [[Limit point in topological space]],
+- [[Compact set]],
 - [[Topological space]],
-- [[Последовательность]],
-- [[Открытое и замкнутое множества]],
-- [[Покрытие множества]],
+- [[Sequence]],
+- [[Open and closed subsets]],
+- [[Covering of a set]],
 #### Possibly related
 - 
 ***

@@ -1,6 +1,6 @@
 # Topological space
 ***
-###### tags: #Topology 
+###### tags: #Topology #Fundamental_math_objects 
 ***
 #### Topology on a set
 >[!dsn] Direct strict note
@@ -25,9 +25,9 @@ Then $\tau_2$ is *not* a topology on $X$ because a union $$\{c,d\}\cup\{a,c,e\}=
 >Let $X=\mathbb{N}$ and $\tau_4$ consists of $\mathbb{N}$,$\emptyset$, and all finite subsets of $\mathbb{N}$. Then $\tau_4$ is not a topology on $\mathbb{N}$, because the infinite union $$\{2\}\cup\{3\}\cup\dots\cup\{n\}\cup\dots = \{2,3,\dots,n,\dots\}\notin\tau_4$$ not in topology $\tau_4$.
 ***
 #### Keywords
-- [[Множество]],
-- [[Мощность множества]],
-- [[Множество натуральных чисел]]
+- [[Set]],
+- [[Cardinality of a set]],
+- [[Set of natural numbers]]
 #### Possibly related
 - 
 ***

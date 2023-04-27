@@ -27,10 +27,10 @@
 - [[Monoid]],
 - [[Function(mapping)]],
 - [[Determinant]],
-- [[Линейные группы]],
+- [[Linear groups]],
 - [[Кольцо вычетов]],
 - [[Set of integers]],
-- [[Ядро и область значений отображения]]
+- [[Kernel and image of a mapping]]
 #### Possibly related
 - 
 ***

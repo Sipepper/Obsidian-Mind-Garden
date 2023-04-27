@@ -12,8 +12,8 @@
 ***
 #### Keywords
 - [[Function(mapping)]],
-- [[Множество]],
-- [[Product set]],
+- [[Set]],
+- [[Cartesian product of sets]],
 #### Possibly related
 - 
 ***

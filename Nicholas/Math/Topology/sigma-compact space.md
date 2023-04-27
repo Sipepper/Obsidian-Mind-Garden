@@ -13,12 +13,12 @@
 ***
 #### Keywords
 - [[Topological space]],
-- [[Открытый шар]],
-- [[Компактное множество]],
-- [[Множество]],
-- [[Последовательность]],
-- [[Евклидово пространство]],
-- [[Открытое и замкнутое множества]]
+- [[Open ball in metric space]],
+- [[Compact set]],
+- [[Set]],
+- [[Sequence]],
+- [[Euclidean space]],
+- [[Open and closed subsets]]
 #### Possibly related
 - 
 ***

@@ -11,7 +11,7 @@
 ***
 #### Keywords
 - [[Group]], 
-- [[Порядок элемента в группе]],
+- [[Order of element in group]],
 - [[Set of integers]],
 - [[Cyclic group]]
 #### Possibly related

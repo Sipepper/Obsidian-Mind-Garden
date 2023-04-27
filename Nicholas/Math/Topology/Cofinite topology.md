@@ -9,10 +9,10 @@
 >Let $X=\mathbb{R}$ then the family $\tau=\set{\emptyset,\mathbb{R}\setminus\{1\},\mathbb{R}\setminus\{2\},\mathbb{R}\setminus\{1,2\},\mathbb{R}}$ is a cofinite topology on $\mathbb{R}$.
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Topological space]],
-- [[Открытое и замкнутое множества]],
-- [[Множество действительных чисел]]
+- [[Open and closed subsets]],
+- [[Real line]]
 #### Possibly related
 - 
 ***

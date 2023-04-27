@@ -28,12 +28,12 @@
 ***
 #### Keywords
 - [[Sphere]],
-- [[Открытый шар]],
+- [[Open ball in metric space]],
 - [[Linear span]],
-- [[Sequence space]],
+- [[Sequence spaces]],
 - [[Orthogonal complement]],
-- [[Множество]],
-- [[Ортонормированный базис]],
+- [[Set]],
+- [[Orthonormal basis]],
 #### Possibly related
 - 
 ***

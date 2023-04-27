@@ -1,6 +1,6 @@
 # Vector space
 ***
-###### tags: #Algebra/Linear  
+###### tags: #Algebra/Linear #Fundamental_math_objects  
 ***
 >[!dsn] Direct strict note
 > A set $V$ is called a *vector space* over field $\mathbb{F}$, where elements of this set are called *vectors* for which defined two algebraic operations $(+):V\times V\to V$ and multiplication by a scalar $(\cdot):\mathbb{F}\times V\to V$, satisfying following properties^[F.Botelho, Functional Analysis and Applied optimization in Banach Spaces с.3]: 
@@ -28,10 +28,11 @@
 ***
 #### Keywords
 - [[Field]],
-- [[Множество]],
+- [[Set]],
 - [[Law of composition]],
-- [[Product set]]
+- [[Cartesian product of sets]],
+- [[Linear span]]
 #### Possibly related
-- [[Вектор]]
+- [[Vector]]
 ***
 #### Sources:

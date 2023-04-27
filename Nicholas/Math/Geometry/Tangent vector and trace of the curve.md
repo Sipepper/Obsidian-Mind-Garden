@@ -12,9 +12,9 @@
 > Let $\alpha(t)=(t^{2},t,t^{3})$ be a parametrized differentiable curve, then its tangent vector will have form $$\alpha'(t)=(2t,1,3t^{2})$$ in point $t$.
 ***
 #### Keywords
-- [[Вектор]],
-- [[Параметризованная дифференцируемая кривая]],
-- [[Производная функции]]
+- [[Vector]],
+- [[Parametrized differentiable curve in euclidean space]],
+- [[Function derivative]]
 #### Possibly related
 - 
 ***

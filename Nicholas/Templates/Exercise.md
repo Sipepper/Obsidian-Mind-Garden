@@ -1,6 +1,6 @@
 # {{title}}
 ***
-###### status: #
+###### exercise type: #
 ***
 ###### tags: # 
 ***

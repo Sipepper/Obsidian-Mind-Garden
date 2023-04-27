@@ -1,3 +1,4 @@
+# Index of a subgroup
 ***
 ###### tags: #Group_Theory  
 ***
@@ -18,11 +19,11 @@
 >Let $[G:H]=m$ and $[H:K]=n$. We can list the $m$ cosets of $H$ in $G$ by choosing the representative elements for each coset, say $g_{1}H,\dots,g_{m}H$. Then $g_{1}H\cup\dots\cup g_{m}H$ is a partition of $G$. Similarly, we choose representative elements for each coset of $K$ in $H$, obtaining a partition $H=h_{1}K\cup\dots\cup h_{n}K$. Since multiplication by $g_{i}$ is an invertible operation, $g_{i}H=g_{i}h_{1}K\cup\dots\cup g_{i}h_{n}K$ will be a partition of the coset $g_{o}H$. Putting these partitions together, $G$ is partitionaed into the $mn$ costs $g_{i}h_{j}K$.
 ***
 #### Keywords
-- [[Мощность множества]],
+- [[Cardinality of a set]],
 - [[Group coset]],
 - [[Group]],
 - [[Set of integers]],
-- [[Множество]],
+- [[Set]],
 - [[Function(mapping)]]
 #### Possibly related
 - 

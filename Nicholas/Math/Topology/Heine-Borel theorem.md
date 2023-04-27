@@ -13,14 +13,14 @@
 >Every compact subset of $\mathbb{R}$ is closed and bounded.
 
 >[!proof]
->That follows from [[О замкнутых подмножествах компактного пространства]] and [[О компактных подмножествах множества действительных чисел]]
+>That follows from [[Closed subset of compact space is compact]] and [[Compact subset in euclidean topology is bounded]]
 ***
 #### Keywords
-- [[Открытое и замкнутое множества]],
+- [[Open and closed subsets]],
 - [[Bounded set]],
-- [[Множество действительных чисел]],
-- [[Компактное множество]],
-- [[Интервал]],
+- [[Real line]],
+- [[Compact set]],
+- [[Interval]],
 
 #### Possibly related
 - 

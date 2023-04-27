@@ -10,7 +10,7 @@
 ***
 #### Keywords
 - [[Topological vector space]],
-- [[Локально выпуклое подмножество]],
+- [[Locally convex topological vector space]],
 - [[Completely metrizable space]]
 #### Possibly related
 - 

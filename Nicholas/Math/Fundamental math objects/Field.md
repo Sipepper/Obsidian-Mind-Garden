@@ -9,7 +9,7 @@
 >The set $\mathbb{Q}$ of all rational numbers has a field structure with respect to the default addition and multiplication.
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Law of composition]],
 - [[Abelian group]],
 - [[Rational numbers]]

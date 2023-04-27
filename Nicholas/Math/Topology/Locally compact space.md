@@ -18,10 +18,10 @@
 ***
 #### Keywords
 - [[Topological space]],
-- [[Базис топологии]],
+- [[Topology basis]],
 - [[Relatively compact set]],
-- [[Окрестность точки]],
-- [[Компактное множество]]
+- [[Neighborhood in topological space]],
+- [[Compact set]]
 #### Possibly related
 - 
 ***

@@ -11,7 +11,7 @@
 >
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Metric space]],
 - [[Convex set]],
 - [[Geodesic path in metric space]]

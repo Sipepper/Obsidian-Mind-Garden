@@ -17,14 +17,14 @@
 >and so $g$ is indeed an isometry, as required.
 ***
 #### Keywords
-- [[Полное метрическое пространство]],
-- [[Множество]],
+- [[Complete metric space]],
+- [[Set]],
 - [[Induced metric]],
-- [[Плотное подмножество]],
+- [[Dense subset]],
 - [[Isometry]],
-- [[Последовательность]],
-- [[Последовательность Коши]],
-- [[Пополнение метрического пространства]]
+- [[Sequence]],
+- [[Cauchy sequence]],
+- [[Completion of a metric space]]
 #### Possibly related
 ***
 #### Sources:

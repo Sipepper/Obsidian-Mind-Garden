@@ -18,9 +18,9 @@ The image $\alpha$ of $c$ is called a *geodesic segment* with endpoints $x$ and 
 ***
 #### Keywords
 - [[Metric space]],
-- [[Интервал]],
-- [[Открытое и замкнутое множества]],
+- [[Interval]],
+- [[Open and closed subsets]],
 #### Possibly related
-- [[Регулярные кривые, длина дуги и натуральная параметризация в евклидовом пространстве]]
+- [[Regular curves, arc length and natural parametrization]]
 ***
 #### Sources:

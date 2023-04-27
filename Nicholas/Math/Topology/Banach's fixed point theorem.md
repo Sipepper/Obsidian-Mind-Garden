@@ -14,7 +14,7 @@
 >$$d(f^{m}(x),f^{n}(x))=d(f^{m}(x),f^{m}(f^{n-m}(x)))$$
 >$$\begin{align}d(f^{m}(x),f^{m}(f^{n-m}(x)))&\le r^{m}d(x,f^{n-m}(x))\\ &\le r^{m}(d(x,f(x))+d(f(x),f^{2}(x))+\dots+d(f^{n-m-1}(x),f^{n-m}(x)))\\ &\le r^{m}d(x,f(x))(1+r+r^{2}+\dots+r^{n-m-1})\\ &\le \frac{r^{m}a}{1-r} \end{align}$$
 >Because $r<1$, it's clear that $\set{f^{n}(x)}$ is a Cauchy sequence. Since $(X,d)$ is a complete metric space, there exists $z\in X$, such that $f^{n}(x)\to z$.
->From a [[Сжимающее отображение#6.4.3. О непрерывности сжимающего отображения|continuity of the contraction mapping]] we know that $f$ is a continuous mapping, that is
+>From a [[Contraction mapping#6.4.3. О непрерывности сжимающего отображения|continuity of the contraction mapping]] we know that $f$ is a continuous mapping, that is
 >$$f(z)=f\left(\lim_{n\to\infty}f^{n}(x)\right)=\lim_{n\to\infty}f^{n+1}(x)=z$$
 >Therefore indeed $z$ is a fixed point of $f$.
 >Finally, let $t$ be an arbitrary fixed point of $f$. Then
@@ -25,13 +25,13 @@
 >
 ***
 #### Keywords
-- [[Полное метрическое пространство]],
-- [[Сжимающее отображение]],
+- [[Complete metric space]],
+- [[Contraction mapping]],
 - [[Fixed point]],
-- [[Последовательность]],
-- [[Последовательность Коши]],
-- [[Induction]],
-- [[Непрерывное отображение]],
+- [[Sequence]],
+- [[Cauchy sequence]],
+- [[Mathematical induction]],
+- [[Continuous mapping]],
 #### Possibly related
 - 
 ***

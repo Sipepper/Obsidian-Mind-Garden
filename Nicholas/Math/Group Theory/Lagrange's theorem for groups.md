@@ -23,12 +23,12 @@
 #### Keywords
 - [[Group]],
 - [[Index of a subgroup]],
-- [[Порядок группы]],
-- [[Порядок элемента в группе]],
+- [[Group order]],
+- [[Order of element in group]],
 - [[Cyclic group]],
-- [[Отношение эквивалентности]],
+- [[Equivalence relation]],
 - [[Group coset]],
-- [[Мощность множества]]
+- [[Cardinality of a set]]
 #### Possibly related
 - 
 ***

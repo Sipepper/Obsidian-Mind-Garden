@@ -15,8 +15,8 @@
 #### Keywords
 - [[Graph or 1-dimensional complex]],
 - [[Function(mapping)]],
-- [[Отношение эквивалентности]]
+- [[Equivalence relation]]
 #### Possibly related
-- [[Фактор топология]]
+- [[Quotient topology]]
 ***
 #### Sources:

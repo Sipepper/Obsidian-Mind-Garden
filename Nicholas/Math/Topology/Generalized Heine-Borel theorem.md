@@ -15,12 +15,12 @@
 ***
 #### Keywords
 - [[Heine-Borel theorem]],
-- [[Множество]],
-- [[Открытое и замкнутое множества]],
+- [[Set]],
+- [[Open and closed subsets]],
 - [[Bounded set]],
-- [[Компактное множество]],
+- [[Compact set]],
 - [[Metric space]],
-- [[Евклидово пространство]]
+- [[Euclidean space]]
 #### Possibly related
 - 
 ***

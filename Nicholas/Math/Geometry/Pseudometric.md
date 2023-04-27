@@ -12,10 +12,10 @@
 >
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Metric space]],
 - [[Function(mapping)]],
-- [[Product set]]
+- [[Cartesian product of sets]]
 #### Possibly related
 - 
 ***

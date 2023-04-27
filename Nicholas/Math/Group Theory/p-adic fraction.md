@@ -11,7 +11,7 @@
 #### Keywords
 - [[Rational numbers]],
 - [[Abelian group]],
-- [[Множество]]
+- [[Set]]
 #### Possibly related
 - [[Field of p-adic numbers]]
 ***

@@ -10,8 +10,8 @@
 #### Keywords
 - [[Topological space]],
 - [[Metric space]],
-- [[Топология индуцированная метрикой]],
-- [[Полное метрическое пространство]],
+- [[Topology induced by a metric]],
+- [[Complete metric space]],
 - [[Homeomorphism]],
 #### Possibly related
 - 

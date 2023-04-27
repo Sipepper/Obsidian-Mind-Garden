@@ -13,10 +13,10 @@
 ***
 #### Keywords
 - [[Metric space]],
-- [[Открытый шар]],
+- [[Open ball in metric space]],
 - [[Closure of a set]],
-- [[Компактное множество]],
-- [[Евклидово пространство]]
+- [[Compact set]],
+- [[Euclidean space]]
 #### Possibly related
 - [[Compact subsets of a metric space]]
 ***

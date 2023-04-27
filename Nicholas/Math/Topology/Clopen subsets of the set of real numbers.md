@@ -10,8 +10,8 @@
 >Now $T$ is also an open set and $p\in T$. So there exist $a$ and $b$ in $\mathbb{R}$ with $a<b$ such that $p\in(a,b)\subseteq T$. Let $t$ be such that $p<t<\min(b,z)$. So $t\in T$ and $t\in[p,z]$. Thus $t\in T\cap[x,z]=S$. This is a contradiction since $t>p$ and $p$ is a supremum of $S$. Hence our supposition is false and consequently $T=\mathbb{R}$ or $T=\emptyset$.
 ***
 #### Keywords
-- [[Открытое и замкнутое множества]],
-- [[Множество действительных чисел]],
+- [[Open and closed subsets]],
+- [[Real line]],
 - [[Supremum and infinum]],
 - [[Bounded set]],
 #### Possibly related

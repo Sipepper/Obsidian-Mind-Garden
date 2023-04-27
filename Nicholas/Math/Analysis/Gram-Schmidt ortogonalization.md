@@ -12,10 +12,10 @@ and so on $$w_{n}=u_{n}-\sum\limits_{k=1}^{n-1}(v_{k},u_{n})_{H}v_{k},\quad v_{n
 >
 ***
 #### Keywords
-- [[Гильбертово пространство]],
-- [[Последовательность]],
-- [[Линейно зависимые вектора]],
-- [[Ортонормированный базис]],
+- [[Hilbert space]],
+- [[Sequence]],
+- [[Linearly dependent vectors]],
+- [[Orthonormal basis]],
 - [[Vector space]],
 - [[Linear span]],
 #### Possibly related

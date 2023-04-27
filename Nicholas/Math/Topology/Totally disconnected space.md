@@ -22,8 +22,8 @@
 - [[Connected topological space]],
 - [[Component of topological space]],
 - [[Rational numbers]],
-- [[Подпространственная топология]],
-- [[Множество]]
+- [[Subspace topology]],
+- [[Set]]
 #### Possibly related
 - 
 ***

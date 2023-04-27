@@ -29,14 +29,14 @@
 >Also because if $T\subseteq S$, where $T$ and $S$ are some subsets of $(X,\tau)$, and $p$ is a limit point in $T$ then it's also a limit point in $S$, every closed set containing $A$ must also contain the set $A'$. So $A\cup A'=\overline{A}$ is the smallest closed set containing $A$. This implies that $\overline{A}$ is the intersection of all closed sets containing $A$.
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Topological space]],
-- [[Предельная точка топологического пространства]],
+- [[Limit point in topological space]],
 - [[Rational numbers]],
-- [[Множество действительных чисел]],
-- [[Открытое и замкнутое множества]],
-- [[Евклидова топология]],
-- [[Интервал]],
+- [[Real line]],
+- [[Open and closed subsets]],
+- [[Euclidean topology]],
+- [[Interval]],
 #### Possibly related
 - 
 ***

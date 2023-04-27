@@ -13,15 +13,15 @@
 >$\textbf{S}(3)$ (which is isomorphic to a dihedral group $D_{6}$) is an symmetric group, which describes the symmetries of the equilateral triangle.
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Function(mapping)]],
 - [[Law of composition]],
 - [[Group]],
 - [[Abelian group]],
 - [[Dihedral group]],
 - [[Permutation]],
-- [[Порядок группы]],
-- [[Мощность множества]],
+- [[Group order]],
+- [[Cardinality of a set]],
 #### Possibly related
 - 
 ***

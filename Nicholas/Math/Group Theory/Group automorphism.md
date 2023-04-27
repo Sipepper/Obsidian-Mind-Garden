@@ -15,7 +15,7 @@
 ***
 #### Keywords
 - [[Group]],
-- [[Изоморфизм групп]],
+- [[Isomorphism]],
 - [[Law of composition]],
 - [[Function(mapping)]],
 - [[Cyclic group]]

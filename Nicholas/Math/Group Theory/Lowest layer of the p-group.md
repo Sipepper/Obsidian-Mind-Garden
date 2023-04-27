@@ -15,10 +15,10 @@
 #### Keywords
 - [[Fully characteristic group]],
 - [[p-group]],
-- [[Порядок элемента в группе]],
+- [[Order of element in group]],
 - [[Cyclic group]],
 - [[Quasi-cyclic group]],
-- [[Изоморфизм групп]],
+- [[Isomorphism]],
 #### Possibly related
 - 
 ***

@@ -27,7 +27,7 @@
 >$d(f,g)$ exactly describes the area between of two functions on the $[0,1]$ interval.
 
 >[!example] Maximum difference
->Let $C_[0,1]$ be a set of continuous functions from $[0,1]$ to $\mathbb{R}$. We can define a different metric by 
+>Let $C_{[0,1]}$ be a set of continuous functions from $[0,1]$ to $\mathbb{R}$. We can define a different metric by 
 >$$d^{*}(f,g)=\sup\{|f(x)-g(x)|:x\in[0,1]\}$$
 >
 >$d^{*}$ is exactly the maximum difference in values of two functions on $[0,1]$.
@@ -42,13 +42,13 @@
 >(metric in which there are no "diagonal moves")
 ***
 #### Keywords
-- [[Евклидово пространство]],
+- [[Euclidean space]],
 - [[Function(mapping)]],
-- [[Product set]],
-- [[Множество]],
+- [[Cartesian product of sets]],
+- [[Set]],
 - [[Space of all continuous functions on the interval]],
 - [[Supremum and infinum]],
-- [[Открытый шар]]
+- [[Open ball in metric space]]
 #### Possibly related
 - 
 ***

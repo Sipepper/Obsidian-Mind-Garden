@@ -11,7 +11,7 @@
 - [[p-adic fraction]],
 - [[Quotient group]],
 - [[p-group]],
-- [[Множество комплексных чисел]],
+- [[Complex plane]],
 - [[Set of integers]]
 #### Possibly related
 - 

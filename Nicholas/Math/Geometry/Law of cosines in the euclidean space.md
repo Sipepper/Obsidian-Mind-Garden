@@ -11,7 +11,7 @@
 >
 ***
 #### Keywords
-- [[Евклидово пространство]]
+- [[Euclidean space]]
 #### Possibly related
 - 
 ***

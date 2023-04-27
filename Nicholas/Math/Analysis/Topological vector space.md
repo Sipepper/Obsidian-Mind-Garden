@@ -22,11 +22,11 @@ Multiplication by scalar will be continuous if for $\alpha\in\mathbb{F}$,$u\in U
 #### Keywords
 - [[Vector space]],
 - [[Topological space]],
-- [[Открытое и замкнутое множества]],
-- [[Непрерывное отображение]],
-- [[Окрестность точки]],
-- [[Базис топологии]],
-- [[Локальный базис топологии]]
+- [[Open and closed subsets]],
+- [[Continuous mapping]],
+- [[Neighborhood in topological space]],
+- [[Topology basis]],
+- [[Neighborhood basis at point in topological space]]
 #### Possibly related
 -  
 ***

@@ -29,11 +29,11 @@
 >
 ***
 #### Keywords
-- [[Множество]],
+- [[Set]],
 - [[Law of composition]],
-- [[Математическая индукция]],
+- [[Mathematical induction]],
 - [[Function(mapping)]],
-- [[Мощность множества]],
+- [[Cardinality of a set]],
 #### Possibly related
 - 
 ***

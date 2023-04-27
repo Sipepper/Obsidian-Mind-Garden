@@ -2,13 +2,13 @@
 ***
 ###### tags: #
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Direct strict note
 >
 
->[!proof]
+>[!proof]+
 >
 
->[!example] 
+>[!example]+ 
 >
 ***
 #### Keywords

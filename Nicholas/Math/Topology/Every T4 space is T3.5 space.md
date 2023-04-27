@@ -7,13 +7,13 @@
 
 
 >[!proof]
->This follows from [[Необходимое и достаточное условие нормальности пространства]]
+>This follows from [[Normal space]]
 
 ***
 #### Keywords
-- [[Хаусдорффово пространство]],
-- [[Нормальное пространство]],
-- [[Вполне регулярное пространство]]
+- [[Hausdorff space]],
+- [[Normal space]],
+- [[Completely regular and Tychonoff spaces]]
 #### Possibly related
 - 
 ***

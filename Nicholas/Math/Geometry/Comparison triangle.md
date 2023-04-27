@@ -12,7 +12,7 @@
 ***
 #### Keywords
 - [[Metric space]],
-- [[Евклидово пространство]],
+- [[Euclidean space]],
 - [[Isometry]],
 - [[Sphere]]
 #### Possibly related
