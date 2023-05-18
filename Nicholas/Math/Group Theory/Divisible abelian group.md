@@ -8,7 +8,7 @@
 >Abelian group is divisible when every element *can be divided* by a prime number, i.e. $$x^p=a$$
 
 >[!example] 
->$\mathbb{Q}$ and $\mathbb{Z}[p^{\infty}]$ are divisible groups.
+>$\mathbb{Q}$ and $\mathbb{Z}[p^{\infty}]$ are divisible groups. But $\mathbb{Z}$ is not divisible.
 ***
 #### Keywords
 - [[Abelian group]],
