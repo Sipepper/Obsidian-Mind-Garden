@@ -24,7 +24,10 @@
 - [[Isometry]],
 - [[Sequence]],
 - [[Cauchy sequence]],
-- [[Completion of a metric space]]
+- [[Completion of a metric space]],
+- [[Function(mapping)]],
+- [[Convergence in metric spaces]],
+- [[Limit]]
 #### Possibly related
 ***
 #### Sources:

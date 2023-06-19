@@ -15,13 +15,12 @@
 >
 ***
 #### Keywords
-- [[p-adic metric]],
 - [[Ring of p-adic integers]],
 - [[Open ball in metric space]],
 - [[p-adic metric]],
 - [[Monoid]],
 - [[Free monoid]],
 #### Possibly related
-- 
+- [[Sequence]]
 ***
 #### Sources:

@@ -12,7 +12,7 @@
 
 >Number of edges which come out of vertex are called a *degree* of that vertex.
 
->Sequence of pairwise different vertices $v_{1},\dots,v_{n}$ connected with edgeg $v_{1}v_{2},v_{2}v_{3},\dots,v_{n}v_{1}$ is called a *cycle*.
+>Sequence of pairwise different vertices $v_{1},\dots,v_{n}$ connected with edges $v_{1}v_{2},v_{2}v_{3},\dots,v_{n}v_{1}$ is called a *cycle*.
 
 >[!example] 
 >
@@ -21,7 +21,8 @@
 - [[Euclidean space]],
 - [[Euclidean topology]],
 - [[Subspace topology]],
-- [[Sequence]]
+- [[Sequence]],
+- [[Set]],
 #### Possibly related
 - 
 ***

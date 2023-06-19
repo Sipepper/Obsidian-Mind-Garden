@@ -19,7 +19,7 @@
 - [[Continuous mapping]],
 - [[Functional]],
 - [[Linear map]],
-- [[Билинейная форма]],
+- [[Bilinear form]],
 - [[Normed space]],
 - [[Supremum and infinum]],
 - [[Cartesian product of sets]],

@@ -30,6 +30,9 @@
 - [[Commutative diagram]],
 - [[Projection map in product spaces]],
 - [[Topology basis]],
+- [[Open and closed subsets]],
+- [[Box product of groups]],
+- [[Direct product of groups]],
 - [[Set]]
 #### Possibly related
 - 

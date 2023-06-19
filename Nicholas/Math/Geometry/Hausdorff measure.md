@@ -50,6 +50,7 @@ Analogously to case when area and volume scales by "$\lambda^{2}$ and $\lambda^{
 - [[Real line]],
 - [[Supremum and infinum]],
 - [[Delta covering]],
+- [[Limit]]
 - [[Measure]],
 - [[Set]],
 - [[Cardinality of a set]],

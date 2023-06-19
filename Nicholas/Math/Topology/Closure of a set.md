@@ -9,7 +9,7 @@
 >[!example] 
 >Let $\mathbb{Q}$ be a set of all rational numbers, $\mathbb{Q}\subset\mathbb{R}$, then $\overline{\mathbb{Q}}=\mathbb{R}$.^[Sidney A. Morris - "Topology without tears" p.78]
 >>[!proof]
->>Suppose $\overline{\mathbb{Q}}\ne\mathbb{R}$. Then there exists an $x\in\mathbb{R}\setminus\overline{\mathbb{Q}}$. As $\mathbb{R}\setminus\overline{\mathbb{Q}}$ is open in $\mathbb{R}$, there exxist $a,b$ with $a<b$ such that $x\in(a,b)\subseteq\mathbb{R}\setminus\overline{\mathbb{Q}}$. But in every interval $(a,b)$ there is a rational number $q$. So $q\in\mathbb{R}\setminus\overline{\mathbb{Q}}$ which implies $q\in\mathbb{R}\setminus\mathbb{Q}$. This is a contradiction, as $q\in\mathbb{Q}$. Hence $\overline{\mathbb{Q}}=\mathbb{R}$.
+>>Suppose $\overline{\mathbb{Q}}\ne\mathbb{R}$. Then there exists an $x\in\mathbb{R}\setminus\overline{\mathbb{Q}}$. As $\mathbb{R}\setminus\overline{\mathbb{Q}}$ is open in $\mathbb{R}$, there exist $a,b$ with $a<b$ such that $x\in(a,b)\subseteq\mathbb{R}\setminus\overline{\mathbb{Q}}$. But in every interval $(a,b)$ there is a rational number $q$. So $q\in\mathbb{R}\setminus\overline{\mathbb{Q}}$ which implies $q\in\mathbb{R}\setminus\mathbb{Q}$. This is a contradiction, as $q\in\mathbb{Q}$. Hence $\overline{\mathbb{Q}}=\mathbb{R}$.
 
 >[!example]
 >Let $X=\set{a,b,c,d,e}$ and 

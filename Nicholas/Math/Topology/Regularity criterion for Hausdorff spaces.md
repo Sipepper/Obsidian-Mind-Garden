@@ -10,7 +10,7 @@
 >Suppose that $X$ is regular, let $x\in V$, where $V$ is an open neighbourhood of $x$, and put $C=X\setminus V$. By regularity there exists open sets $U,W$ such that $x\in U$, $C\subset W$ and $U\cap W=\emptyset$. Then $X\setminus W$ be a closed set and we have that $X\setminus W\subset X\setminus C=V$, and thus every neighbourhood $V$ of $x$ contains a closed neighbourhood $X\setminus W$ of $x$, as required.
 >
 >$\Leftarrow$
->Conversely, suppose that every point has a closed neighbourhood basis. Let $x\notin C$ wher $C$ is a closed set, put $V=X\setminus C$. By supposition there exist an open set $U$ such that $\overline{U}\subset V=X\setminus C$ and $x\in U$. Then $C\subset X\setminus\overline{U}$, and $U\cap(X\setminus\overline{U})=\emptyset$. And thus $X$ is regular.
+>Conversely, suppose that every point has a closed neighbourhood basis. Let $x\notin C$ where $C$ is a closed set, put $V=X\setminus C$. By supposition there exist an open set $U$ such that $\overline{U}\subset V=X\setminus C$ and $x\in U$. Then $C\subset X\setminus\overline{U}$, and $U\cap(X\setminus\overline{U})=\emptyset$. And thus $X$ is regular.
 
 >[!example]+ 
 >
@@ -22,7 +22,8 @@
 - [[Open and closed subsets]],
 - [[Neighborhood basis at point in topological space]],
 - [[Set]],
-- [[Neighborhood in topological space]]
+- [[Neighborhood in topological space]],
+- [[Closure of a set]]
 #### Possibly related
 - 
 ***
