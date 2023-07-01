@@ -64,6 +64,6 @@ $$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
 - [[Quotient group]],
 - [[Quasi-cyclic group]]
 #### Possibly related
-- 
+- [[Projection map in product spaces]]
 ***
 #### Sources:

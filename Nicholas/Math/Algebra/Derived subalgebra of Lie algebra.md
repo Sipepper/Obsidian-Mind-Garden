@@ -33,9 +33,9 @@
 ***
 #### Keywords
 - [[Lie algebra]],
-- [[Lie subalgebras]],
+- [[Lie algebra]],
 - [[Commutant of two subsets in Lie algebra]],
-- [[Ideals in Lie algebras]],
+- [[Ideal]],
 - [[Factor algebra]],
 #### Possibly related
 - 

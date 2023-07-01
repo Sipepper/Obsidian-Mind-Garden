@@ -21,6 +21,7 @@
 - [[Cyclic group]],
 - [[Isomorphism]],
 - [[Group order]],
+- [[Modular arithmetic]]
 #### Possibly related
 - [[Quotient set]]
 ***

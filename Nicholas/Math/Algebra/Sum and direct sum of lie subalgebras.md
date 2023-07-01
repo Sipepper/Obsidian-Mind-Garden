@@ -23,10 +23,10 @@
 ***
 #### Keywords
 - [[Lie algebra]],
-- [[Lie subalgebras]],
+- [[Lie algebra]],
 - [[Vector space]],
 - [[Прямая сумма векторных пространств]],
-- [[Ideals in Lie algebras]],
+- [[Ideal]],
 #### Possibly related
 - 
 ***

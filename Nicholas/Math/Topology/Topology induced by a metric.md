@@ -26,6 +26,7 @@
 - [[Real line]],
 - [[Discrete topology]] ,
 - [[Дискретная метрика]],
+- [[Euclidean space]]
 #### Possibly related
 - 
 ***

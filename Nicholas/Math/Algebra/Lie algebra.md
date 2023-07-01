@@ -24,6 +24,11 @@
 
 >[!example] 
 >Let $\mathbb{R}^{3}$ be a vector space over a field $\mathbb{R}$. Then the vector product $[\overline{a},\overline{b}]$ of two vectors $\overline{a},\overline{b}\in\mathbb{R}^{3}$ forms a Lie algebra. 
+
+>The subspace $A$ of $L$ is said to be a *subalgebra* of algebra $L$, if $[a,b]\in A$ for all $a,b\in A$. In another words, the subspace $A$ is a subalgebra of $L$ if 
+>$$[A,A]\subseteq A$$
+>Subalgebras often denoted as $A\le L$. If $A$ is a proper subspace $A<L$.
+
 ***
 #### Keywords
 - [[Algebra]],
@@ -31,7 +36,8 @@
 - [[Euclidean space]],
 - [[Vector]],
 - [[Cross product]],
-- [[Vector space]]
+- [[Vector space]],
+- [[Commutant of two subsets in Lie algebra]]
 #### Possibly related
 - 
 ***

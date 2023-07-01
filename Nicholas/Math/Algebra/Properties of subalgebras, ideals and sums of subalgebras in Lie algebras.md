@@ -35,8 +35,8 @@
 ***
 #### Keywords
 - [[Lie algebra]],
-- [[Ideals in Lie algebras]],
-- [[Lie subalgebras]],
+- [[Ideal]],
+- [[Lie algebra]],
 - [[Sum and direct sum of lie subalgebras]],
 - 
 #### Possibly related

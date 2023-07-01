@@ -21,7 +21,7 @@
 #### Keywords
 - [[Lie algebra]],
 - [[Set]],
-- [[Ideals in Lie algebras]],
+- [[Ideal]],
 #### Possibly related
 - 
 ***

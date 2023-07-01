@@ -15,7 +15,7 @@
 >>$$c^{-1}Sc=c^{-1}cS=S$$
 >>therefore $c^{-1}S=Sc^{-1}$, from which we have that $c^{-1}\in N$.
 
->Normalizer is a special case of *stabilizer* of group action, in particular it's just a stabilizaer of group acting on it's power set.^[https://math.stackexchange.com/questions/1407012/proof-that-normalizer-and-center-are-subgroups]
+>Normalizer is a special case of *stabilizer* of group action, in particular it's just a stabilizer of group acting on it's power set.^[https://math.stackexchange.com/questions/1407012/proof-that-normalizer-and-center-are-subgroups]
 
 >[!example] 
 >
@@ -29,7 +29,8 @@
 >4. The normalizer of $H$ is the largest subgroup of $G$ in which $H$ is normal.
 
 >[!proof]+
->
+>1. First, if $h\in H$, then $hHh^{-1}=Hh^{-1}=H$, thus every element of $H$ lie in $N_{H}$. As $H$ is a group, then $ab\in H$, therefore $H\le N_{H}$.
+>   Consider a coset $aH$, then as $a\in N_{H}$, $aHa^{-1}=H$, which is equivalent to $aH=Ha$, that is $H$ is a normal subgroup in $N_{H}$. 
 ***
 #### Keywords
 - [[Set]],
@@ -37,7 +38,8 @@
 - [[Conjugation in groups]],
 - [[Group acting on a set]],
 - [[Stabilizer subgroup]],
-- [[Normal subgroup]]
+- [[Normal subgroup]],
+- [[Group coset]]
 #### Possibly related
 - 
 ***

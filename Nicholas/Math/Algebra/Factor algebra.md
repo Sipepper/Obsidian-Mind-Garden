@@ -18,7 +18,7 @@
 >
 ***
 #### Keywords
-- [[Ideals in Lie algebras]],
+- [[Ideal]],
 - [[Vector space]],
 - [[Vector space coset]],
 - [[Lie algebra]],

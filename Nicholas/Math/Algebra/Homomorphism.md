@@ -16,7 +16,7 @@
 >[!example]
 >Let $G=GL_{n}(\mathbb{R})$ and $G'=\mathbb{R}\setminus{0}$ then the "taking determinant" operation is a group homomorphism because $$\det(AB)=\det(A)\det(B)$$ and $$\det(A^{-1})=\det(A)^{-1}$$
 
-#### Kernel of a group homomorphism
+##### Kernel of a group homomorphism
 >[!dsn] Direct strinct note
 >Let $H$ be an image of group homomorphism of group $G$. Then set of elements $T\subseteq G$ which maps to identity element called a *kernel* of group homomorphism.
 

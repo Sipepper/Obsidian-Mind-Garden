@@ -49,7 +49,7 @@
 - [[Vector space]],
 - [[Linear span]],
 - [[Lie algebra]],
-- [[Ideals of a Leibniz algebras]],
+- [[Ideal]],
 - [[Leibniz subalgebras]],
 - [[Factor algebra]],
 #### Possibly related
