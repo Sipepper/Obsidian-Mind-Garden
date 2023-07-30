@@ -9,7 +9,7 @@
 
 >[!proof]
 >If $f(0)=0$ or $f(1)=1$, the result is obvious. Thus it suffices to consider the case when $f(0)>0$ and $f(1)<1$.
->Let $g:[0,1]\to\mathbb{R}$ be defined by $g(x)=x-f(x)$. Clearly $g$ is continuous, $g(0)=-f(0)$, and $g(1)=1-f(1)>0$. Consequently by corollary [[Weierstrass Itermediate Value theorem#5.2.10. Следствие о нуле функции|existence of zero of a funtion]], there exists a $z\in[0,1]$ such that $g(z)=0$; that is , $z-f(z)=0$ or $f(z)=z$.
+>Let $g:[0,1]\to\mathbb{R}$ be defined by $g(x)=x-f(x)$. Clearly $g$ is continuous, $g(0)=-f(0)$, and $g(1)=1-f(1)>0$. Consequently by [[Weierstrass Intermediate Value theorem]], there exists a $z\in[0,1]$ such that $g(z)=0$; that is , $z-f(z)=0$ or $f(z)=z$.
 
 >[!example] 
 >
@@ -19,6 +19,7 @@
 - [[Interval]],
 - [[Fixed point]],
 - [[Function(mapping)]],
+- [[Real line]]
 #### Possibly related
 - 
 ***

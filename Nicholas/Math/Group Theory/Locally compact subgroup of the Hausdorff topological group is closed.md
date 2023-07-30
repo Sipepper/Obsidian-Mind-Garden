@@ -6,9 +6,6 @@
 >Let $G$ be a Hausdorff topological group, and $H$ be a locally compact subgroup of $G$. Then $H$ is a closed subgroup of $G$.^[Alain M. Robert - "A course in p-adic analysis" p.20] In particular this is the case if $H$ is discrete.^[Sidney A. Morris - "Topology without tears" p.521]
 
 >[!proof]+
->It follows from [[Locally closed subgroup is a closed subgroup]]. Because [[Locally closed set#Подмножества Хаусдорффовых пространств]] i.e. locally compact subsets of Hausdorff space is locally closed.
-
->[!proof]+
 >Let $K$ be a compact neighbourhood in $H$ of $e$. Then there exists a neighbourhood $U$ in $G$ of $e$ such that $U\cap H=K$. In particular, $U\cap H$ is closed in $G$. Let $V$ be a neighbourhood in $G$ of $e$ such that $V^{2}\subseteq U$.
 >If $x\in\overline{H}$, then as $\overline{H}$ is a group ([[Closure of certain subgroups in topological groups]]), $x^{-1}\in\overline{H}$. So there exists an element $y\in Vx^{-1}\cap H$. We will show that $yx\in H$. As $y\in H$, this will imply that $x\in H$ and hence $H$ is closed, as required.
 >To show that $yx\in H$ we verify that $yx$ is a limit point of $U\cap H$. As $U\cap H$ is closed this will imply that $yx\in U\cap H$ and so, in particular, $yx\in H$.

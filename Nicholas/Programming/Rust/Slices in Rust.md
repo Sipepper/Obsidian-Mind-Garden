@@ -120,7 +120,7 @@ The slicea above will have a `&[i32]` type.
 - [[Loops in Rust]],
 - [[Референсы и заимствование в Rust]],
 - [[UTF-8 encoding]],
-- [[Методы в Rust]],
+- [[Methods in Rust]],
 - [[Strings in Rust]],
 #### Possibly related
 - 

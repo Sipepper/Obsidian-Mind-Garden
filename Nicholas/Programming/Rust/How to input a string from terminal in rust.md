@@ -25,7 +25,7 @@ In order:
 - [[Ownership in Rust]],
 - [[How to define a variable in Rust]],
 - [[Error handling in Rust]],
-- [[Методы в Rust]],
+- [[Methods in Rust]],
 - [[Functions in Rust]],
 #### Possibly related
 - 

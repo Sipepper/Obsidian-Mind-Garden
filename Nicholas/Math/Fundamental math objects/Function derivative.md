@@ -17,6 +17,8 @@
 ***
 #### Keywords
 - [[Function(mapping)]],
+- [[Limit]],
+- [[Euclidean space]],
 - [[Linear map]],
 - [[Real line]],
 #### Possibly related

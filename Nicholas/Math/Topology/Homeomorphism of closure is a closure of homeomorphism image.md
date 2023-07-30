@@ -22,17 +22,21 @@
 >We therefore conclude that $f(\overline{A})=\overline{f(A)}$.
 
 >[!example]+ 
->Let $(G,\tau)$ be a topological group, let $H$ be a subgroup of $G$, then translation $aH$ is a homeomorphism, thus $a\overline{H}=\overline{aH}$.
+>Let $(G,\tau)$ be a topological group, let $H$ be a subgroup of $G$, then as [[topological group translations are homeomorphisms]] $a\overline{H}=\overline{aH}$.
+
+
 ***
 #### Keywords
 - [[Topological space]],
 - [[Homeomorphism]],
 - [[Closure of a set]],
+- [[Kernel and image of a mapping]],
+- [[Set]],
 - [[Preimage]],
 - [[Limit point in topological space]],
 - [[Function(mapping)]],
 - [[Open and closed subsets]],
-- [[Topological group]]
+- [[Topological group]],
 #### Possibly related
 - 
 ***

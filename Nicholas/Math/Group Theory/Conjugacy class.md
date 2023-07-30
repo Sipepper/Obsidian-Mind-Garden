@@ -9,7 +9,9 @@
 
 >In particular, subgroup $H$ is normal if it's consists of several complete conjugacy classes.
 >>[!proof]
->>
+>>Suppose that $H=\bigcup a^{G}$, then, as conjugacy classes are disjoint, then
+>>$$gHg^{-1}=\bigcup ga^{G}g^{-1}=\bigcup a^{G}=H$$
+>>Thus $H$ is indeed a normal subgroup.
 
 >[!example] 
 >

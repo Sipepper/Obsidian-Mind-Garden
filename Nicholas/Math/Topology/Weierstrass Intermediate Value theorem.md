@@ -1,4 +1,4 @@
-# Weierstrass Itermediate Value theorem
+# Weierstrass Intermediate Value theorem
 ***
 ###### tags: #Topology #Analysis 
 ***

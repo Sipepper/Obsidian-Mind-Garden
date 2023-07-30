@@ -1,4 +1,4 @@
-# Union of paii-wise non-disjoint family of connected subsets is connected
+# Union of pair-wise non-disjoint family of connected subsets is connected
 ***
 ###### tags: #Topology 
 ***

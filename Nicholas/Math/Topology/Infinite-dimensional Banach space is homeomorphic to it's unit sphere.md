@@ -3,7 +3,7 @@
 ###### tags: #Topology 
 ***
 >[!dsn] Direct strict note
->Let $B$ be an infinite-dimensional Banach space, $S=\set{x:x\in B,\|x\|=r}$ a sphere in $B$ of radius $r>0$, and $C=\set{x:x\in B,\|x\|\le r}$ a closed ball in $B$. Then $B,S$ and $C$ are homeomorphic.^[Sidney A. Morris - "Topology without tears" c.256]
+>Let $B$ be an infinite-dimensional Banach space, $S=\{x:x\in B,\|x\|=r\}$ a sphere in $B$ of radius $r>0$, and $C=\{x:x\in B,\|x\|\le r\}$ a closed ball in $B$. Then $B,S$ and $C$ are homeomorphic.^[Sidney A. Morris - "Topology without tears" c.256]
 
 >[!proof]
 >

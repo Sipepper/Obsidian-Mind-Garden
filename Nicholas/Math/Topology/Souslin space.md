@@ -11,6 +11,9 @@
 >Every Polish space is a Souslin space.
 
 >*Every countable topological space is a Souslin space* as it is a continuous image of the discrete space $\mathbb{N}$.
+>>[!proof]+
+>>
+
 ***
 #### Keywords
 - [[Topological space]],

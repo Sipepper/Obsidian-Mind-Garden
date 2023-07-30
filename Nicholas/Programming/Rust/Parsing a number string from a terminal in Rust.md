@@ -25,7 +25,7 @@ First we created a mutable `String` type variable. Then we specify in which vari
 #### Keywords
 - [[Changing a type of a primitive value in Rust]],
 - [[How to input a string from terminal in rust]],
-- [[Методы в Rust]],
+- [[Methods in Rust]],
 - [[Strings in Rust]]
 #### Possibly related
 - 

@@ -12,9 +12,8 @@
 #### Keywords
 - [[Locally closed set]],
 - [[Topological group]],
-- [[Closure of certain subgroups in topological groups]],
+- [[Closure of a set]]
 - [[Open and closed subsets]],
 #### Possibly related
-- [[Closure of a set]]
 ***
 #### Sources:

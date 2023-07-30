@@ -20,9 +20,11 @@
 ***
 #### Keywords
 - [[Metric space]],
+- [[Real line]],
 - [[Euclidean topology]],
 - [[Complete metric space]],
 - [[Cauchy sequence]],
+- [[Sequence]],
 - [[Bounded set]],
 - [[Convergence in metric spaces]],
 #### Possibly related

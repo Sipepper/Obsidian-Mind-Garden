@@ -62,7 +62,8 @@ $$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
 - [[Set]],
 - [[Locally cyclic group]],
 - [[Quotient group]],
-- [[Quasi-cyclic group]]
+- [[Quasi-cyclic group]],
+- [[Isomorphism]],
 #### Possibly related
 - [[Projection map in product spaces]]
 ***

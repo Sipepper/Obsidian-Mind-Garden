@@ -32,6 +32,8 @@
 - [[Cauchy sequence]],
 - [[Mathematical induction]],
 - [[Continuous mapping]],
+- [[Convergence in metric spaces]],
+- [[Limit]]
 #### Possibly related
 - 
 ***

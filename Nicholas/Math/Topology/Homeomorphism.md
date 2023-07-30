@@ -8,6 +8,7 @@
 >2. $f$ - surjective function, i.e. $\forall y\in Y,\exists x\in X:f(x)=y$
 >3. $\forall U\in\tau_{1}, f^-1(U)\in\tau$;
 >4. $\forall V\in\tau, f(V)\in\tau_{1}$;
+>
 >>Mapping $f$ - is called a *homeomorphism* between $(X,\tau)$ and $(Y,\tau_{1})$. Denoted as $(X,\tau)\cong(Y,\tau_{1})$.^[Sidney A. Morris - "Topology without tears" c.96]
 
 >[!example] 

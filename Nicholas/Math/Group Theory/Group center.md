@@ -14,10 +14,16 @@
 
 >Every subgroup of $Z(G)$ is a normal subgroup of $G$.
 >>[!proof]
->>
+>>Let $H\le Z(G)$, that is for every $h_{1},h_{2}\in H$, $h_{1}h_{2}^{-1}\in H$ and for every $g\in G$, $gh_{1}g^{-1}=h_{1}$. Then consider set
+>>$$gHg^{-1}=\{ghg^{-1}:h\in H,g\in G\}$$
+>>but as $h\in Z(G)$, $ghg^{-1}=h$, thus
+>>$$gHg^{-1}=H$$
+>>therefore $gH=Hg$, that is $H$ is normal in $G$. 
 
->[!example] 
->
+>[!example]+
+>The center of the [[quaternion group]], 
+>$$Q_{8}=\{1,-1,i,-i,j,-j,k,-k\}$$
+>is $\{1,-1\}$.^[https://en.wikipedia.org/wiki/Center_(group_theory)]
 ***
 #### Keywords
 - [[Group]],
@@ -27,6 +33,7 @@
 - [[Abelian group]],
 - [[Normal subgroup]],
 - [[Set]],
+- [[Group coset]]
 #### Possibly related
 - 
 ***

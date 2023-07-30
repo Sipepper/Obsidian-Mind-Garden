@@ -6,7 +6,7 @@
 >Let $(U,d)$ be a metric space. Then $A\subset U$ is a relatively compact if and only if from which sequence in $A$ we can extract converging subsequence.^[Fabio Silva Botelho - "Functional analysis and Applied Optimization in Banach Spaces" p.18]
 
 >[!proof]
->Suppose that $A$ is relatively compact. Then it's closure $\overline{A}$ is compact, and sequentially compact by [[Equivalence of compactness and sequentially compactness]].
+>Suppose that $A$ is relatively compact. Then it's closure $\overline{A}$ is compact, and sequentially compact by [[Equivalence of compactness and sequentially compactness in metric spaces]].
 >
 >Then from every sequence in $\overline{A}$ we can extract a converging subsequence. In particular for any sequence from $A\subset\overline{A}$, we can extract some subsequence converging to some element in $\overline{A}$.
 >

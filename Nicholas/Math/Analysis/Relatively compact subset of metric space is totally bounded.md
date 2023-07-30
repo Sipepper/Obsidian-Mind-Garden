@@ -1,6 +1,6 @@
 # Relatively compact subset of metric space is totally bounded
 ***
-###### tags: #Analysis/Functional 
+###### tags: #Topology 
 ***
 >[!dsn]+ Direct strict note
 >Let $(U,d)$ be a metric space, then

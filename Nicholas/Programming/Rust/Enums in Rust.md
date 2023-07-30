@@ -99,7 +99,7 @@ m.call();
 ```
 ***
 #### Keywords
-- [[Struct в Rust]],
+- [[Structs in Rust]],
 - [[Basic data types in Rust]],
 - [[How to define a variable in Rust]],
 - [[Functions in Rust]],

@@ -1,7 +1,8 @@
 # Open mapping theorem
 ***
-###### tags: #Topology
+###### tags: #Topology #Group_theory/Topological 
 ***
+#### For Banach spaces
 >[!dsn]+ Direct strict note
 >Let $(B,\|\cdot\|)$ and $(B_{1},\|\cdot\|_{1})$ be Banach spaces and $L:B\to B_{1}$ a continuous linear (in the vector space sense) mapping of $B$ *onto* $B_{1}$. Then $L$ is an open mapping.^[Sidney A. Morris - "Topology without tears" p.168]
 
@@ -28,6 +29,24 @@
 
 >[!example]+ 
 >
+
+#### For locally compact groups
+>[!dsn]+
+>Let $G$ be a locally compact group which is $\sigma$-compact; that is, $G=\bigcup\limits_{n=1}^{\infty}A_{n}$, where each $A_{n}$ is compact. Let $f$ be any continuous homomorphism of $G$ onto a locally compact Hausdorff group $H$. Then $f$ is an open mapping.^[Sidney A. Morris - "Topology without tears" p.535]
+
+>[!proof]+
+>Let $\mathcal{U}$ be the family of all symmetric neighbourhoods of $e$ in $G$ and $\mathcal{U}'$ the family of all neighbourhoods of $e$ in $H$. It suffices to show that for every $U\in\mathcal{U}$ there is a $U'\in\mathcal{U}'$ such that $U'\subseteq f(U)$.
+>
+>Let $U\in\mathcal{U}$. Then there exists (why?) a $V\in\mathcal{U}$ having the property that $\overline{V}$ is compact and $(\overline{V})^{-1}\overline{V}\subseteq U$. The family of sets $\{xV:x\in G\}$ is then an open cover of $G$ and hence also of each compact set $A_{n}$. So a finite collection of these sets will cover any given $A_{n}$. Thus there is a countable collection $\{x_{n}V:n\in\mathbb{N}\}$ which covers $G$.
+>
+>So
+>$$H=\bigcup\limits_{n=1}^{\infty}f(x_{n}V)=\bigcup\limits_{n=1}^{\infty}f(x_{n}\overline{V})=\bigcup\limits_{n=1}^{\infty}f(x_{n})f(\overline{V})$$
+>This expresses $H$ as a countable union of closed sets, and by [[Baire Category theorem]] for locally spaces, on of them must have non-empty interior; that is, $f(x_{n})f(\overline{V})$ contains an open set. Then $f(\overline{V})$ contains an open subset $V'$ of $H$:
+>To complete the proof select any point $x'$ of $V'$ and put $U'=(x')^{-1}V'$. Then we have
+>$$\begin{align}U'=(x')^{-1}V'&\subseteq (V')^{-1}V'\\&\subseteq(f(\overline{V}))^{-1}f(\overline{V})\\ &=f((\overline{V})^{-1}\overline{V})\\ &\subseteq f(U) \end{align}$$
+>as required.
+
+
 ***
 #### Keywords
 - [[Banach space]],
@@ -40,7 +59,15 @@
 - [[Open ball in metric space]],
 - [[Interior, Exterior and boundary of a set in topological space]],
 - [[Mathematical induction]],
-- [[Convergence in metric spaces]]
+- [[Convergence in metric spaces]],
+- [[Locally compact space]],
+- [[Topological group]],
+- [[sigma-compact space]],
+- [[Compact set]],
+- [[Homomorphism]],
+- [[Hausdorff space]],
+- [[Symmetric neighborhoods in topological groups]],
+- [[Cardinality of a set]]
 #### Possibly related
 - 
 ***

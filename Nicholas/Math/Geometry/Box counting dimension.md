@@ -21,11 +21,14 @@
 ***
 #### Keywords
 - [[Bounded set]],
+- [[Set]],
+- [[Euclidean space]],
+- [[Open ball in metric space]],
+- [[Open and closed subsets]],
 - [[Set diameter]],
 - [[Covering of a set]],
 - [[Delta covering]],
-- [[Epsilon-net]],
-- 
+- [[Epsilon-net]]
 #### Possibly related
 - [[Hausdorff dimension]]
 ***

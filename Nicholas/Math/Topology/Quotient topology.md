@@ -7,7 +7,7 @@
 >$$\forall U\subseteq Y,\quad U\in\tau_{1}\Leftrightarrow f^{-1}(U)\in\tau$$
 >A surjective mapping $f$ with the property above is said to be a *quotient mapping*.^[Sidney A. Morris - "Topology without tears" p.338]
 
->Every quotient space is a continuous map.
+>Every quotient map is a continuous map.
 >>[!proof]+
 >>It follows from definition.
 

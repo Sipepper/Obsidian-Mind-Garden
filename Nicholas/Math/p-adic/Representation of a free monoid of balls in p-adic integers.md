@@ -16,9 +16,9 @@
 >and for general case
 >$$T_{a_{0}}T_{a_{1}}\dots T_{a_{n}}=\begin{pmatrix}p^{n+1}&a_{0}+a_{1}p+\dots+a_{n}p^{n} \\ 0&1\end{pmatrix}$$
 
-With such representation the *length* of the word correlates to order of the matrix determinant(order in p-adic integers). From the "balls viewpoint" radius is an absolute value of the determinant, and center of a ball is an element in top-right corner of a matrix.
+>With such representation the *length* of the word correlates to order of the matrix determinant(order in p-adic integers). From the "balls viewpoint" radius is an absolute value of the determinant, and center of a ball is an element in top-right corner of a matrix.
 
-In the symbolic notation we have
+>In the symbolic notation we have
 $$B_{<r}(a)=B_{<r}(s_{n})\longleftrightarrow a_{0}a_{1}\dots a_{n}(\in\mathcal{M})\longleftrightarrow\begin{pmatrix}p^{n+1}&s_{n} \\ 0&1\end{pmatrix}$$
 ***
 #### Keywords
@@ -27,7 +27,7 @@ $$B_{<r}(a)=B_{<r}(s_{n})\longleftrightarrow a_{0}a_{1}\dots a_{n}(\in\mathcal{M
 - [[Function(mapping)]],
 - [[Matrix representation]],
 - [[Determinant]],
-- [[Matrix]],
+- [[Matrix]]
 - [[p-adic order]],
 - [[p-adic norm]],
 - [[p-adic metric]]

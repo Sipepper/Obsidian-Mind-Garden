@@ -53,7 +53,7 @@ If we want to copy in another variable not only the stack values, we can use the
 - [[Strings in Rust]],
 - [[Выделение памяти в Rust]],
 - [[Scopes in Rust]],
-- [[Методы в Rust]],
+- [[Methods in Rust]],
 #### Possibly related
 - 
 ***

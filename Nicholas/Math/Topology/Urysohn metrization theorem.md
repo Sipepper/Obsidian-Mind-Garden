@@ -6,7 +6,8 @@
 >Every regular second countable Hausdorff space is metrizable.^[Sidney A. Morris - "Topology Without tears" p.284]
 
 >[!proof]+
->
+>[[Every regular second countable space is normal]]
+>[[Every normal second countable Hausdorff space is metrizable]]
 
 >[!example]+ 
 >

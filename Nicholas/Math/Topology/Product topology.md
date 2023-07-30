@@ -9,9 +9,13 @@
 >[!example]+ 
 >Let $X_{i}=\mathbb{R}$, $\forall i=1,\dots,n$ then $X_{1}\times X_{2}\times\dots\times X_{n}$ be the set $\mathbb{R}^{n}$ with topology with basic open sets are consisting of "open parallelepipeds". In particular it's the Euclidean topology.
 
->Let $\mathfrak{B}_{1},\mathfrak{B}_{2},\dots,\mathfrak{B}_{n}$ be bases for the topological spaces $(X_{1},\tau_{1}),(X_{2},\tau_{2}),\dots,(X_{n},\tau_{n})$, respectively. Then the family of sets $\set{O_{1}\times O_{2}\times\dots\times O_{n}:O_{i}\in\mathfrak{B}_{i},i=1,\dots,n}$ is a basis for the product topology on $X_{1}\times X_{2}\times\dots\times X_{n}$.^[Sidney A. Morris - "Topology without tears" p.195]
+>Let $\mathfrak{B}_{1},\mathfrak{B}_{2},\dots,\mathfrak{B}_{n}$ be bases for the topological spaces $(X_{1},\tau_{1}),(X_{2},\tau_{2}),\dots,(X_{n},\tau_{n})$, respectively. Then the family of sets 
+>$$\mathcal{O}=\set{O_{1}\times O_{2}\times\dots\times O_{n}:O_{i}\in\mathfrak{B}_{i},i=1,\dots,n}$$ is a basis for the product topology on $X_{1}\times X_{2}\times\dots\times X_{n}$.^[Sidney A. Morris - "Topology without tears" p.195]
 >>[!proof]+
->>
+>>Let $W\subset X_{1}\times\dots\times X_{n}$ be an open set and let $(x_{1},\dots,x_{n})\in W$. By the definition of the product topology there exist open sets $U_{i}\subset X_{i}$, $i=1,\dots,k$ with $(x_{1},\dots,x_{n})\in U_{1}\times\dots\times U_{n}$ and $U_{1}\times\dots\times U_{n}\subset W$.
+>>Let $i\in\{1,\dots,n\}$. Since $\mathcal{B}_{i}$ is a basis for $X_{i}$ we see that there exists a $B_{i}\in\mathcal{B}_{i}$ with $x\in B_{i}\subset U_{i}$. It follows that
+>>$$(x_{1},\dots,x_{n})\in B_{1}\times\dots\times B_{n}\subset U_{1}\times\dots\times U_{n}\subset W$$
+>>Therefore $\mathcal{O}$ is indeed a basis for $X_{1}\times\dots\times X_{n}$
 
 >Let $C_{1},C_{2},\dots,C_{n}$ be closed subsets of the topological spaces $(X_{1},\tau_{1}),(X_{2},\tau_{2}),\dots,(X_{n},\tau_{n})$, respectively. Then $C_{1}\times C_{2}\times\dots\times C_{n}$ is a closed subset of the product space $(X_{1}\times X_{2}\times\dots\times X_{n},\tau)$.^[Sidney A. Morris - "Topology without tears" p.195]
 >>[!proof]+

@@ -8,7 +8,7 @@
 >[!proof]+
 >For each $i\in\mathbb{N}$, let $d_{i}$ be a metric on $X_{i}$ which induces the topology $\tau_{i}$. If we put $e_{i}(a,b)=\min(1,d_{i}(a,b))$, for all $a$ and $b$ in $X_{i}$, then $e_{i}$ is a metric and it induces the topology $\tau_{i}$ on $X_{i}$. So we can, without loss of generality, assume that $d_{i}(a,b)\le1$, for all $a$ and $b$ in $X_{i}$, $i\in\mathbb{N}$.
 >
->Define $d:\prod_{i=1}^{\infty}X_{i}\times\prod_{n=1}^{\infty}X_{i}\to\mathbb{R}$ by
+>Define $d:\prod_{i=1}^{\infty}X_{i}\times\prod_{i=1}^{\infty}X_{i}\to\mathbb{R}$ by
 >$$d\left(\prod\limits_{i=1}^{\infty}a_{i},\prod\limits_{i=1}^{\infty}b_{i}\right)=\sum\limits_{i=1}^{\infty}\frac{d_{i}(a_{i},b_{i})}{2^{i}}\quad\forall a_{i},b_{i}\in X_{i}$$
 >Observe that the series on the right hand side converges because each $d_{i}(a_{i},b_{i})\le1$ and so it is bounded above by $\sum\limits_{i=1}^{\infty}\frac{1}{2^{i}}=1$.
 >It is easily verified that $d$ is a metric on $\prod_{i=1}^{\infty}X_{i}$ . Observe that $d'_{i}$, defined by $d'_{i}(a,b)=\frac{d_{i}(a,b)}{2^{i}}$, is a metric on $X_{i}$, which induces the same topology $\tau_{i}$ as $d_{i}$. We claim that $d$ induces the product topology on $\prod_{i=1}^{\infty}X_{i}$.

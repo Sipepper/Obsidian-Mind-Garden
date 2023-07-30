@@ -3,7 +3,7 @@
 ###### tags: #Algebra 
 ***
 >[!dsn] Direct strict note
->The set $G$ with binary algebraic operation is called the *monoid*.^[С.Ленг - "Алгебра" p.17-20]
+>The set $G$ with associative binary algebraic operation with neutral element is called the *monoid*.^[С.Ленг - "Алгебра" p.17-20]
 
 >Multiplication of sequence of elements can be defined vie induction $$\prod_{\nu=1}^{n}x_{\nu}=x_{1}\dots x_{n}=(x_{1}\dots x_{n-1})x_{n}$$
 

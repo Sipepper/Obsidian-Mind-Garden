@@ -10,7 +10,8 @@
 ***
 #### Keywords
 - [[Function(mapping)]],
-- [[Set]]
+- [[Set]],
+- [[Real line]]
 #### Possibly related
 - 
 ***

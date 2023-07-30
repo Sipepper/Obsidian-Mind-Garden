@@ -21,7 +21,6 @@
 - [[Real line]],
 - [[Compact set]],
 - [[Interval]],
-
 #### Possibly related
 - 
 ***
