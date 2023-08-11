@@ -20,8 +20,6 @@
 >[!example]+
 >The subspace $\mathbb{S}^{1}\times[0,1]$ of $\mathbb{R}^{3}$ is the product of two compact spaces and so is compact.
 >
->>[!proof]+
->>
 
 ##### Converse of Tychonoff's theorem
 >[!dsn]+ Direct strict note

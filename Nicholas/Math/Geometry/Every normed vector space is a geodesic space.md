@@ -1,4 +1,4 @@
-# Every normed space is a geodesic space
+# Every normed vector space is a geodesic space
 ***
 ###### tags: #Geometry 
 ***

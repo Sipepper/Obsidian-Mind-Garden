@@ -1,4 +1,4 @@
-# Homeomorphisms of a Frechet space
+# Homeomorphisms of Frechet space
 ***
 ###### tags: #Topology 
 ***

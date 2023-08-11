@@ -1,6 +1,6 @@
 # Smooth function
 ***
-###### tags: #Topology #Fundamental_math_objects 
+###### tags: #Analysis/Multivariable  #Fundamental_math_objects 
 ***
 >[!dsn]+ Direct strict note
 >Let $U$ be an open set in $n$-dimensional euclidean space $\mathbb{E}$, and let $f:U\to\mathbb{R}$. Function $f$ is said to be *smooth*(*infinitely differentiable*), if in every point from $U$ $f$ has continuous partial derivatives of all orders, which taken in coordinates in $\mathbb{E}$.^[Дж. Милнор, А.Уоллес - "Дифференциальная Топология" p.32-34]
@@ -35,7 +35,9 @@
 - [[Function derivative]],
 - [[Polynomial]],
 - [[Set]],
-- [[Continuous mapping]]
+- [[Continuous mapping]],
+- [[Change of coordinates]],
+- [[Restriction and extension of a mapping]]
 #### Possibly related
 - 
 ***

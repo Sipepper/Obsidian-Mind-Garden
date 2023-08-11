@@ -9,7 +9,7 @@
 >3. $(\alpha u,v)_{H}=\alpha(u,v)_{H},\forall u,v\in H,\alpha\in\mathbb{R}$
 >4. $(u,u)_{H}\ge0,\forall u\in H$ and $(u,u)_{H}=0$ if and only if $U=\theta$.
 >
->Such function $(\cdot,\cdot)_{H}:H\times H\to\mathbb{R}$ is called scalar product.^[Fabio Silva Botelho - "Functional analysis and applied optimization in banach spaces" c.31]
+>Such function $(\cdot,\cdot)_{H}:H\times H\to\mathbb{R}$ is called scalar(innter) product.^[Fabio Silva Botelho - "Functional analysis and applied optimization in banach spaces" c.31]
 
 >[!example] 
 >
