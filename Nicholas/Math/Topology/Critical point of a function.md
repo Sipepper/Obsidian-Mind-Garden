@@ -52,12 +52,22 @@
 >
 >With all non-zero determinants, thus $(0,0)$ is a non-degenerate critical point. 
 ***
+#### On surface
+>[!dsn]+ Direct strict note
+>Let $f:M\to\mathbb{R}$ be a smooth function on a surface. We say that a point $p_{0}$ of a surface $M$ is a *critical point* of a function $f:M\to\mathbb{R}$ if 
+>$$\frac{\partial f}{\partial x}(p_{0})=0,\quad \frac{\partial f}{\partial y}(p_{0})=0$$
+>with respect to local coordinates in some neighborhood of $p_{0}$.^[Yukio Matsumoto - "An introduction to Morse theory" p.16]
+
 #### Keywords
 - [[Function(mapping)]],
 - [[Function derivative]],
 - [[Function order]],
 - [[Linear map]],
-- [[Determinant]]
+- [[Determinant]],
+- [[Functions on surfaces]],
+- [[Smooth surface]],
+- [[Local coordinates]],
+- [[Neighborhood in topological space]]
 #### Possibly related
 - 
 ***

@@ -25,6 +25,11 @@
 >- The zero vector $\theta$ is in $W$.
 
 >Also $W\subset V$ is a subspace if any linear combination(span) of elements from $W$ is in $W$.^[Michael Artin - "Algebra, 2nd edition"]
+
+>[!example]+ 
+>Consider a vector space $\mathbb{R}^{3}$, and take any vector $v\in\mathbb{R}^{3}$, then all scalar multiples of $v$, that is vectors of the form $\lambda v$, will form a vector subspace of $\mathbb{R}^{3}$.
+
+
 ***
 #### Keywords
 - [[Field]],

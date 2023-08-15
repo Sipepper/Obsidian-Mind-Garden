@@ -21,7 +21,7 @@
 >>therefore $gH=Hg$, that is $H$ is normal in $G$. 
 
 >[!example]+
->The center of the [[quaternion group]], 
+>The center of the [[Quaternion group]], 
 >$$Q_{8}=\{1,-1,i,-i,j,-j,k,-k\}$$
 >is $\{1,-1\}$.^[https://en.wikipedia.org/wiki/Center_(group_theory)]
 ***

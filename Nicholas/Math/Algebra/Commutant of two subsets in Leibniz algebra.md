@@ -2,10 +2,10 @@
 ***
 ###### tags: #Algebra 
 ***
->[!dsn] Direct strict note
->Let $L$ be a Leibniz algebra, $A,B\subseteq L$. By $$[A,B]$$ we denote the subspace spanned by all elements of the form $[a,b]$, where $a\in A$, $b\in B$. In other words $[A,B]=\text{span}\set{a,b:a\in A,b\in B}$. The $[A,B]$ is said to be the *commutant* of $A$ and $B$.
+>[!dsn]+ Direct strict note
+>Let $L$ be a Leibniz algebra, $A,B\subseteq L$. By $$[A,B]$$ we denote the subspace spanned by all elements of the form $[a,b]$, where $a\in A$, $b\in B$. In other words $[A,B]=\text{span}\{[a,b]:a\in A,b\in B\}$. The $[A,B]$ is said to be the *commutant* of $A$ and $B$.
 
->[!example] 
+>[!example]+ 
 >
 ***
 #### Keywords
