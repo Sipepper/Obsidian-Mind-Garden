@@ -1,4 +1,4 @@
-# Compactness is preserved under surjective continuous mapping
+# Continuous image of compact space is compact
 ***
 ###### tags: #Topology 
 ***
@@ -32,7 +32,7 @@
 >For $a$ and $b$ in $\mathbb{R}$ with $a<b$, $[a,b]$ is compact while $(a,b)$ is not compact.^[Sidney A. Morris - "Topology without tears" p.181]
 
 >[!proof]+
->The space $[a,b]$ is homeomorphic to the compact space $[0,1]$ and so, by  [[Compactness is preserved under surjective continuous mapping]], is compact.
+>The space $[a,b]$ is homeomorphic to the compact space $[0,1]$ and so, by  [[Continuous image of compact space is compact]], is compact.
 >
 >The space $(a,b)$ is homeomorphic to $(0,\infty)$. If $(a,b)$ were compact, then $(0,\infty)$ would be compact, but $(0,\infty)$ is not compact.
 ***
