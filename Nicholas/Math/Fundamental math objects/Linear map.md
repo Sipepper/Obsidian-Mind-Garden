@@ -48,7 +48,7 @@
 - [[Metrizable space]],
 - [[Neighborhood in topological space]],
 - [[Balanced subsets of topological vector spaces]],
-- [[Convergence in topological vector spaces]],
+- [[Convergence]],
 - [[Function(mapping)]],
 - [[Bounded set]],
 - [[Preimage]],

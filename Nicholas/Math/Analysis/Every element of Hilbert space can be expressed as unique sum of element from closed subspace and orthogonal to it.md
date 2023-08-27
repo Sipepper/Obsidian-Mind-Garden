@@ -40,7 +40,7 @@
 - [[Normed space]],
 - [[Orthogonal complement]],
 - [[Cauchy sequence]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Direct sum of vector spaces]],
 - [[Sequence]],
 #### Possibly related

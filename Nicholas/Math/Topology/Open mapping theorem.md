@@ -59,7 +59,7 @@
 - [[Open ball in metric space]],
 - [[Interior, Exterior and boundary of a set in topological space]],
 - [[Mathematical induction]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Locally compact space]],
 - [[Topological group]],
 - [[sigma-compact space]],

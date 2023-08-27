@@ -32,7 +32,7 @@
 >$$\lim\limits_{n\to\infty}c_{n}=-\frac{2}{5}$$
 ***
 #### Keywords
-- [[Convergence in real numbers]],
+- [[Convergence]],
 - [[Sequence]],
 - [[Limit]],
 - [[Monotonicity]]

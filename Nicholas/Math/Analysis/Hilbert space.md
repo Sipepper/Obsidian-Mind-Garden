@@ -10,7 +10,7 @@
 >$$\langle f,g\rangle=\int_{0}^{1}f(t)g(t)dt$$
 ***
 #### Keywords
-- [[Convergence in topological vector spaces]],
+- [[Convergence]],
 - [[Pre-Hilbert space]],
 - [[Cauchy sequence]],
 - [[Function(mapping)]],

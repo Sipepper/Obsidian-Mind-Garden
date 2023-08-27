@@ -1,0 +1,1 @@
+^[[[Kenneth Falconner - Fractal geometry 2e.pdf#page= |Kenneth Falconner - "Fractal geometry" p. ]]]

@@ -44,7 +44,7 @@
 - [[Set]],
 - [[Monotonicity]],
 - [[Sequence]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Real line]],
 - [[Cauchy sequence]]
 #### Possibly related

@@ -38,7 +38,7 @@
 - [[Open ball in metric space]],
 - [[Closure of a set]],
 - [[Cauchy sequence]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Limit point in topological space]],
 - [[Set of integers]],
 - [[Mathematical induction]],

@@ -25,7 +25,7 @@
 - [[Totally bounded subset of a metric space]],
 - [[Complete metric space]],
 - [[Sequence]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Epsilon-net]],
 - [[Open ball in metric space]],
 - [[Cauchy sequence]]

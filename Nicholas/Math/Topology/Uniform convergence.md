@@ -14,6 +14,6 @@
 - [[Topological space]],
 - [[Metric space]]
 #### Possibly related
-- [[Convergence in metric spaces]]
+- [[Convergence]]
 ***
 #### Sources:

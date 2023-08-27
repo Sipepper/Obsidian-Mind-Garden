@@ -47,7 +47,7 @@
 - [[Cauchy sequence]],
 - [[Sequence]],
 - [[Rational numbers]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Completion of a metric space]],
 - [[Set of natural numbers]],
 - [[Cardinality of a set]],

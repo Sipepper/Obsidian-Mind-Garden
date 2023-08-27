@@ -32,7 +32,7 @@
 - [[Cauchy sequence]],
 - [[Mathematical induction]],
 - [[Continuous mapping]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Limit]]
 #### Possibly related
 - 

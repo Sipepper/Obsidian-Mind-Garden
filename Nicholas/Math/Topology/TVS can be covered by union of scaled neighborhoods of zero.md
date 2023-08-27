@@ -14,7 +14,7 @@
 #### Keywords
 - [[Neighborhood in topological space]],
 - [[Sequence]],
-- [[Convergence in topological vector spaces]]
+- [[Convergence]]
 #### Possibly related
 - 
 ***

@@ -14,7 +14,7 @@
 
 ***
 #### Keywords
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Metric space]],
 - [[Cauchy sequence]],
 - [[Interval]],

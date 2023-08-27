@@ -27,7 +27,7 @@
 - [[Sequence]],
 - [[Metric space]],
 - [[Real line]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Open and closed subsets]],
 - [[Interval]],
 - [[Euclidean space]],

@@ -26,7 +26,7 @@
 - [[Cauchy sequence]],
 - [[Sequence]],
 - [[Bounded set]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 #### Possibly related
 - 
 ***

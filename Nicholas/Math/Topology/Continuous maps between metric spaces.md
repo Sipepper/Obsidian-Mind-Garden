@@ -28,7 +28,7 @@
 - [[Function(mapping)]],
 - [[Topology induced by a metric]],
 - [[Continuous mapping]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Open and closed mappings]],
 - [[Preimage]],
 - [[Sequence]],

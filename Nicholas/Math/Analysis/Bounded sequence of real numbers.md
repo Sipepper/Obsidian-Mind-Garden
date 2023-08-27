@@ -21,7 +21,7 @@
 - [[Real line]],
 - [[Bounded set]],
 - [[Absolute value]],
-- [[Convergence in real numbers]],
+- [[Convergence]],
 - [[Neighborhood in topological space]],
 - [[Trigonometric functions]]
 #### Possibly related

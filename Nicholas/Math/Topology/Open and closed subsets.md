@@ -63,7 +63,7 @@
 - [[Open ball in metric space]],
 - [[Neighborhood in topological space]],
 - [[Sequence]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Real line]],
 #### Possibly related
 - 

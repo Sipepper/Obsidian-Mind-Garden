@@ -26,7 +26,7 @@
 - [[Cauchy sequence]],
 - [[Completion of a metric space]],
 - [[Function(mapping)]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Limit]]
 #### Possibly related
 ***

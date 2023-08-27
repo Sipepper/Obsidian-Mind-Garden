@@ -23,7 +23,7 @@
 ***
 #### Keywords
 - [[Sequence]],
-- [[Convergence in real numbers]],
+- [[Convergence]],
 - [[Limit]],
 - [[Real line]],
 - [[Absolute value]],

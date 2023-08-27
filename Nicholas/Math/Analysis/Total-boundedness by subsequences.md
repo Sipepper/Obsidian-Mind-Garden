@@ -19,7 +19,7 @@
 ***
 #### Keywords
 - [[Metric space]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Totally bounded subset of a metric space]],
 - [[Epsilon-net]],
 #### Possibly related

@@ -21,7 +21,7 @@
 - [[Metric space]],
 - [[Relatively compact set]],
 - [[Sequence]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Closure of a set]],
 - [[Compact subsets of a metric space]],
 - [[Sequentially compact set]],

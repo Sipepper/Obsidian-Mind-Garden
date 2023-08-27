@@ -14,7 +14,7 @@
 #### Keywords
 - [[Euclidean topology]],
 - [[Bounded set]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Sequence]]
 #### Possibly related
 - 

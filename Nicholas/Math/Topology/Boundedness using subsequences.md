@@ -20,7 +20,7 @@
 - [[Sequence]],
 - [[Topological vector space]],
 - [[Neighborhood in topological space]],
-- [[Convergence in topological vector spaces]] 
+- [[Convergence]] 
 #### Possibly related
 - 
 ***

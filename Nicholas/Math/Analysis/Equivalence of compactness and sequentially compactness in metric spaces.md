@@ -36,7 +36,7 @@
 - [[Covering of a set]],
 - [[Countably compact set]],
 - [[Limit point in topological space]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Totally bounded subset of a metric space]],
 - [[Cardinality of a set]],
 - [[Open and closed subsets]],

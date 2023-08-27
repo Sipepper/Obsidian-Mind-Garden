@@ -31,7 +31,7 @@
 - [[Compact set]],
 - [[Cardinality of a set]],
 - [[Metric space]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Sequence]],
 - [[Stabilizer subgroup]],
 - [[Group of isometries]],

@@ -13,7 +13,7 @@
 #### Keywords
 - [[Metric space]],
 - [[Sequence]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Set]]
 #### Possibly related
 - [[Compact set]]

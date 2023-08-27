@@ -36,7 +36,7 @@
 - [[Cardinality of a set]],
 - [[Dense subset]],
 - [[Complex plane]],
-- [[Convergence in metric spaces]],
+- [[Convergence]],
 - [[Bounded set]],
 - [[Cauchy sequence]]
 #### Possibly related
