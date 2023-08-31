@@ -16,7 +16,9 @@
 - [[Function(mapping)]],
 - [[Lp-space]],
 - [[Interval]],
+- [[Inner product]],
+- [[Riemann integral]]
 #### Possibly related
-- 
+- [[Complete metric space]]
 ***
 #### Sources:

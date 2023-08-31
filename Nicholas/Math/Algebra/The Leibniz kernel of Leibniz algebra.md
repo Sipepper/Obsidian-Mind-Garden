@@ -50,8 +50,8 @@
 - [[Linear span]],
 - [[Lie algebra]],
 - [[Ideal]],
-- [[Leibniz subalgebras]],
-- [[Factor algebra]],
+- [[Leibniz algebra]],
+- [[Quotient algebra]],
 #### Possibly related
 - 
 ***

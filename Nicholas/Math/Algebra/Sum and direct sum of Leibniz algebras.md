@@ -24,7 +24,7 @@
 ***
 #### Keywords
 - [[Leibniz algebra]],
-- [[Leibniz subalgebras]],
+- [[Leibniz algebra]],
 - [[Commutant of two subsets in Leibniz algebra]],
 - [[Vector space]],
 - [[Direct sum of vector spaces]]

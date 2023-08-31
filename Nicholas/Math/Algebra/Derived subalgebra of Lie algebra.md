@@ -36,7 +36,7 @@
 - [[Lie algebra]],
 - [[Commutant of two subsets in Lie algebra]],
 - [[Ideal]],
-- [[Factor algebra]],
+- [[Quotient algebra]],
 #### Possibly related
 - 
 ***

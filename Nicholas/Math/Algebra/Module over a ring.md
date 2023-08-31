@@ -3,7 +3,7 @@
 ###### tags: #Algebra 
 ***
 >[!dsn] Direct strict note
->Let $R$ be a ring. Then the *$R$-module* $V$ is an abelian group with binary algebraic operation "$+$", and outer multiplication by a scalar $R\times V\to V$, $v\mapsto rv$, which satisfies following axioms: 
+>Let $R$ be a ring. Then the *$R$-module* $V$ is an abelian group with binary algebraic operation "$+$", and outer multiplication by a scalar $R\times V\to V$, $r\cdot v\mapsto w$, which satisfies following axioms: 
 >1. $1_{R}v=v$
 >2. $(rs)v=r(sv)$
 >3. $(r+s)v=rv+sv$

@@ -53,6 +53,6 @@
 - [[Linear map]],
 - [[Structure constants of an algebra]]
 #### Possibly related
-- [[Билинейная форма]]
+- [[Bilinear form]]
 ***
 #### Sources:
