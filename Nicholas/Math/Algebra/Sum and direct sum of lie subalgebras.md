@@ -23,9 +23,8 @@
 ***
 #### Keywords
 - [[Lie algebra]],
-- [[Lie algebra]],
 - [[Vector space]],
-- [[Прямая сумма векторных пространств]],
+- [[Direct sum of vector spaces]],
 - [[Ideal]],
 #### Possibly related
 - 
