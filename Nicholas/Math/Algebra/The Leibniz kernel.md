@@ -1,19 +1,21 @@
-# The Leibniz kernel of Leibniz algebra
+# The Leibniz kernel
 ***
 ###### tags: #Algebra 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Direct strict note
 >Let $L$ be a Leibniz algebra. Let $\text{Leib}(L)$ be a subspace, spanned by elements $[a,a]$,$a\in L$, such subspace is said to be the *Leibniz kernel* of $L$.
 
 >We can see that for Lie algebras such construction is non-constructive, because $[a,a]=0,\forall a\in L$.
 
+>[!example]+
+>
 #### Properties
->[!dsn] Direct strict note
+>[!dsn]+ Direct strict note
 >1. $\text{Leib}(L)$ is an ideal of $L$.
->2. Factor algebra $L/\text{Leib}(L)$ is a Lie algebra. Furthermore $\text{Leib}(L)$ is the smallest such subalgebra.
+>2. Quotient algebra $L/\text{Leib}(L)$ is a Lie algebra. Furthermore $\text{Leib}(L)$ is the smallest such subalgebra.
 >3. Leibniz algebra which is not a Lie algebra has a non-trivial Leibniz kernel, thus always has at least three ideals $<0>$, $\text{Leib}(L)$ and $L$.
 
->[!proof]
+>[!proof]+
 >1. We need to show that
 >   $$[[a,a],x]\in\text{Leib}(L)$$
 >   $$[x,[a,a]]\in\text{Leib}(L)$$
@@ -37,12 +39,6 @@
 >   from which we obtain that
 >   $$\underbrace{[a,a]}_{\in\text{Leib}(L)}\in H$$
 >   therefore $\text{Leib}(L)\le H$. Thus $\text{Leib}(L)$ is the smallest ideal with such property.
-
-
-
-
->[!example] 
->
 ***
 #### Keywords
 - [[Leibniz algebra]],
