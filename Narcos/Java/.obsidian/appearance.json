@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "cssTheme": "ProtocolBlue",
+  "accentColor": "",
+  "interfaceFontFamily": "Hurmit NFM",
+  "textFontFamily": "Hurmit NFM",
+  "monospaceFontFamily": "Hurmit NFM",
+  "enabledCssSnippets": [
+    "test"
+  ]
+}

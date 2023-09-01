@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "df6019c30007e61c",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a483f2ad610cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d777ece76ad7953e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9db86601596e57c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "013fd4508b68a0cd",
+        "type": "tabs",
+        "dimension": 48.55769230769231,
+        "children": [
+          {
+            "id": "3d1bf4aefbc30356",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "282e5620c278beba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a650c653b3e1be38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "14c845d5a39c5736",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "4b4d2fc878703108",
+        "type": "tabs",
+        "dimension": 51.442307692307686,
+        "children": [
+          {
+            "id": "dfe533e97fb658e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23a5087b7a33a2f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e3ec383a55670391",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d172a1d14e3d1e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb1c3510cdf13df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da0a1a8f7293aa19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fca6a56b084a5468",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "24e4e8aaa1cdab1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e18cdb105c325b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e20a7dbdc5a7308",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02871a19527b5f29",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "d777ece76ad7953e",
+  "lastOpenFiles": [
+    "Java Syntax/Класс Scanner.md",
+    "JAVA/Java Syntax/Структура программы Java.md",
+    "JAVA/Java Syntax/Преобразование числа в строку и обратно.md",
+    "JAVA/Java Syntax/Методы работы со строками.md",
+    "JAVA/Java Syntax/Класс Scanner.md",
+    "JAVA/Java Syntax",
+    "JAVA",
+    "Java Syntax/Методы работы со строками.md",
+    "Java Syntax/Структура программы Java.md",
+    "Java Syntax/Преобразование числа в строку и обратно.md",
+    "Общие сведенья.md",
+    "MI-NH/Прогрессия.canvas",
+    "MI-NH/Идеи.md",
+    "MI-NH/План работ.canvas",
+    "MI-NH/MI-F (MCSkill)/Монетизация.canvas",
+    "MI-NH/README.md",
+    "MI-NH/MI-F (MCSkill)/Идеи сервера.md",
+    "MI-NH/obsidian_settings",
+    "Untitled.md",
+    "MI-NH/obsidian_settings (1)",
+    "MI-NH/MI-F (MCSkill)",
+    "MI-NH/Patterns/Spectrum Spirit Instiller template.md",
+    "MI-NH/Patterns/Spectrum Pigment Pedestal template.md",
+    "MI-NH/Patterns/Spectrum Fusion Shrine template.md",
+    "MI-NH/Patterns/Spectrum Enchanter pattern.md",
+    "MI-NH/Patterns/Spectrum Crystallarieum template.md",
+    "MI-NH/Patterns/Spectrum Cinderhearth template.md",
+    "MI-NH/Patterns/Shapeless recipe template.md",
+    "MI-NH/Patterns/Runic Altar template.md",
+    "MI-NH/Patterns/MI Vacuum freezer template.md",
+    "MI-NH/Patterns/MI Quarry template.md",
+    "MI-NH/Patterns/MI Pressurizer template.md",
+    "MI-NH/Patterns/MI Polarizer template.md",
+    "MI-NH/Patterns/MI Packer template.md",
+    "MI-NH/Patterns",
+    "MI-NH/obsidian_settings.rar",
+    "MI-NH/MI-F (MCSkill)",
+    "MI-NH/kubejs/assets/kubejs/textures/item/example_item.png",
+    "MI-NH/Textures/Items/desh_large_plate.png",
+    "MI-NH/Textures/Items/rocket_alloy_ingot.png",
+    "MI-NH/Textures/Items/rocket_alloy_plate.png",
+    "MI-NH/Textures/Items/rocket_alloy_large_plate.png",
+    "MI-NH/kubejs/assets/modern_industrialization (1)/textures/block/machines/pyrolyse_oven/overlay_front_active.png",
+    "MI-NH/kubejs/assets/modern_industrialization (1)/textures/block/machines/pyrolyse_oven/overlay_front.png",
+    "MI-NH/kubejs/assets/modern_industrialization (1)/textures/block/machines/pyrolyse_oven",
+    "MI-NH/kubejs/assets/modern_industrialization (1)/textures/block/machines",
+    "MI-NH/kubejs/assets/modern_industrialization/textures/block/machines/pyrolyse_oven/overlay_front_active.png",
+    "MI-NH/kubejs/assets/modern_industrialization/textures/block/machines/pyrolyse_oven/overlay_front.png",
+    "MI-NH/kubejs/assets/modern_industrialization/textures/block/machines/circuit_assembler/overlay_front_active.png"
+  ]
+}

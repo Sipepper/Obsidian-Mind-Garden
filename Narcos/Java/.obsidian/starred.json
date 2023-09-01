@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Проекция произведения топологических пространств",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Topology/Проекция произведения топологических пространств.md"
+    },
+    {
+      "type": "file",
+      "title": "Эпсилон сеть",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Analysis/Эпсилон сеть.md"
+    },
+    {
+      "type": "file",
+      "title": "График отображения",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Analysis/График оператора.md"
+    },
+    {
+      "type": "file",
+      "title": "Евклидовы модели кольца целых p-адических чисел",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/p-adic analysis/Евклидовы модели кольца целых p-адических чисел.md"
+    },
+    {
+      "type": "file",
+      "title": "Теорема Арцела-Асколи",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Analysis/Теорема Арцела-Асколи.md"
+    },
+    {
+      "type": "file",
+      "title": "Атласы и карты гладкого многообразия",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Topology/Атласы и карты гладкого многообразия.md"
+    },
+    {
+      "type": "file",
+      "title": "Норма элемента Банахова пространства через дуальное к нему",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Analysis/Норма элемента Банахова пространства через дуальное к нему.md"
+    },
+    {
+      "type": "file",
+      "title": "Об ограниченном функционале и выпуклом открытом множестве",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Analysis/Об ограниченном функционале и выпуклом открытом множестве.md"
+    },
+    {
+      "type": "file",
+      "title": "Шары в кольце целых p-адических чисел",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/p-adic analysis/Шары в кольце целых p-адических чисел.md"
+    },
+    {
+      "type": "file",
+      "title": "Матрица Якоби",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Topology/Матрица Якоби.md"
+    },
+    {
+      "type": "file",
+      "title": "О вычислении длины вектора скорости при замене координат",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Geometry/О вычислении длины вектора скорости при замене координат.md"
+    },
+    {
+      "type": "file",
+      "title": "Интеграл относительно меры",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Measure theory/Интеграл относительно меры.md"
+    },
+    {
+      "type": "file",
+      "title": "Пример вычисления размерности Минковского-Булигана",
+      "path": "Obsidian-Mind-Garden/Nicholas/Math/Geometry/Пример вычисления размерности Минковского-Булигана.md"
+    }
+  ]
+}
