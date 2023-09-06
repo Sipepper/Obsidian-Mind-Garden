@@ -1,4 +1,4 @@
-# Операции над числами в Java
+# Операции над числами в `Java`
 ***
 ###### tags: #Programming/Java/Syntax 
 ***
