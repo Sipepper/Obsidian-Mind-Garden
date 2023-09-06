@@ -1,4 +1,4 @@
-# Класс Scanner
+# Класс `Scanner`
 ***
 ###### tags: #Programming/Java/Syntax 
 ***

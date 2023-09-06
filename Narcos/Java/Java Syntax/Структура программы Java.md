@@ -1,4 +1,4 @@
-# Структура программы Java
+# Структура программы `Java`
 ***
 ###### tags: #Programming/Java/Syntax 
 ***

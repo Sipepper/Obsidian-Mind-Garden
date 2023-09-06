@@ -1,4 +1,4 @@
-# Логический тип boolean
+# Логический тип `boolean`
 ***
 ###### tags: #Programming/Java/Syntax  
 ***
