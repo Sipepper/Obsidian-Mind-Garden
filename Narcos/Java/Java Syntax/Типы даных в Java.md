@@ -23,7 +23,7 @@
 public class Example{
 	public static void main(String[], args)
 	{
-		inal double CM_PER_INCH = 2.54; 
+		final double CM_PER_INCH = 2.54; 
 		double paperWidth = 8.5; 
 		double PaperHeight = 11; 
 		System.out.println("Размер страницы в сантиметрах: " 
