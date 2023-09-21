@@ -13,9 +13,5 @@ public class Example{
 }
 ```
 ***
-#### Keywords
-- 
-#### Possibly related
-- 
-***
 #### Sources:
+- 
