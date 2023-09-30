@@ -3,7 +3,7 @@
 ###### tags: #p-adic 
 ***
 >[!dsn] Direct strict note
->A *ball* $B_{<r}(a)$ centered at point $a$ in $\mathbb{Z}_{p}$ is defined as $d(x,a)=|x-a|<r$.^[Alain M. Robert - "A course in p-adic analysis" p.11]
+>A *ball* $B_{<r}(a)$ centered at point $a$ in $\mathbb{Z}_{p}$ is defined as $d(x,a)=|x-a|_{p}<r$.^[Alain M. Robert - "A course in p-adic analysis" p.11]
 
 >A ball $B_{<r}(a)$ will not change if we replace $r$ with smallest $p^{-n}\ge r$. 
 >>[!proof]
@@ -17,6 +17,7 @@
 #### Keywords
 - [[Ring of p-adic integers]],
 - [[Open ball in metric space]],
+- [[Representation of a free monoid of balls in p-adic integers]],
 - [[p-adic metric]],
 - [[Monoid]],
 - [[Free monoid]],

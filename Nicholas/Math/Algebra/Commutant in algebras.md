@@ -1,7 +1,17 @@
-# Commutant of two subsets in Leibniz algebra
+# Commutant in algebras
 ***
 ###### tags: #Algebra 
 ***
+#### In Lie algebras
+>[!dsn]+ Direct strict note
+>Let $L$ be a Lie algebra and $A,B\subseteq L$. We denote by 
+>$$[A,B]$$
+>the subspace spanned by all elements $[a,b]$ where $a\in A,b\in B$. Such construction is said to be a *commutant* of $A$ and $B$.
+
+>[!example]+
+>
+
+#### In Leibniz algebras
 >[!dsn]+ Direct strict note
 >Let $L$ be a Leibniz algebra, $A,B\subseteq L$. By $$[A,B]$$ we denote the subspace spanned by all elements of the form $[a,b]$, where $a\in A$, $b\in B$. In other words $[A,B]=\text{span}\{[a,b]:a\in A,b\in B\}$. The $[A,B]$ is said to be the *commutant* of $A$ and $B$.
 
@@ -9,10 +19,13 @@
 >
 ***
 #### Keywords
+- [[Lie algebra]],
 - [[Leibniz algebra]],
-- [[Vector space]],
 - [[Linear span]],
+- [[Set]],
+- [[Linear span]],
+- [[Vector space]]
 #### Possibly related
-- [[Commutant of two subsets in Lie algebra]]
+- 
 ***
 #### Sources:

@@ -37,7 +37,7 @@
 - [[Vector]],
 - [[Cross product]],
 - [[Vector space]],
-- [[Commutant of two subsets in Lie algebra]]
+- [[Commutant in algebras]]
 #### Possibly related
 - 
 ***

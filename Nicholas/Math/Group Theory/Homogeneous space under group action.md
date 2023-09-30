@@ -3,7 +3,7 @@
 ###### tags: #Group_Theory #Geometry 
 ***
 >[!dsn]+ Direct strict note
->The set $X$ is called a *homogeneous space under $G$* (for the action $\phi$) if $(G,X,\phi)$ is transitive.^[Marcel Berger - "Geometry 1" p.8]
+>The set $X$ is called a *homogeneous space under $G$* (for the action $\phi$) if $(G,X,\phi)$ is transitive.^[Marcel Berger - "Geometry 1" p.8].
 
 >Let $X$ be homogeneous under $(G,X,\phi)$, and fix $x\in X$. Define $\theta:G\to X$ by $\theta(g)=g(x)$. Since $g(x)=h(x)$ is equivalent to $h^{-1}g\in G_{x}$, we can pass to a map $\underline{\theta}:G/G_{x}\to X$, where $G/G_{x}$ is the quotient set of $G$ by the equivalence relation $g\sim h\Leftrightarrow h^{-1}g\in G_{x}$:
 >$$\begin{matrix}&G&\overset{p}\longrightarrow&G/G_{x}&\\&\qquad\theta\searrow&&\swarrow\underline{\theta}\\&&X\end{matrix}$$

@@ -34,7 +34,7 @@
 #### Keywords
 - [[Lie algebra]],
 - [[Lie algebra]],
-- [[Commutant of two subsets in Lie algebra]],
+- [[Commutant in algebras]],
 - [[Ideal]],
 - [[Quotient algebra]],
 #### Possibly related

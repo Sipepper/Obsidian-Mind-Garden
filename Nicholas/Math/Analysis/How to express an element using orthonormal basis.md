@@ -3,11 +3,11 @@
 ###### tags: #Analysis/Functional 
 ***
 >[!dsn]+ Direct strict note
->Let $H$ be a Hilbert space and let $S=\{u_{\alpha}\}_{\alpha\in L}$ be an otrthonormal basis. Then for all $v\in H$
+>Let $H$ be a Hilbert space and let $S=\{u_{\alpha}\}_{\alpha\in L}$ be an orthonormal basis. Then for all $v\in H$
 >$$v=\sum\limits_{\alpha\in L}(u_{\alpha},v)_{H}v_{\alpha}$$
 >and
 >$$\|v\|_{H}^{2}=\sum\limits_{\alpha\in L}|(u_{\alpha},v)_{H}|^{2}$$
->.^[Fabio Silva Botelho - "Functional analysis and applied optimization in banach spaces" p.37-39]
+>.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page= 55|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.37-39]]]
 
 >[!proof]+
 >Let $L'$ be a finite subset of $L$. By [[Bessel's inequality]] we have that
@@ -46,7 +46,9 @@
 - [[Sequence]],
 - [[Convergence]],
 - [[Real line]],
-- [[Cauchy sequence]]
+- [[Cauchy sequence]],
+- [[Absolute value]],
+- [[Euclidean inner product]]
 #### Possibly related
 - [[Bounded set]]
 ***

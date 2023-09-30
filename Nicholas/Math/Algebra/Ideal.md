@@ -44,13 +44,12 @@
 ***
 #### Keywords
 - [[Lie algebra]],
-- [[Lie algebra]],
 - [[Vector space]]
 - [[Leibniz algebra]],
 - [[Properties of subalgebras, ideals and sums of subalgebras in Lie algebras]],
 - [[Algebra]],
-- [[Commutant of two subsets in Lie algebra]]
-- [[Commutant of two subsets in Leibniz algebra]]
+- [[Commutant in algebras]]
+- [[Commutant in algebras]]
 #### Possibly related
 - 
 ***
