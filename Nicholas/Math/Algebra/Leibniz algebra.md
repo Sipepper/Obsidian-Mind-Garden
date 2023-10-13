@@ -1,3 +1,9 @@
+---
+tags:
+  - "#Algebra"
+Last time checked: 2023-09-30
+Complete: false
+---
 # Leibniz algebra
 ***
 ###### tags: #Algebra 

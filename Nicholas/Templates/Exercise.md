@@ -1,21 +1,15 @@
+---
+tags: 
+---
 # {{title}}
 ***
-###### exercise type: #
-***
-###### tags: # 
-***
->[!dsn] Body of the problem
+#### 1.
+>[!dsn]+ Body of the problem
 >
 
->[!proof]
+>[!proof]+
 >
 
->[!solution]
+>[!solution]+
 >
 ***
-#### Keywords
-- 
-#### Possibly related
-- 
-***
-#### Sources:

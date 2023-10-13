@@ -1,3 +1,10 @@
+---
+Last time checked: 2023-10-12
+Complete: true
+aliases:
+- Відношення еквівалентності
+- Отношение эквивалентности
+---
 # Equivalence relation
 ***
 ###### tags: #Fundamental_math_objects 
@@ -11,11 +18,12 @@
 >Notation $a\sim b$ means that $a$ is *equivalent* to $b$.^[https://ru.wikipedia.org/wiki/Отношение_эквивалентности]
 
 >[!example]+ 
->
+>[[Congruent integers|Congruence]] is an example of equivalence relation defined on integers.
 ***
 #### Keywords
 - [[Set]],
-- [[Binary relation]]
+- [[Binary relation]],
+- [[Set of integers]]
 #### Possibly related
 - 
 ***
