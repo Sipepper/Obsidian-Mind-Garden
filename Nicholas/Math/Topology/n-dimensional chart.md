@@ -10,9 +10,6 @@
 >In the former case we say that $\Phi$ is a chart of type $(i)$, in the latter case we say that $\Phi$ is a chart of type $(ii)$.^[Stefan Friedl - "Algebraic topology" p.261]
 >![[Pasted image 20230708180253.png]]
 
->[!proof]+
->
-
 >[!example]+ 
 >
 ***

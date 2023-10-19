@@ -7,9 +7,6 @@
 
 >Set of all boundary points is called *boundary* and denoted as $\partial X$.^[Stefan Friedl - "Algebraic topology" p.262]
 
->[!proof]+
->
-
 >[!example]+ 
 >
 ***
