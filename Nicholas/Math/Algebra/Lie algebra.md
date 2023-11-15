@@ -32,7 +32,7 @@
 ***
 #### Keywords
 - [[Algebra]],
-- [[Characteristic of a field]],
+- [[Characteristic]],
 - [[Euclidean space]],
 - [[Vector]],
 - [[Cross product]],

@@ -43,7 +43,7 @@
 - [[Set]],
 - [[Homeomorphism]],
 - [[Compact set]],
-- [[Number Bases]],
+- [[Integer Bases]],
 - [[Real line]],
 - [[Function(mapping)]],
 - [[Ring of p-adic integers]],

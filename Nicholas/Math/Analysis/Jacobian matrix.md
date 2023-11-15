@@ -28,7 +28,7 @@
 - [[Vector function]],
 - [[Matrix]],
 - [[Linear form]],
-- [[Differen]],
+- [[Differential]],
 - [[Determinant]],
 #### Possibly related
 - 

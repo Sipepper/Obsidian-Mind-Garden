@@ -69,7 +69,7 @@
 - [[Discrete topology]],
 - [[Set]],
 - [[Mathematical induction]],
-- [[Number Bases]]
+- [[Integer Bases]]
 #### Possibly related
 - [[Topology basis]]
 ***

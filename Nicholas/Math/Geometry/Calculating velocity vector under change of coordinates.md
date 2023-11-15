@@ -17,7 +17,7 @@
 ***
 #### Keywords
 - [[Change of coordinates]],
-- [[Tangent vector and trace of the curve]],
+- [[Tangent vector]],
 - [[Parametrized differentiable curve in euclidean space]],
 - [[Function derivative]],
 #### Possibly related

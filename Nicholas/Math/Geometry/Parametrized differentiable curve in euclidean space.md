@@ -33,7 +33,7 @@
 - [[Euclidean space]],
 - [[Function(mapping)]],
 - [[Curve in metric space]],
-- [[Tangent vector and trace of the curve]],
+- [[Tangent vector]],
 - [[Vector]]
 #### Possibly related
 - 

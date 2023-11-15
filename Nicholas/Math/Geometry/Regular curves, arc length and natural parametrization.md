@@ -36,7 +36,7 @@
 ***
 #### Keywords
 - [[Parametrized differentiable curve in euclidean space]],
-- [[Tangent vector and trace of the curve]],
+- [[Tangent vector]],
 - [[Function derivative]],
 - [[Euclidean space]],
 - [[Function(mapping)]],
