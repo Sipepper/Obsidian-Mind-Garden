@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-01-24
+Complete: false
+aliases:
+---
 # Making a Lie algebra out of associative algebra using commutator
 ***
 ###### tags: #Algebra 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $A$ be an associative algebra over a field $F$. Then we can introduce a new multiplication $[\cdot,\cdot]$ on $A$ with the same addition defined as
 >$$[a,b]=ab-ba$$
 >such multiplication is said to be a *commutator* of $a$ and $b$.
@@ -13,12 +18,12 @@
 >[!example]+
 >Let $M_{n}(\mathbb{R})$ be a vector space of matrices of size $n\times n$ over a field $\mathbb{R}$. We can form a lie algebra by commutator
 >$$[A,B]=AB-BA$$
->
->>[!proof]
+>>[!proof]+
 >>
 ***
 #### Keywords
 - [[Algebra]],
+- [[Associative property]],
 - [[Lie algebra]],
 - [[Field]],
 - [[Matrix]],

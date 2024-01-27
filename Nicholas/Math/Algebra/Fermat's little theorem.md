@@ -53,8 +53,11 @@ aliases:
 #### Keywords
 - [[Prime number]],
 - [[Set of integers]],
+- [[Congruent integers]],
 - [[Modular arithmetic]],
-- [[Residue class]]
+- [[Residue class]],
+- [[Divisibility]],
+- [[Mathematical induction]]
 #### Possibly related
 - 
 ***

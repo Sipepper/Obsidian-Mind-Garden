@@ -1,5 +1,5 @@
 ---
-Last time checked: 2023-11-04
+Last time checked: 2023-11-16
 Complete: true
 aliases:
 ---
@@ -27,13 +27,13 @@ aliases:
 
 >If multiplication is commutative, i.e. $a\cdot b=b\cdot a$, we say that $R$ is a *commutative ring*.
 
->Let $R$ be a ring, then neutral element and multiplicative identity are unique.
+>Neutral element and multiplicative identity are unique.
 >>[!proof]+
 >>Suppose that $1_{R}\ne 1'_{R}$ are two multiplicative identities in $R$. Then
 >>$$1_{R}=1_{R}\cdot 1'_{R}=1'_{R}$$
 >>thus $1_{R}=1'_{R}$. Analogously for neutral element.
 
->Let $R$ be a ring, then additive inverses are unique
+>Additive inverses are unique
 >>[!proof]+
 >>Let $a\in R$, $a',a''\in R$ such that 
 >>$$a+a'=0_R\quad\text{and}\quad a+a''=0_{R}$$
@@ -44,15 +44,25 @@ aliases:
 >[!example]+ 
 >- $(\mathbb{Z},+,\cdot)$ is a ring, where $0_{\mathbb{Z}}=0$ and $1_{\mathbb{Z}}=1$.
 >- A set $5\mathbb{Z}=\{5k|k\in\mathbb{Z}\}$ together with operations $+$ and $\cdot$ is *not* a ring, as there are no identity element with respect to multiplication.
+
+>Let $(R,+,\cdot)$ be a ring, $S\subset R$. Suppose that $0_{R}\in S$, $1_{R}\in S$ and $S$ is closed under operations. We say that $S$ is a *subring* if it is also a ring and $0_{S}=0_{R}$, $1_{S}=1_{R}$.
+>>[!example]+
+>>A subset 
+>>$$\Delta=\{(a,a):a\in R\}\subset R\times R$$
+>>is a subring of $R$, which has similar structure to $R$ itself (because of component-wise operations).
+
 ***
 #### Keywords
 - [[Set]],
 - [[Law of composition]],
 - [[Cartesian product of sets]],
+- [[Associative property]],
+- [[Commutative property]],
 - [[Abelian group]],
 - [[Monoid]],
-- [[Set of integers]]
+- [[Set of integers]],
 #### Possibly related
-- [[Group coset]]
+- [[Group coset]],
+- [[Diagonal of topological product space]]
 ***
 #### Sources:

@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-01-27
+Complete: false
+aliases:
+---
 # Every Hilbert space has an orthonormal basis
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn]+ Direct strict note
->Let $U$ be a Hilbert space. Then it's *always* has an orthonormal basis.^[Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.37]
+>[!dsn]+ Proposition
+>Let $U$ be a Hilbert space. Then it's *always* has an orthonormal basis.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page=55|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.37]]]
 
 >[!proof]+
 >Let $C$ be a family of all orthonormal sets in $H$. Define a partial order of $C$ as follows: $S_{1}\le S_{2}$ if $S_{1}\subset S_{2}$. Then $C$ is a partially ordered set and non-empty as
@@ -20,6 +25,7 @@
 - [[Partially ordered set]],
 - [[Set]],
 - [[Linearly ordered set]],
+- [[Normed space]],
 - [[Greatest element, upper bound and maximal element of a partially ordered set]],
 - [[Basis of vector space]]
 #### Possibly related

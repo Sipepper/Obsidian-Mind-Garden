@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-01-27
+Complete: false
+aliases:
+---
 # Every element of Hilbert space can be expressed as unique sum of element from closed subspace and orthogonal to it
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $H$ be a Hilbert space and $M$ is a closed subspace of $H$ and $u\in H$. Then there exists a unique $m_{0}\in M$ such that 
 >$$\|u-m_{0}\|_{H}=\min_{m\in M}\{\|u-m\|_{H}\}$$
->Futhermore exist element $n_{0}=u-m_{0}\in M^{\perp}$ such that $u=m_{0}+n_{0}$, i.e. $U=M\oplus M^{\perp}$ is unique.^[Fabio Silva Botelho - "Functional analysis and applied ompimization in Banach spaces" p.32-34]
+>Futhermore exist element $n_{0}=u-m_{0}\in M^{\perp}$ such that $u=m_{0}+n_{0}$, i.e. $U=M\oplus M^{\perp}$ is unique.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page= 50|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.32]]]
 
 >[!proof]+
 >Define $d$ as $d=\inf\limits_{m\in M}\{\|u-m\|_{H}\}$. Let $\{m_{i}\}\subset M$ is a sequence such that $\|u-m_{i}\|_{H}\to d$, as $i\to\infty$. Then by [[Parallelogram law]] we obtain that
@@ -36,13 +41,16 @@
 #### Keywords
 - [[Hilbert space]],
 - [[Open and closed subsets]],
-- [[Vector space]],
 - [[Normed space]],
+- [[Direct sum of vector spaces]],
 - [[Orthogonal complement]],
+- [[Supremum and infinum]],
+- [[Sequence]],
+- [[Real line]],
+- [[Vector space]],
 - [[Cauchy sequence]],
 - [[Convergence]],
-- [[Direct sum of vector spaces]],
-- [[Sequence]],
+- [[Inner product]]
 #### Possibly related
 - 
 ***

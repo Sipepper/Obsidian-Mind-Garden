@@ -1,17 +1,22 @@
+---
+Last time checked: 2024-01-27
+Complete: false
+aliases:
+---
 # Convergence 
 ***
 ###### tags: #Topology #Fundamental_math_objects 
 ***
 #### In TVS
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $U$ be a topological vector space. A sequence $\{u_{n}\}$ *converges* to an element $u_{0}\in U$, if for every neighbourhood $V$ of $u_{0}$, there exists a natural number $N$ suh that
->$$u_{n}\in V\quad\forall n\ge N$$.^[Botelho - Functional Analysis and Applied Optimization in Banach Spaces p.9]
+>$$u_{n}\in V\quad\forall n\ge N$$^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page= 27|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.9]]]
 
 >[!example]+ 
 >
 
 #### In real numbers
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >A sequence $\{a_{n}\}_{n\in\mathbb{N}}$ is called *convergent* to $a\in\mathbb{R}$ if
 >$$\forall\varepsilon>0\quad\exists N\in\mathbb{N}\quad\forall n\ge N:|a_{n}-a|<\varepsilon$$
 >.^[https://www.youtube.com/watch?v=1SguKALJji8&list=PLBh2i93oe2quABbNq4I_-hyjhW8eOdgrO&index=2]
@@ -44,12 +49,12 @@
 >>So we got a contradiction $2<2$, so the assumption is false. Thus sequence is indeed divergent.
 
 #### In metric spaces
->[!dsn] Direct strict note
->Let $(X,d)$ be a metric space and $\set{x_{n}}$ a sequence of points in $X$. Then the sequence is said to *converge to* $x\in X$ if $\forall\varepsilon>0$ there exists an integer $n_{0}$ such that $\forall n\ge n_{0}$, $d(x,x_{n})<\varepsilon$. This is denoted by $x_{n}\to x$.^[Sidney A. Morris - "Topology without tears" p.141]
+>[!dsn]+ Definition
+>Let $(X,d)$ be a metric space and $\set{x_{n}}$ a sequence of points in $X$. Then the sequence is said to *converge to* $x\in X$ if $\forall\varepsilon>0$ there exists an integer $n_{0}$ such that $\forall n\ge n_{0}$, $d(x,x_{n})<\varepsilon$. This is denoted by $x_{n}\to x$.^[[[Sidney A. Morris - Topology without tears.pdf#page=144|Sidney A. Morris - "Topology without tears" p.144]]]
 >
 >The sequence $\set{y_{n}}$ of points in $(X,d)$ is said to be *convergent* if there exists a point $y\in X$ such that $y_{n}\to y$.
 
->Let $\set{x_{n}}$ be a sequence of points in a metric space $(X,d)$. Further let $x$ and $y$ be points in $(X,d)$ such that $x_{n}\to x$ and $x_{n}\to y$. Then $x=y$.^[Sidney A. Morris - "Topology without tears" p.141]
+>Let $\set{x_{n}}$ be a sequence of points in a metric space $(X,d)$. Further let $x$ and $y$ be points in $(X,d)$ such that $x_{n}\to x$ and $x_{n}\to y$. Then $x=y$.^[[[Sidney A. Morris - Topology without tears.pdf#page=141|Sidney A. Morris - "Topology without tears" p.141]]]
 >>[!proof]+
 >>As [[Metric space is a Hausdorff space]] and [[Every convergent sequence of Hausdorff space has a unique limit]] indeed if $x_{n}\to x$ and $x_{n}\to y$, then $x=y$.
 

@@ -33,7 +33,9 @@ aliases:
 #### Keywords
 - [[Set of integers]],
 - [[Divisibility]],
-- [[Fundamental theorem of arithmetic]]
+- [[Logical operators]],
+- [[Greatest common divisor]],
+- [[Fundamental theorem of arithmetic]],
 #### Possibly related
 - 
 ***

@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-01-24
+Complete: true
+aliases:
+---
 # Relatively prime numbers
 ***
 ###### tags: #Algebra/Number_theory 

@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-01-21
+Complete: false
+aliases:
+---
 # Algebra
 ***
 ###### tags: #Algebra 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition 
 >Let $A$ be some vector space endowed with *vector multiplication* which satisfies following properties
 >1. $(a+b)c=ac+bc\quad\forall a,b,c\in A$
 >2. $a(b+c)=ab+ac\quad\forall a,b,c\in A$
@@ -15,14 +20,14 @@
 
 >*Basis* of an algebra $A$ is just a basis of corresponding vector space. Same with dimension.
 
->[!example] 
+>[!example]+
 >
 
 #### Subalgebra
 >[!dsn] Direct strict note
 >Let $A$ be an algebra over a field $F$. Let $B$ be some subspace of a vector space $A$ which is invariant under algebra multiplication, i.e. also is an algebra. Then such subspace is said to be a *subalgebra* of algebra $A$, denoted as $B\le A$.
 
->[!example]
+>[!example]+
 >
 
 >Let $A$ be an algebra over a field $F$. A non-empty subset $B$ of $A$ is a subalgebra if and only if the following condition holds:
@@ -30,7 +35,7 @@
 >2. if $a,b\in B$, then $ab\in B$
 >3. if $\lambda\in F$, $a\in B$, then $\lambda a\in B$
 >
->>[!proof]
+>>[!proof]+
 >>
 ***
 #### Keywords

@@ -49,7 +49,7 @@ aliases:
 >Therefore $m\notin T$, and $T=\emptyset$.
 
 >[!example]+ 
->$$1153425=3\cdot 5^{2}\cdot 7\cdot13^{3}$$
+>$$1153425=3\cdot 5^{2}\cdot 7\cdot13^{3}$$ 
 ***
 #### Keywords
 - [[Set of integers]],

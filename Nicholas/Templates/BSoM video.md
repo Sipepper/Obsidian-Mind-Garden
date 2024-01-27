@@ -1,0 +1,1 @@
+^[[The Bright Side of Mathematics -  - Part ](https://www.youtube.com/watch?v=WstgxuPSxuE&list=PLBh2i93oe2qvRGAtgkTszX7szZDVd6jh1&index=5)]

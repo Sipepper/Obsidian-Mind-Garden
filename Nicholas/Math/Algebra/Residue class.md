@@ -19,6 +19,7 @@ aliases:
 #### Keywords
 - [[Congruent integers]],
 - [[Equivalence relation]],
+- [[Set]],
 - [[Divisibility]]
 #### Possibly related
 - 

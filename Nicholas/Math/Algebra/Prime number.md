@@ -9,7 +9,7 @@ aliases:
 ***
 ###### tags: #Algebra/Number_theory #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >A number $p$ is said to be prime, if $p\ne\pm1$ and $\forall a,b\in\mathbb{Z}$
 >$$(p|ab)\Rightarrow(p|a)\lor(p|b)$$
 
@@ -22,6 +22,7 @@ aliases:
 ***
 #### Keywords
 - [[Set of integers]],
+- [[Logical operators]],
 - [[Divisibility]]
 #### Possibly related
 - 

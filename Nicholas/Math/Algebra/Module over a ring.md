@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-01-23
+Complete: false
+aliases:
+---
 # Module over a ring
 ***
 ###### tags: #Algebra 
@@ -23,7 +28,10 @@
 ***
 #### Keywords
 - [[Ring]],
-- [[Law of composition]],
 - [[Abelian group]],
-- [[Module over a ring]],
+- [[Law of composition]],
 - [[Set]]
+#### Possibly related
+- 
+***
+#### Sources:

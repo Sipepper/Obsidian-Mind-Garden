@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-01-27
+Complete: false
+aliases:
+---
 # Cauchy-Schwarz inequality
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $H$ be a pre-Hilbert space. If we define a norm as
 >$$\|u\|_{H}=\sqrt{(u,u)_{H}}\quad\forall u\in H$$
 >we have the following inequality
@@ -25,6 +30,8 @@
 - [[Pre-Hilbert space]],
 - [[Normed space]],
 - [[Inner product]],
+- [[Absolute value]],
+- [[Real line]],
 #### Possibly related
 - 
 ***

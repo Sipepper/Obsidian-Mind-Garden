@@ -7,7 +7,7 @@ aliases:
 ***
 ###### tags: #Algebra/Number_theory 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $b\in\mathbb{Z}$, $b\ge2$. Then $\forall h\in\mathbb{Z}$, $h>0$, a number $h$ can be uniquely expressed in *base $b$* in the following form
 >$$h=d_{k}b^{k}+d_{k-1}b^{k-1}+\ldots+d_{1}b+d_{0}$$
 >where $0\le d_{i}<b$, $\forall i\in\{0,\dots,k\}$.
@@ -31,7 +31,8 @@ aliases:
 ***
 #### Keywords
 - [[Set of integers]],
-- [[Mathematical induction]]
+- [[Mathematical induction]],
+- [[Division with remainder]]
 #### Possibly related
 - 
 ***

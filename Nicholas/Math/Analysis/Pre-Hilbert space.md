@@ -20,6 +20,6 @@
 - [[Cartesian product of sets]],
 - [[Inner product]],
 #### Possibly related
-- [[Билинейная форма]]
+- [[Bilinear form]]
 ***
 #### Sources:

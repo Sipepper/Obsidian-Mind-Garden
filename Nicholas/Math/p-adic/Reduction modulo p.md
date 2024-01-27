@@ -18,7 +18,7 @@
 - [[Finite field]],
 - [[Function(mapping)]],
 - [[Homomorphism]],
-- [[Quotient Ring]],
+- [[Quotient ring]],
 - [[Ideal]],
 - [[Maximal ideal]]
 - [[Field]],

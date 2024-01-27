@@ -1,6 +1,4 @@
 ---
-tags:
-  - Algebra/Number_theory
 Last time checked: 2023-10-10
 Complete: true
 aliases:
@@ -12,7 +10,7 @@ aliases:
 ###### tags: #Algebra/Number_theory 
 ***
 #### Set of integers
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >A number $p\ne\pm1$ is called *irreducible* if $\pm1$ and $\pm p$ are only divisors of $p$. 
 
 >A number $a\ne0$, $b\ne\pm1$ is said to be *composite* if it is not irreducible.

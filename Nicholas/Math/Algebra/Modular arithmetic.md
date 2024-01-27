@@ -1,6 +1,6 @@
 ---
 Last time checked: 2023-10-16
-Complete: false
+Complete: true
 aliases:
 ---
 # Modular arithmetic
@@ -47,8 +47,12 @@ aliases:
 - [[Prime number]],
 - [[Divisibility]],
 - [[Zero divisor]],
-- [[Irreducible element]]
+- [[Integral domain]],
+- [[Irreducible element]],
+- [[Greatest common divisor]],
+- [[Set of integers]],
 #### Possibly related
-- 
+- [[Unit in a ring]]
 ***
 #### Sources:
+

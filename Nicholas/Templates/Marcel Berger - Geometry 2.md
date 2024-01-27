@@ -1,1 +1,1 @@
-^[[[Marcel Berger - Geometry 2.pdf#page= |Marcel Berger - "Geometry 2" p.]]]
+^[[[Marcel Berger - Geometry 2.pdf#page=+9 |Marcel Berger - "Geometry 2" p.]]]

@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-01-27
+Complete: false
+aliases:
+---
 # Arzela-Ascoli theorem
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Theorem
 >Let $\mathcal{F}$ be a family of point-wise bounded equicontinuous complex functions defined on metric space $(U,d)$ and $U$ is separable. Then every sequence $\{f_{n}\}\subset\mathcal{F}$ has a subsequence which converges uniformly on every compact subset of $U$.^[Fabio Silva Botelho - "Functional analysis and Applied Optimization in Banach Spaces" p.19-21]
 
 >[!proof]+
@@ -20,7 +25,7 @@
 >$$|f_{n_{k}}(v_{j})-f_{n_{l}}(v_{j})|<\frac{\varepsilon}{3}$$
 >Choose arbitrary $u\in K$, then $u\in B_{\delta/2}(\tilde{u}_{\hat{j}})$ for some $\hat{j}\in\{1,\dots,M\}$, such that $d(u,v_{\hat{j}})<\delta$. Thus if $k,l>\max\left\{K_{0_{1}},\dots,K_{0_{M}} \right\}$ then
 >$$\begin{align}|f_{n_{k}}(u)-f_{n_{l}}(u)|&\le|f_{n_{k}}(u)-f_{n_{k}}(v_{\hat{j}})|+\\ &\quad\;|f_{n_{k}}(v_{\hat{j}})-f_{n_{l}}(v_{\hat{j}})|+\\ &\quad\;|f_{n_{l}}(v_{\hat{j}})-f_{n_{l}}(v_{\hat{j}})|\\ &\le\frac{\varepsilon}{3}+\frac{\varepsilon}{3}+\frac{\varepsilon}{3}=\varepsilon \end{align}$$
->As $u\in K$ was chosed arbitrarily, then we can assume that $\{f_{n_{k}}\}$ is uniformly convergent Cauchy sequence on $K$.
+>As $u\in K$ was chosen arbitrarily, then we can assume that $\{f_{n_{k}}\}$ is uniformly convergent Cauchy sequence on $K$.
 
 ***
 #### Keywords
@@ -38,7 +43,11 @@
 - [[Complex plane]],
 - [[Convergence]],
 - [[Bounded set]],
-- [[Cauchy sequence]]
+- [[Cauchy sequence]],
+- [[Set of natural numbers]],
+- [[Limit]],
+- [[Absolute value]],
+- [[Open ball in metric space]]
 #### Possibly related
 - 
 ***

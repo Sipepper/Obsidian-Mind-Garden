@@ -1,9 +1,16 @@
+---
+Last time checked: 2024-01-21
+Complete: false
+aliases:
+---
 # Relations between derived subalgebra and center of Lie algebra
 ***
 ###### tags: #Algebra 
 ***
->[!dsn]+ Direct strict note
->Let $L$ be a Lie algebra and $\zeta(L)$ and $[L,L]$ be the center and derived subalgebra respectively. Then $$L=\zeta(L)$$ if and only if $L$ is abelian. On the other hand $[L,L]=\langle0\rangle$ if $L$ is abelian. In another words if $L/\zeta(L)=\langle0\rangle$ then $[L,L]=\langle0\rangle$ and vice versa.
+>[!dsn]+ Proposition
+>Let $L$ be a Lie algebra and $\zeta(L)$ and $[L,L]$ be the center and derived subalgebra respectively. Then $$L=\zeta(L)$$ if and only if $L$ is abelian. On the other hand $[L,L]=\langle0\rangle$ if $L$ is abelian. 
+>
+>In another words if $L/\zeta(L)=\langle0\rangle$ then $[L,L]=\langle0\rangle$ and vice versa.
 
 
 >[!proof]+
@@ -13,7 +20,7 @@
 >
 
 #### Dimensions
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $L$ be a Lie algebra over field $F$. If factor algebra $L/\zeta(L)$ has dimension $d$, then $\dim_{F}([L,L])\le d(d-1)/2$.
 
 >[!proof]+
@@ -32,6 +39,7 @@
 - [[Center of Lie algebra]],
 - [[Derived subalgebra of Lie algebra]],
 - [[Field]],
+- [[Quotient algebra]],
 - [[Dimension of a vector space]],
 - [[Basis of vector space]],
 - [[Linear span]],

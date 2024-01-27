@@ -25,6 +25,7 @@
 ***
 #### Keywords
 - [[Ideal]],
+- [[Principal ideal]]
 - [[Ring of p-adic integers]],
 - [[p-adic order]],
 - [[Canonical representation of a p-adic integer]]

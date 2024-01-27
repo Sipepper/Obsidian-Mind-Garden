@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-01-23
+Complete: false
+aliases:
+---
 # Commutant in algebras
 ***
 ###### tags: #Algebra 
 ***
 #### In Lie algebras
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $L$ be a Lie algebra and $A,B\subseteq L$. We denote by 
 >$$[A,B]$$
 >the subspace spanned by all elements $[a,b]$ where $a\in A,b\in B$. Such construction is said to be a *commutant* of $A$ and $B$.
@@ -12,7 +17,7 @@
 >
 
 #### In Leibniz algebras
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $L$ be a Leibniz algebra, $A,B\subseteq L$. By $$[A,B]$$ we denote the subspace spanned by all elements of the form $[a,b]$, where $a\in A$, $b\in B$. In other words $[A,B]=\text{span}\{[a,b]:a\in A,b\in B\}$. The $[A,B]$ is said to be the *commutant* of $A$ and $B$.
 
 >[!example]+ 
@@ -23,7 +28,6 @@
 - [[Leibniz algebra]],
 - [[Linear span]],
 - [[Set]],
-- [[Linear span]],
 - [[Vector space]]
 #### Possibly related
 - 

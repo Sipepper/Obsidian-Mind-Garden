@@ -1,14 +1,19 @@
+---
+Last time checked: 2024-01-21
+Complete: true
+aliases:
+---
 # Properties of subalgebras, ideals and sums of subalgebras in Lie algebras
 ***
 ###### tags: #Algebra 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Proposition
 >Let $L$ be a Lie algebra, then
 >1. if $H\triangleleft L$ and $K\le L$, then $H+K\le L$
 >2. if $H,K\triangleleft L$, then $H+K\le L$
 >3. if $H,K\triangleleft L$, then $[H,K]\triangleleft L$
 
->[!proof]
+>[!proof]+
 >1. Let $x,y\in H+K$. We need to show that
 >   $$[x,y]\in H+K$$
 >   By 
@@ -36,9 +41,9 @@
 #### Keywords
 - [[Lie algebra]],
 - [[Ideal]],
+- [[Commutant in algebras]],
 - [[Lie algebra]],
 - [[Sum and direct sum of lie subalgebras]],
-- 
 #### Possibly related
 - 
 ***

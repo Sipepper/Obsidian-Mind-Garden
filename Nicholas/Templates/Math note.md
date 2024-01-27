@@ -8,7 +8,7 @@ aliases:
 ***
 ###### tags: #
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ 
 >
 
 >[!proof]+

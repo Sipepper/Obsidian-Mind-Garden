@@ -1,5 +1,5 @@
 ---
-Last time checked: 2023-11-14
+Last time checked: 2024-01-25
 Complete: true
 aliases:
 ---
@@ -28,6 +28,7 @@ aliases:
 #### Keywords
 - [[Ring]],
 - [[Commutative property]],
+- [[Logical operators]],
 - [[Set of integers]],
 - [[Modular arithmetic]],
 - [[Prime number]],

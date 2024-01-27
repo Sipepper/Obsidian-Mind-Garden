@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-01-21
+Complete: true
+aliases:
+---
 # Vector space
 ***
 ###### tags: #Algebra/Linear #Fundamental_math_objects  
 ***
->[!dsn] Direct strict note
-> A set $V$ is called a *vector space* over field $\mathbb{F}$, where elements of this set are called *vectors* for which defined two algebraic operations $(+):V\times V\to V$ and multiplication by a scalar $(\cdot):\mathbb{F}\times V\to V$, satisfying following properties^[F.Botelho, Functional Analysis and Applied optimization in Banach Spaces с.3]: 
+>[!dsn]+ Definition
+>A set $V$ is called a *vector space* over field $\mathbb{F}$, where elements of this set are called *vectors* for which defined two algebraic operations $(+):V\times V\to V$ and multiplication by a scalar $(\cdot):\mathbb{F}\times V\to V$, satisfying following properties^[F.Botelho, Functional Analysis and Applied optimization in Banach Spaces с.3]: 
 >1. $u+v=v+u,\forall u,v\in U$,
 >2. $u+(v+w)=(u+v)+w,\forall u,v,w\in U$,
 >3. Exists vector $\theta$ such that $u+\theta=u,\forall u\in U$,
@@ -14,11 +19,11 @@
 >8. $1\cdot u=u,\forall u\in U$.
 
 
->[!example] 
+>[!example]+
 >As an example we can take a vector space $\mathbb{R}^{2}$ which is a cartesian plane with "arrows" which we can add and multiply by a scalar.
 
 #### Subspace
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >A subset $W$ of vector space $V$ is a *subspace*, if:
 >- If $w,w'\in W$, then $w+w'\in W$
 >- If $w\in W$ and $c\in\mathbb{F}$, then $cw\in W$.
@@ -32,10 +37,13 @@
 
 ***
 #### Keywords
-- [[Field]],
 - [[Set]],
+- [[Field]],
 - [[Law of composition]],
 - [[Cartesian product of sets]],
+- [[Commutative property]],
+- [[Associative property]],
+- [[Euclidean space]],
 - [[Linear span]]
 #### Possibly related
 - [[Vector]]

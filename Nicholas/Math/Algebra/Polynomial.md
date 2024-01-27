@@ -1,6 +1,6 @@
 ---
-Last time checked: 2023-11-09
-Complete: false
+Last time checked: 2024-01-25
+Complete: true
 aliases:
 ---
 # Polynomial

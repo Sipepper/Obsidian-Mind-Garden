@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-01-24
+Complete: true
+aliases:
+---
 # Division with remainder
 ***
 ###### tags: #Algebra/Number_theory 
@@ -28,6 +33,7 @@
 #### Keywords
 - [[Set of integers]],
 - [[Absolute value]],
+- [[Set]],
 - [[Linearly ordered set]],
 - [[Greatest element, upper bound and maximal element of a partially ordered set]],
 - [[Divisibility]]

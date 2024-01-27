@@ -8,7 +8,9 @@
 >Lindelof space is a less strict version of compact space in which every open covering has a *finite* subcover.
 
 >[!example]+ 
->
+>$\mathbb{R}$ is Lindelof 
+>>[!proof]+
+>>https://math.stackexchange.com/questions/81216/every-open-cover-of-the-real-numbers-has-a-countable-subcover-lindel%C3%B6fs-lemma
 ***
 #### Keywords
 - [[Topological space]],
