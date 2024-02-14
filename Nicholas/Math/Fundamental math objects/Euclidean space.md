@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-04
+Complete: true
+aliases:
+---
 # Euclidean space
 ***
 ###### tags: #Fundamental_math_objects #Geometry  
 ***
 #### As a vector space
->[!dsn]+
+>[!dsn]+ Definition
 >Let $\mathbb{R}^{n}$ be a product set $\mathbb{R}\times\dots\times\mathbb{R}$ (that is an ordered tuple of real numbers), then $\mathbb{R}^{n}$ is a vector space, with vectors $v\in\mathbb{R}^{n}$
 >$$v=\begin{pmatrix}v_{1}\\ v_{2}\\ \vdots\\ v_{n} \end{pmatrix}\in\mathbb{R}^{n}$$
 >with component-wise addition 
@@ -12,7 +17,7 @@
 >$$\lambda v=\begin{pmatrix}\lambda v_{1}\\\lambda  v_{2}\\ \vdots\\\lambda  v_{n} \end{pmatrix}\in\mathbb{R}^{n}$$
 
 #### As a metric space
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $(\mathbb{R}^{n},d)$ be a product set $\mathbb{R}^{n}$ of finite number of real lines equipped with the metric
 >$$d(x,y)=\sqrt{\sum\limits_{i=1}^{n}(x_{i}-y_{i})^{2}}$$
 >then such metric space is said to be *Euclidean*, and denoted as $\mathbb{E}^{n}$.
@@ -30,6 +35,7 @@
 - [[Vector space]],
 - [[Vector]]
 - [[Metric space]],
+- [[Cardinality of a set]],
 - [[Topology basis]],
 - [[Interval]],
 - [[Open and closed subsets]],

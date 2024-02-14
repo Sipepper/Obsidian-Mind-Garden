@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-04
+Complete: false
+aliases:
+---
 # Determinant
 ***
 ###### tags: #Algebra/Linear  
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Determinant of the matrix, is a scalar value which shows "hom much" and "to which direction" a matrix, as a linear transformation, acts on a vector space.
 
 #### Formal definition by permutations
@@ -34,6 +39,7 @@ For the $n\times n$ matrices following decomposition is true. $$\Delta=\sum\limi
 #### Keywords
 - [[Matrix]],
 - [[Vector space]],
+- [[Transpose]]
 #### Possibly related
 - [[Linear map]],
 ***

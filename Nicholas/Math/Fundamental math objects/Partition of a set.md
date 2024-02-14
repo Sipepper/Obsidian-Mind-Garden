@@ -1,5 +1,5 @@
 ---
-Last time checked: 2023-10-12
+Last time checked: 2024-02-09
 Complete: true
 aliases:
 ---
@@ -17,7 +17,7 @@ aliases:
 >[!example]+ 
 >Let $A=\mathbb{Z}$ and $Q_{i}=[i]_{6}$, then
 >$$\mathbb{Z}=\bigcup_{i=0}^{5}[i]_{6}$$
->as all $[i]_{6}$ contains numbers with remainder equal to $i$ when divided by $6$. Also $[i]_{6}\cap[j]_{6}=\emptyset$ if $i\ne j$, by [[Properties of residue classes]].
+>as all $[i]_{6}$ contains numbers with remainder equal to $i$ when divided by $6$. Also $[i]_{6}\cap[j]_{6}=\emptyset$ if $i\ne j$, by [[properties of residue classes]].
 ***
 #### Keywords
 - [[Set]],

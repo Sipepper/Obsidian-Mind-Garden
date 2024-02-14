@@ -1,14 +1,19 @@
+---
+Last time checked: 2024-02-09
+Complete: false
+aliases:
+---
 # Properties of countable sets
 ***
 ###### tags: #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >1. Every subset of a countable set is again countable.
 >2. Let $S$ be a countable and let $f:S\to T$ be a map. The image $f(S)$ is again countable.
 >3. The union of countably many countable sets is again countable.
 >4. Let $T$ be a set and let $S$ be a subset such that $T\setminus S$ is countable. Then $S$ is countable if and only if $T$ is countable.
 >5. The product of finitely many countable sets is again countable.
->6. If $S$ is a finite set and if $T$ is countable set, then the set of maps from $S$ to $T$ is also countable.^[Stefan Friedl - "Algebraic Topology" p.78-79]
+>6. If $S$ is a finite set and if $T$ is countable set, then the set of maps from $S$ to $T$ is also countable.^[[[Stefan Friedl - Algebraic topology.pdf#page=78|Stefan Friedl - "Algebraic topology" p.78-79 ]]]
 
 >[!proof]+
 >1. After excluding the case that $S$ is finite and the case that $T$ is finite we see that we need to prove that: given infinite subset $T$ of $\mathbb{N}$ there exists a bijection $\phi:\mathbb{N}\to T$. Such a bijection is given by defining $\phi(i)$ as the $i$-th smallest element of $T$.
@@ -29,7 +34,7 @@
 - [[Function(mapping)]],
 - [[Kernel and image of a mapping]],
 - [[Set of natural numbers]],
-- [[Cartesian product of sets]]
+- [[Cartesian product of sets]],
 #### Possibly related
 - 
 ***

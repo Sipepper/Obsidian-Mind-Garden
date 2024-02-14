@@ -1,5 +1,5 @@
 ---
-Last time checked: 2023-10-13
+Last time checked: 2024-02-09
 Complete: true
 aliases:
 ---
@@ -7,7 +7,7 @@ aliases:
 ***
 ###### tags: #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $f:A\to B$ be a map between sets $A$ and $B$. Suppose that we have partition $\mathcal{R}=\{Q_{\alpha}\}_{\Lambda}$, with respect to equivalence relation $\sim$. Then the map
 >$$\overline{f}:A/\mathcal{{R}}\to B$$
 >$$[a]\mapsto f(a)$$
@@ -25,6 +25,7 @@ aliases:
 - [[Function(mapping)]],
 - [[Set]],
 - [[Partition of a set]],
+- [[Equivalence class]],
 - [[Equivalence relation]],
 - [[Group coset]],
 - [[Quotient group]]

@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-03
+Complete: false
+aliases:
+---
 # Bounded mapping
 ***
 ###### tags: #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
->A mapping $f:U\to V$ between topological space $U$ and $V$ is said to be *bounded* if it maps bounded sets to bounded sets.^[Botelho - Functional analysis and Applied Optimization in Banach Spaces p.22]
+>[!dsn]+ Definition
+>A mapping $f:U\to V$ between topological space $U$ and $V$ is said to be *bounded* if it maps bounded sets to bounded sets.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=40|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.22]]]
 
 >[!example]+ 
 >

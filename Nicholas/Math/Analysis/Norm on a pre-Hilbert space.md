@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-01-28
+Complete: true
+aliases:
+---
 # Norm on a pre-Hilbert space
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn]+ Direct strict note
->Let $H$ be a pre-Hilbert space, then function $\|\cdot\|_{H}:H\to\mathbb{R}$ defined as $\|u\|_{H}=\sqrt{(u,u)}$ is a norm on $H$.^[Fabio Silva Botelho - "Functional analysis and applied optimization on banach spaces" p.31-32]
+>[!dsn]+ Proposition
+>Let $H$ be a pre-Hilbert space, then function $\|\cdot\|_{H}:H\to\mathbb{R}$ defined as $\|u\|_{H}=\sqrt{(u,u)}$ is a norm on $H$.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=49|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.31-32]]]
 
 >[!proof]+
 >We only need to prove a triangle inequality. Note that for any two elements $u,v\in H$ Cauchy-Schwarz inequality implies the following
@@ -15,7 +20,8 @@
 - [[Pre-Hilbert space]],
 - [[Function(mapping)]],
 - [[Normed space]],
-- [[Cauchy-Schwarz inequality]]
+- [[Cauchy-Schwarz inequality]],
+- [[Inner product]]
 #### Possibly related
 - 
 ***

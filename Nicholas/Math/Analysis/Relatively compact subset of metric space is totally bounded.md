@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-02-01
+Complete: false
+aliases:
+---
 # Relatively compact subset of metric space is totally bounded
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $(U,d)$ be a metric space, then
 >1. If $A\subset U$ is relatively compact, then $A$ is totally bounded.
->2. If $(U,d)$ is complete metric space and $A\subset U$ is totally bounded, then $A$ is relatively compact.^[Botelho - Functional analysis and Applied Optimization in Banach Spaces p.18-19]
+>2. If $(U,d)$ is complete metric space and $A\subset U$ is totally bounded, then $A$ is relatively compact.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=36|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.18-19]]]
 
 >[!proof]+
 >1. Suppose that $A\subset U$ is relatively compact. By [[Relative compactness by subsequences]] we know that from any sequence in $A$ we can extract a converging subsequence. And by [[Total-boundedness by subsequences]] $A$ is totally bounded.

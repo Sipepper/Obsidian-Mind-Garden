@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-02-01
+Complete: false
+aliases:
+---
 # Orthogonal complement of a sphere in l2
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn] Direct strict note
->Let $S$ be a sphere of radius $1$ in $l^{2}$ space, i.e. $S=\set{s\in l^{2}:\|s\|_{2}=1}$. Then the $S^{\perp}=\theta$, i.e. only zero vector is orthogonal to $S$.
+>[!dsn]+ Proposition
+>Let $S$ be a sphere of radius $1$ in $l^{2}$ space, i.e. $S=\{s\in l^{2}:\|s\|_{2}=1\}$. Then the $S^{\perp}=\theta$, i.e. only zero vector is orthogonal to $S$.
 
->[!proof]
+>[!proof]+
 >Let's recall form of the scalar product and norm in $l^{2}$
 >$$\langle x,y\rangle_{2}=\sum\limits_{i=1}^{\infty}x_{i}y_{i}$$
 >By the definition of orthogonal complement we have
@@ -28,10 +33,13 @@
 ***
 #### Keywords
 - [[Sphere]],
-- [[Open ball in metric space]],
-- [[Linear span]],
 - [[Sequence spaces]],
+- [[Open ball in metric space]],
+- [[Open and closed subsets]],
 - [[Orthogonal complement]],
+- [[Vector space]],
+- [[Inner product]],
+- [[Linear span]],
 - [[Set]],
 - [[Orthonormal basis]],
 #### Possibly related

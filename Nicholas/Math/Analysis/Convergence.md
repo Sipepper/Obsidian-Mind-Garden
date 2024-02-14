@@ -10,7 +10,7 @@ aliases:
 #### In TVS
 >[!dsn]+ Definition
 >Let $U$ be a topological vector space. A sequence $\{u_{n}\}$ *converges* to an element $u_{0}\in U$, if for every neighbourhood $V$ of $u_{0}$, there exists a natural number $N$ suh that
->$$u_{n}\in V\quad\forall n\ge N$$^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page= 27|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.9]]]
+>$$u_{n}\in V\quad\forall n\ge N$$^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page= 27|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.9]]]
 
 >[!example]+ 
 >

@@ -1,14 +1,19 @@
+---
+Last time checked: 2024-02-02
+Complete: false
+aliases:
+---
 # Index of a non-degenerate critical point
 ***
 ###### tags: #Analysis/Multivariable 
 ***
 #### Two variable case
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $p_{0}$ be a non-degenerate critical point of a function $f$ of two variables. We choose a suitable coordinate system $(x,y)$ in some neighborhood of the point $p_{0}$ so that the function has a standard form given by [[Morse lemma]]. Then the *index* of the non-degenerate critical point $p_{0}$ of $f$ is $0$, $1$ and $2$, respectively for 
 >$$f=x^{2}+y^{2}+c$$
 >$$f=x^{2}-y^{2}+c$$
 >$$f=-x^{2}-y^{2}+c$$
->The index of a non-degenerate critical point $p_{0}$ is determined by the behaviour of $f$ near $p_{0}$.^[Yukio Matsumoto - "An introduction to Morse theory" p.13]
+>The index of a non-degenerate critical point $p_{0}$ is determined by the behaviour of $f$ near $p_{0}$.^[[[Yukio Matsumoto - An introduction to Morse theory.pdf#page=27|Yukio Matsumoto - "An introduction to Morse theory" p.13]]]
 
 >In other words, the number of minus signs in the standard form is the index of $p_{0}$.
 
@@ -28,7 +33,7 @@
 ***
 #### Keywords
 - [[Critical point of a function]],
-- [[Local coordinates]],
+- [[n-dimensional chart]],
 - [[Matrix]],
 - [[Hessian]],
 - [[Matrix diagonalization]]

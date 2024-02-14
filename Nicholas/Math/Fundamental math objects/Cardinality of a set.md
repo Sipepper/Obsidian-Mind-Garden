@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-03
+Complete: true
+aliases:
+---
 # Cardinality of a set
 ***
 ###### tags: #Fundamental_math_objects 
 ***
 #### Naive definition
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >The *cardinality*(or a *cardinal number*) of a set $X$ denoted as $|X|$ is a numerical characteristic which generalizes the notion of number of elements in a set. And used primarily to distinguish different types of infinity.
 >- Set $X$ is said to be *finite* if we can construct a bijection between $X$ and $I_{n}=\{1,2,\dots,n\}$.
 >- Set $X$ is said to be *countable* if we can construct a bijection between $X$ and $\mathbb{N}$.

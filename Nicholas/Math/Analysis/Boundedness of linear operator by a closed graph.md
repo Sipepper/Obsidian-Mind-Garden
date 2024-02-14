@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-01-31
+Complete: true
+aliases:
+---
 # Boundedness of linear operator by a closed graph
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn] Direct strict note
->Let $U$ and $V$ be a Banach spaces and let $A:U\to V$ be a linear operator. Then $A$ will be bounded linear operator if and only if it's graph be a closed set.^[Fabio Silva Botelho - "Functional analysis and applied optimization in banach spaces" c.32]
+>[!dsn]+ Proposition
+>Let $U$ and $V$ be a Banach spaces and let $A:U\to V$ be a linear operator. Then $A$ will be bounded linear operator if and only if it's graph be a closed set.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page= 50|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.32]]]
 
->[!proof]
+>[!proof]+
 >Suppose that $\Gamma(A)$ is a closed set. Because $A$ is a linear operator, then $\Gamma(A)$ be a subspace of a direct product $U\oplus V$. Also by closedness of $\Gamma$ is follows that it's a Banach space with norm $$\|(u,A(u))\|=\|u\|_{U}+\|A(u)\|_{V}$$ 
 >Consider the following continuous mapping 
 >$$\Pi_{1}(u,A(u))=u$$
@@ -18,18 +23,18 @@
 >Therefore by definition of closed set, the set $\Gamma(u)$ contains all of it's limit points. Thus closed.  
 ***
 #### Keywords
-- [[Graph of a function]],
 - [[Banach space]],
 - [[Linear operator]],
 - [[Bounded operator]],
+- [[Graph of a function]],
 - [[Open and closed subsets]],
 - [[Direct sum of vector spaces]],
 - [[Normed space]],
 - [[Continuous mapping]],
 - [[Function(mapping)]],
+- [[Inverse function]],
 - [[Strong convergence]],
 - [[Limit point in topological space]],
-- [[Projection map in product spaces]]
 #### Possibly related
 - [[Projection map in product spaces]]
 ***

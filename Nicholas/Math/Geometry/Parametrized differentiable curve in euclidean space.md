@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-11
+Complete: true
+aliases:
+---
 # Parametrized differentiable curve in euclidean space
 ***
 ###### tags: #Geometry/Differential 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $\alpha:I\to\mathbb{R}^{n}$ be a differentiable mapping of the interval $I=(a,b)$ to euclidean space $\mathbb{R}^{n}$. Then such mapping is said to be a *parametrized differentiable curve*.^[Manfredo P. do Carmo - "Differential Geometry of Curves and Surfaces" p.2]
 
 >By differentiability we mean that every coordinate function $x_{i}(t)$ is a differentiable function.
@@ -24,7 +29,9 @@
 >![[Pasted image 20220519120359.png]]
 
 >[!example]+
->Two different parametrized differentiable curves $$\alpha(t)=(\cos(t),\sin(t))$$$$\beta(t)=(\cos(2t),\sin(2t))$$ where $t\in(0-\varepsilon,2\pi+\varepsilon)$, $\varepsilon>0$, have the same trace in form of a circlle $x^{2}+y^{2}=1$. Note that tangent vector of the second curve is two time longer than in the first one.
+>Two different parametrized differentiable curves 
+>$$\begin{gather}\alpha(t)=(\cos(t),\sin(t))\\ \beta(t)=(\cos(2t),\sin(2t))\end{gather}$$
+>where $t\in(0-\varepsilon,2\pi+\varepsilon)$, $\varepsilon>0$, have the same trace in form of a circle $x^{2}+y^{2}=1$. Note that tangent vector of the second curve is two time longer than in the first one.
 >![[Pasted image 20220519120731.png]]
 ***
 #### Keywords
@@ -32,10 +39,11 @@
 - [[Interval]],
 - [[Euclidean space]],
 - [[Function(mapping)]],
-- [[Curve in metric space]],
+- [[Trigonometric functions]],
 - [[Tangent vector]],
-- [[Vector]]
+- [[Vector]],
+- [[Absolute value]],
 #### Possibly related
-- 
+- [[Curve in metric space]],
 ***
 #### Sources:

@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-01-31
+Complete: false
+aliases:
+---
 # Equivalence of compactness and sequentially compactness in metric spaces
 ***
 ###### tags: #Topology 
 ***
->[!dsn] Direct strict note
->A subset $A$ of a metric space $(U,d)$ be a compact set if and only if it is a sequentially compact set.^[Botelho - Functional analysis and Applied Optimization in Banach Spaces с.15-18]
+>[!dsn]+ Proposition
+>A subset $A$ of a metric space $(U,d)$ be a compact set if and only if it is a sequentially compact set.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=33|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.15-18]]]
 
->[!proof]
+>[!proof]+
 >Suppose that $A$ is a compact set. From proposition [[Countably compact set#Relation to compactness|about countably compactness of a compact set]] we obtain that $A$ is countably compact. Let $\{u_{n}\}\subset A$ be some sequence. We get two cases 
 >1. $\{u_{n}\}$ has infinite number of equal elements; i.e. $$u_{n_{1}}=u_{n_{2}}=\dots=u_{n_{k}}=\dots=u\in A$$ From which we see that theorem is trivial in that case.
 >2. $\{u_{n}\}$ has infinite number of distinct elements. In that case, if $A$ is countably compact, then $\{u_{n}\}$ has a limit point which lay in $A$, it means that exist a convergent subsequence $\{u_{n_{k}}\}$ such that $$u_{n_{k}}\to u,\quad k\to\infty$$ 
@@ -35,16 +40,15 @@
 - [[Sequentially compact set]],
 - [[Covering of a set]],
 - [[Countably compact set]],
+- [[Sequence]],
+- [[Cardinality of a set]],
 - [[Limit point in topological space]],
 - [[Convergence]],
-- [[Totally bounded subset of a metric space]],
-- [[Cardinality of a set]],
-- [[Open and closed subsets]],
 - [[Supremum and infinum]],
 - [[Open ball in metric space]],
-- [[Sequence]],
+- [[Open and closed subsets]],
 - [[Epsilon-net]]
 #### Possibly related
-- 
+- [[Totally bounded subset of a metric space]],
 ***
 #### Sources:

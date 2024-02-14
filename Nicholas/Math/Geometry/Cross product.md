@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-10
+Complete: false
+aliases:
+---
 # Cross product
 ***
 ###### tags: #Geometry 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >A *cross product* $u\wedge v$ of two vectors $u$ and $v$(order is important) is a unique vector in $\mathbb{R}^{3}$ such that
 >$$(u\wedge v)\cdot w=\det(u,b,w)\quad\forall w\in\mathbb{R}^{3}$$
 >determinant is computed in default $e_{i}$ basis, then
@@ -19,14 +24,17 @@
 >- $u\wedge v=0$ if and only if $u$ and $v$ are linearly dependent.
 >- $(u\wedge v)\cdot u=(u\wedge v)\cdot v=0$
 
+>[!example]+
+>
+
 ***
 #### Keywords
 - [[Vector]],
 - [[Vector space]],
 - [[Euclidean space]],
+- [[Real line]],
 - [[Determinant]],
 - [[Basis of vector space]],
-- [[Linear map]],
 - [[Linearly dependent vectors]]
 #### Possibly related
 - 

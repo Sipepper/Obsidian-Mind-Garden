@@ -1,13 +1,18 @@
+---
+Last time checked: 2024-02-03
+Complete: false
+aliases:
+---
 # How to express an element using orthonormal basis
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $H$ be a Hilbert space and let $S=\{u_{\alpha}\}_{\alpha\in L}$ be an orthonormal basis. Then for all $v\in H$
 >$$v=\sum\limits_{\alpha\in L}(u_{\alpha},v)_{H}v_{\alpha}$$
 >and
 >$$\|v\|_{H}^{2}=\sum\limits_{\alpha\in L}|(u_{\alpha},v)_{H}|^{2}$$
->.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page= 55|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.37-39]]]
+>.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page= 55|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.37-39]]]
 
 >[!proof]+
 >Let $L'$ be a finite subset of $L$. By [[Bessel's inequality]] we have that
@@ -40,6 +45,9 @@
 #### Keywords
 - [[Hilbert space]],
 - [[Orthonormal basis]],
+- [[Inner product]],
+- [[Absolute value]],
+- [[Normed space]],
 - [[Cardinality of a set]],
 - [[Set]],
 - [[Monotonicity]],
@@ -47,7 +55,6 @@
 - [[Convergence]],
 - [[Real line]],
 - [[Cauchy sequence]],
-- [[Absolute value]],
 - [[Euclidean inner product]]
 #### Possibly related
 - [[Bounded set]]

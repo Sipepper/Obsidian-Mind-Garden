@@ -1,9 +1,9 @@
 ---
-Last time checked: 2023-10-13
+Last time checked: 2024-02-09
 Complete: true
-aliases: 
-- Фактормножина
-- Фактормножество
+aliases:
+  - Фактормножина
+  - Фактормножество
 ---
 # Quotient set
 ***

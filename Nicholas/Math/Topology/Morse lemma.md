@@ -65,7 +65,7 @@
 #### Keywords
 - [[Critical point of a function]],
 - [[Function(mapping)]],
-- [[Local coordinates]],
+- [[n-dimensional chart]],
 - [[Change of coordinates]],
 - [[Function derivative]],
 - [[Hessian]],

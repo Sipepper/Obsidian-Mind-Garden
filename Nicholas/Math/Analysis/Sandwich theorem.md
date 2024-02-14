@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-02
+Complete: true
+aliases:
+---
 # Sandwich theorem
 ***
 ###### tags: #Analysis/Real 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Theorem
 >Let $\{a_{n}\}_{n\in\mathbb{N}}$ and $\{b_{n}\}_{n\in\mathbb{N}}$ be two convergent sequences of real numbers, such that
 >$$\lim\limits_{n\to \infty}a_{n}=\lim\limits_{n\to \infty}b_{n}$$
 >then, if there is a sequence $\{c_{n}\}_{n\in\mathbb{N}}$ such that
@@ -33,8 +38,8 @@
 #### Keywords
 - [[Convergence]],
 - [[Sequence]],
-- [[Real line]],
 - [[Limit]],
+- [[Real line]],
 - [[Monotonicity]],
 - [[Absolute value]]
 #### Possibly related

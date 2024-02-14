@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-11
+Complete: false
+aliases:
+---
 # Spherical coordinates
 ***
 ###### tags: #Geometry/Differential  
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Suppose that $x_{1},x_{2},x_{3}$ is a common euclidean coordinates in $\mathbb{R}^{3}$, then we can introduce the new coordinates defined as follows
 >$$\begin{cases}x_{1}=r\cos\phi\sin\theta\\ x_{2}=r\sin\phi\sin\theta\\ x_{3}=r\cos\theta \end{cases}\quad r\ge0\quad0\le\theta<\pi$$
 >with Jacobian matrix
@@ -11,13 +16,17 @@
 
 >Such coordinate system has singular points at $r=0$ and $\theta=0$ or $\theta=\pi$.
 
+>[!example]+
+>
+
 ***
 #### Keywords
 - [[Change of coordinates]],
-- [[Jacobian matrix]],
 - [[Euclidean space]],
+- [[Trigonometric functions]],
+- [[Jacobian matrix]],
 - [[Singular points of coordinate system]]
 #### Possibly related
-- 
+- [[Critical point of a function]]
 ***
 #### Sources:

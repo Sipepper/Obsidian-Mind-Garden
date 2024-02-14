@@ -1,12 +1,17 @@
+---
+Last time checked: 2024-02-08
+Complete: false
+aliases:
+---
 # Sphere
 ***
 ###### tags: #Geometry #Fundamental_math_objects 
 ***
 #### As a submanifold
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >The *unit* $n$*-sphere* is
->$$\mathbb{S}^{n}=\{x\in\mathbb{R}^{n+1}:|x|=1 \}$$
->where $|x|=\left(\sum\limits_{i=1}^{n+1}x_{i}^{2}\right)^{1/2}$. We can introduce local coordinates in $\mathbb{S}^{n}$ as follows. For $j=1,\dots,n+1$ define open hemispheres
+>$$\mathbb{S}^{n}=\{x\in\mathbb{R}^{n+1}:\|x\|=1 \}$$
+>where $\|x\|=\left(\sum\limits_{i=1}^{n+1}x_{i}^{2}\right)^{1/2}$. We can introduce local coordinates in $\mathbb{S}^{n}$ as follows. For $j=1,\dots,n+1$ define open hemispheres
 >$$U_{2j-1}=\{x\in\mathbb{S}^{n}:x_{j}>0\}$$
 >$$U_{2j}=\{x\in\mathbb{S}^{n}:x_{j}<0\}$$
 >For $i=1,\dots,2(n+1)$ define maps
@@ -28,7 +33,7 @@
 #### Keywords
 - [[Euclidean space]],
 - [[Smooth manifold]],
-- [[Local coordinates]],
+- [[n-dimensional chart]],
 - [[Open and closed subsets]],
 - [[Function(mapping)]],
 - [[Homeomorphism]],

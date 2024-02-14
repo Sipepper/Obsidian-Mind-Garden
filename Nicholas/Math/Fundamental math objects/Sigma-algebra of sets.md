@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-07
+Complete: false
+aliases:
+---
 # Sigma-algebra of sets
 ***
 ###### tags: #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $\mathcal{A}$ be an algebra of sets, i.e. non-empty family of subsets of $X$ such that
 >- $X\in\mathcal{A}$
 >- $A,B\in A\Rightarrow A\cup B\in\mathcal{A},\quad A\cap B\in\mathcal{A}$

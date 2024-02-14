@@ -1,0 +1,1 @@
+^[[[Carlo Cattani, Anouar Ben Mabrouk, Sabrine Arfaoui - Fractal Analysis - Basic Concepts and Applications.pdf#page=+19|Carlo Cattani, Anouar Ben Mabrouk, Sabrine Arfaoui - "Fractal Analysis - Basic Concepts and Applications" p.]]]

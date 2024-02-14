@@ -1,0 +1,1 @@
+^[[[Jean-Philippe Aumasson - Serious Cryptography - A Practical Introduction to Modern Encryption.pdf#page=+24|Jean-Philippe Aumasson - "Serious Cryptography - A Practical Introduction to Modern Encryption" p.]]]

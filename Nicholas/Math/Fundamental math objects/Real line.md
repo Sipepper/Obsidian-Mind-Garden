@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-07
+Complete: true
+aliases:
+---
 # Real line
 ***
 ###### tags: #Fundamental_math_objects 
 ***
 #### Cantor fundamental sequences
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >A real number is defined as a limit of converging Cauchy sequence on $\mathbb{Q}$, that is
 >$$\forall\varepsilon>0\quad\exists N(\varepsilon):\forall n>N(\varepsilon),\forall m>0\quad|a_{n+m}-a_{n}|<\varepsilon$$
 >i.e. all element from sequence after some number will lie arbitrarly close to each other.
@@ -21,7 +26,7 @@
 >As we can see such definition is a special case of completing the metric spaces.
 
 #### Infinite decimal fractions
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >A real number $\alpha$ is defined as a *infinite decimal fraction*, that is
 >$$\pm a_{0},a_{1}a_{2}\dots a_{n}\dots$$
 >where $a_{0}\in\mathbb{N}\cup\{0\}$ and $a_{1},a_{2},\dots,a_{n},\dots$ is a sequence of decimal numbers $\{0,1,\dots,9\}$.^[https://ru.wikipedia.org/wiki/Вещественное_число#Свойства]
@@ -31,8 +36,8 @@
 >Comparing two real numbers is performed bitwise, that is if $a_{0}<b_{0}$ then $\alpha<\beta$. If $a_{0}=b_{0}$ we go to the $a_{1}$ and $b_{1}$ etc. 
 
 #### Dedekind cuts
->[!dsn]+ Direct strict note
->A *cut* in $\mathbb{Q}$ is a partition of $\mathbb{Q}$ into two non-empty classes - *upper* $A$ and *lower* $A'$ such that every element from $A$ is strictly less then every eleent from $A'$ i.e.
+>[!dsn]+ Definition
+>A *cut* in $\mathbb{Q}$ is a partition of $\mathbb{Q}$ into two non-empty classes - *upper* $A$ and *lower* $A'$ such that every element from $A$ is strictly less then every element from $A'$ i.e.
 >$$\mathbb{Q}=A\cup A'\quad\land\quad A,A'\ne\emptyset\quad\land\quad\forall a\in A,\forall a'\in A':a<a'$$
 >If there exist a number $\alpha$ which is a maximal in $A$ or minimal in $A'$, we say thay $\alpha$ *dividing* $A$ and $A'$. Rational number $\alpha$ *performs* the cut.
 >
@@ -40,21 +45,22 @@
 >
 >Union of rational and irrational numbers is call *set of real numbers* (*real line*), and it's elements are said to be *real numbers*.^[https://ru.wikipedia.org/wiki/Вещественное_число#Свойства]
 
-#### Algebraic properties
-
 ***
 #### Keywords
-- [[Cauchy sequence]],
-- [[Sequence]],
-- [[Rational numbers]],
+- [[Limit]],
 - [[Convergence]],
+- [[Cauchy sequence]],
+- [[Absolute value]],
+- [[Sequence]],
+- [[Partially ordered set]],
 - [[Completion of a metric space]],
+- [[Rational numbers]],
 - [[Set of natural numbers]],
 - [[Cardinality of a set]],
 - [[Equivalence relation]],
-- [[Partially ordered set]],
-- [[Set]],
 - [[Greatest element, upper bound and maximal element of a partially ordered set]]
+- [[Set]],
+- [[Logical operators]]
 #### Possibly related
 - 
 ***

@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-04
+Complete: false
+aliases:
+---
 # Existence of maximal family of sets with finite intersection property
 ***
 ###### tags: #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
->Let $X$ be a set, and $\mathcal{F}$ be a family of subsets of $X$ with finite intersection property. Then exist a *maximal* family of subsets of $X$ which contains $\mathcal{F}$ and has a finite intersection property.^[Sidney A. Morris - "Topology without tears" p.272]
+>[!dsn]+ Proposition
+>Let $X$ be a set, and $\mathcal{F}$ be a family of subsets of $X$ with finite intersection property. Then exist a *maximal* family of subsets of $X$ which contains $\mathcal{F}$ and has a finite intersection property.^[[[Sidney A. Morris - Topology without tears.pdf#page=272|Sidney A. Morris - "Topology without tears" p.272]]]
 
 >[!proof]+
 >Let $Z$ be a collection of all families of subsets of $X$ which contains $\mathcal{F}$ and has a finite intersection property. Define a partial order $\le$ on $Z$ as follows: if $\mathcal{F}_{1}$ and $\mathcal{F}_{2}$ belongs to $Z$ then $\mathcal{F}_{1}\le\mathcal{F}_{2}$ if $\mathcal{F}_{1}\subseteq\mathcal{F}_{2}$.

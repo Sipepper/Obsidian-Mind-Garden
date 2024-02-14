@@ -9,7 +9,7 @@ aliases:
 ***
 ###### tags: #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $\sim$ be a binary relation on a set $X$, then $\sim$ is said to be the *equivalence relation* if the following properties holds:
 >- $a\sim a$, (*reflexive*)
 >- if $a\sim b$ then $b\sim a$ (*symmetric*)

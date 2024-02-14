@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-03
+Complete: false
+aliases:
+---
 # Asymptotic inequalities and equivalence relations for functions
 ***
 ###### tags: #Fundamental_math_objects 
 ***
 #### Approximately equivalent functions
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $X$ be a subset of $\mathbb{R}$. Given two functions $f,g:X\to\mathbb{R}$, we say that *the order of the function $f$ is at most the order of the function $g$* denoted as $f\precsim g$, if there exist real numbers $a,b,c,d,e>0$ and $x_{0}$ such that for all $x\in X,x\ge x_{0}$, we have: $bx+c\in X$ and 
 >$$f(x)\le ag(bx+c)+dx+e$$
 >If $f\precsim g$ and $g\precsim f$ then we say that $f$ and $g$ are *approximately equivalent*, denoted as $f\approx g$.^[Cornelia Drutu, Michael Kapovich - "Geometric group theory" c.2]
@@ -20,10 +25,10 @@
 >>that is $f\precsim g$ and $g\precsim h$ imply $f\precsim h$, the reversed implication can be verified in a same way.
 
 #### Approximately equal functions
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Given two functions $f,g:X\to\mathbb{R}$, where $X\subset\mathbb{R}$, we can introduct the *asymptotic inequality* between functions $f$ and $g$, denoted as $f\preceq g$, if there exist $a,b>0$ and $x_{0}\in\mathbb{R}$ such that for all $x\in X$,$x\ge x_{0}$, we have: $bx\in X$ and
 >$$f(x)\le ag(bx)$$
->If $f\preceq g$ and $g\preceq f$ then we write $f\asymp g$ and say that $f$ and $g$ are *asymptotically equal*.^[Cornelia Drutu, Muchael Kapovich - "Geometric group theory" c.2]
+>If $f\preceq g$ and $g\preceq f$ then we write $f\asymp g$ and say that $f$ and $g$ are *asymptotically equal*.^[Cornelia Drutu, Michael Kapovich - "Geometric group theory" c.2]
 
 >$\asymp$ is an equivalence relations
 >>[!proof]+

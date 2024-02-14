@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-07
+Complete: true
+aliases:
+---
 # Sequence
 ***
 ###### tags: #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Sequence is a some enumerated collection of some elements with possible repetitions. Order is important.
 >
 >Strictly speaking, suppose that $X$ is a set. A *sequence* is a mapping $f:\mathbb{N}\to X$, that is mapping of a natural numbers to $X$.^[https://ru.wikipedia.org/wiki/Последовательность]

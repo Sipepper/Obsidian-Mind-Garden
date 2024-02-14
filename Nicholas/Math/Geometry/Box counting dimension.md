@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-11
+Complete: true
+aliases:
+---
 # Box counting dimension
 ***
 ###### tags: #Geometry/Fractal 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $F$ be a bounded non-empty subset of $\mathbb{R}^{n}$ and let $N_{\delta}(F)$ be the smallest number of sets which covers $F$ with diameter at most $\delta$. By *lower* and *upper box-counting dimension*(*Minkowski-Bouligand dimension*) of a set $F$ we mean the following expressions:
 >$$\underline\dim_{B}F=\underline\lim\limits_{\delta\to0}\frac{\log N_{\delta}(F)}{\log(1/\delta)}\quad (1)$$
 >$$\overline\dim_{B}F=\overline\lim\limits_{\delta\to0}\frac{\log N_{\delta}(F)}{\log(1/\delta)}\quad (2)$$
@@ -23,10 +28,13 @@
 - [[Bounded set]],
 - [[Set]],
 - [[Euclidean space]],
-- [[Open ball in metric space]],
-- [[Open and closed subsets]],
 - [[Set diameter]],
 - [[Covering of a set]],
+- [[Open ball in metric space]],
+- [[Open and closed subsets]],
+- [[Convergence]],
+- [[Limit]],
+- [[Logarithm]],
 - [[Delta covering]],
 - [[Epsilon-net]]
 #### Possibly related

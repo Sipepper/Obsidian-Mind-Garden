@@ -1,0 +1,1 @@
+^[[[Gunnar Carlsson, Mikael Vejdemo-Johansson - Topological Data Analysis with Applications.pdf#page=+13|Gunnar Carlsson, Mikael Vejdemo-Johansson - "Topological Data Analysis with Applications" p.]]]

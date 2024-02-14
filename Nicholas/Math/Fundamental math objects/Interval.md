@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-07
+Complete: false
+aliases:
+---
 # Interval
 ***
 ###### tags: #Fundamental_math_objects #Topology 
 ***
->[!dsn]+ Direct strict note
->A subset $S$ of $\mathbb{R}$ is said to be the *interval* if for any $x,z\in S$ and $y\in\mathbb{R}$ are such that $x<y<z$, then $y\in S$.^[Sidney A. Morris - "Topology without tears" p.104]
+>[!dsn]+ Definition
+>A subset $S$ of $\mathbb{R}$ is said to be the *interval* if for any $x,z\in S$ and $y\in\mathbb{R}$ are such that $x<y<z$, then $y\in S$.^[[[Sidney A. Morris - Topology without tears.pdf#page=104|Sidney A. Morris - "Topology without tears" p.104]]]
 
 >- Each singleton set $\{x\}$ is an interval.
 >- Every interval has one of the following forms: $\{a\}$, $[a,b]$, $(a,b)$, $[a,b)$, $(a,b]$, $(-\infty,a)$, $(-\infty,a]$, $(a,\infty)$, $[a,\infty)$, $(-\infty,\infty)$.
@@ -17,16 +22,16 @@
 >>
 
 
->Every open interval $(a,b)$, with $a<b$, is homeomorphic to $\mathbb{R}$.^[Sidney A. Morris - "Topology without tears" p.99]
+>Every open interval $(a,b)$, with $a<b$, is homeomorphic to $\mathbb{R}$.^[[[Sidney A. Morris - Topology without tears.pdf#page=99|Sidney A. Morris - "Topology without tears" p.99]]]
 >>[!proof]+
->> it's achivable via modified version of [[Homeomorphism between real line an open interval]]
+>>it's achievable via modified version of [[homeomorphism between real line an open interval]].
 
 #### Non-homeomorphic intervals
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >If $a,b,c$ and $d$ are real numbers with $a<b$ and $c<d$, then
 >1. $(a,b)\not\cong[c,d)$,
 >2. $(a,b)\not\cong[c,d]$, and
->3. $[a,b)\not\cong[c,d]$.^[Sidney A. Morris - "Topology without tears" p.105]
+>3. $[a,b)\not\cong[c,d]$.^[[[Sidney A. Morris - Topology without tears.pdf#page=105|Sidney A. Morris - "Topology without tears" p.105]]]
 
 >[!proof]+
 >1. Let $(X,\tau)=[c,d)$ and $(Y,\tau_{1})=(a,b)$. Suppose that $(X,\tau)\cong(Y,\tau_{1})$. Then $X\setminus\{c\}\cong Y\setminus\{y\}$, by [[A homeomorphic spaces without one point are homeomorphic]], for some $y\in Y$. But $X\setminus\{c\}=(c,d)$ is an interval, therefore connected, while no matter which point we remove from $(a,b)$ the resultant space is disconnected. Hence by [[Connected topological space#Homeomorphisms preserves connectedness|Homeomorphisms preserves connectedness]]

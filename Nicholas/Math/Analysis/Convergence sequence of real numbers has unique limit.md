@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-02
+Complete: true
+aliases:
+---
 # Convergence sequence of real numbers has unique limit
 ***
 ###### tags: #Analysis/Real 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $\{a_{n}\}_{n\in\mathbb{N}}$ be a convergent sequence of real numbers. Then there is only one limit $a\in\mathbb{R}$.^[https://youtu.be/k-Wm6gJYfrw]
 
 >[!proof]+
@@ -26,8 +31,8 @@
 - [[Convergence]],
 - [[Limit]],
 - [[Real line]],
+- [[Neighborhood in topological space]],
 - [[Absolute value]],
-- [[Epsilon neighborhood]]
 #### Possibly related
 - 
 ***

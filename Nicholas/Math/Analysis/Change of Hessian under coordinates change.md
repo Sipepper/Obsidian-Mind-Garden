@@ -1,14 +1,19 @@
+---
+Last time checked: 2024-02-02
+Complete: false
+aliases:
+---
 # Change of Hessian under coordinates change
 ***
 ###### tags: #Analysis/Multivariable 
 ***
 #### Two variables
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $p_{0}$ be a critical point of a function $z=f(x,y)$. Let $H_{f}(p_{0})$ be the Hessian of $f$ computed using the coordinates $(x,y)$, and $\mathcal{H}_{f}(p_{0})$ be the Hessian of the same $f$ computed using different coordinates $(X,Y)$. Then the following relation holds:
 >$$\mathcal{H}_{f}(p_{0})=J^{t}(p_{0})H_{f}(p_{0})J(p_{0})$$
 >where $J(p_{0})$ is the Jacobian matrix for the above coordinate transformation, defined by
 >$$J(p_{0})=\begin{pmatrix}\frac{\partial x}{\partial X}(p_{0})&\frac{\partial x}{\partial Y}(p_{0})\\\frac{\partial y}{\partial X}(p_{0})&\frac{\partial y}{\partial Y}(p_{0})  \end{pmatrix}$$
->.^[Yukio Matsumoto - "An introduction to Morse theory" p.8]
+>.^[[[Yukio Matsumoto - An introduction to Morse theory.pdf#page=22|Yukio Matsumoto - "An introduction to Morse theory" p.8]]]
 
 >[!proof]+
 >We apply the formula of [[Change of variables in partial derivatives]]
@@ -30,11 +35,11 @@
 ***
 #### Keywords
 - [[Critical point of a function]],
+- [[Function(mapping)]],
 - [[Hessian]],
 - [[Change of coordinates]],
 - [[Jacobian matrix]],
 - [[Function derivative]],
-- [[Function(mapping)]],
 - [[Matrix]]
 #### Possibly related
 - 

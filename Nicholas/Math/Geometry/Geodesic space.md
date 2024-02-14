@@ -1,5 +1,5 @@
 ---
-Last time checked: 2023-12-12
+Last time checked: 2024-02-10
 Complete: false
 aliases:
 ---
@@ -8,7 +8,7 @@ aliases:
 ###### tags: #Geometry/Metric 
 ***
 >[!dsn]+ Definition
->Let $(X,d)$ be a metric space, then it's said to be a *geodesic metric space* or just *geodesic space* if every two points in $X$ are joined by a geodesic.^[Martin R. Bridson, Andre Haefliger - "Metric spaces of non-positive curvature" c.4]
+>Let $(X,d)$ be a metric space, then it's said to be a *geodesic metric space* or just *geodesic space* if every two points in $X$ are joined by a geodesic.^[[[Martin R. Bridson, Andrea Haefliger - Metric spaces of non-positive curvature.pdf#page=23|Martin R. Bridson, Andrea Haefliger - "Metric spaces of non-positive curvature" p.4]]]
 
 >Space $(X,d)$ is *uniquely geodesic* if there is exactly one geodesic joining $x$ to $y$, for all $x,y\in X$.
 
@@ -27,6 +27,7 @@ aliases:
 - [[Metric space]],
 - [[Geodesic path in metric space]],
 - [[Sphere]],
+- [[Cardinality of a set]],
 - [[Complete metric space]]
 #### Possibly related
 - 

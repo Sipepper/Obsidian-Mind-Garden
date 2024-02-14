@@ -3,7 +3,7 @@
 ###### tags: #Analysis/Multivariable 
 ***
 #### Of two variables
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Suppose we have a function $z=f(x,y)$ defined near the origin with $f(0,0)=0$. Then there are functions $g(x,y)$ and $h(x,y)$ such that we can write
 >$$f(x,y)=xg(x,y)+yh(x,y)$$
 >in some neighborhood of the origin $(0,0)$, and such that
@@ -25,11 +25,11 @@
 ***
 #### Keywords
 - [[Function(mapping)]],
-- [[Neighborhood in topological space]],
 - [[Function derivative]],
+- [[Euclidean space]],
 - [[Riemann integral]],
 - [[Definite integral]]
 #### Possibly related
-- 
+- [[Neighborhood in topological space]],
 ***
 #### Sources:

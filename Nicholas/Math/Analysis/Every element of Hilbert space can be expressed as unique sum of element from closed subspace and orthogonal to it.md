@@ -10,7 +10,7 @@ aliases:
 >[!dsn]+ Proposition
 >Let $H$ be a Hilbert space and $M$ is a closed subspace of $H$ and $u\in H$. Then there exists a unique $m_{0}\in M$ such that 
 >$$\|u-m_{0}\|_{H}=\min_{m\in M}\{\|u-m\|_{H}\}$$
->Futhermore exist element $n_{0}=u-m_{0}\in M^{\perp}$ such that $u=m_{0}+n_{0}$, i.e. $U=M\oplus M^{\perp}$ is unique.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page= 50|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.32]]]
+>Futhermore exist element $n_{0}=u-m_{0}\in M^{\perp}$ such that $u=m_{0}+n_{0}$, i.e. $U=M\oplus M^{\perp}$ is unique.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page= 50|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.32]]]
 
 >[!proof]+
 >Define $d$ as $d=\inf\limits_{m\in M}\{\|u-m\|_{H}\}$. Let $\{m_{i}\}\subset M$ is a sequence such that $\|u-m_{i}\|_{H}\to d$, as $i\to\infty$. Then by [[Parallelogram law]] we obtain that

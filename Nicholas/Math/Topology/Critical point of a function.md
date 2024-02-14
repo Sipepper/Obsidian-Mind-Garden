@@ -66,7 +66,7 @@
 - [[Determinant]],
 - [[Functions on surfaces]],
 - [[Smooth surface]],
-- [[Local coordinates]],
+- [[n-dimensional chart]],
 - [[Neighborhood in topological space]]
 #### Possibly related
 - 

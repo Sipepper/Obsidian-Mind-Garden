@@ -1,12 +1,17 @@
+---
+Last time checked: 2024-02-01
+Complete: true
+aliases:
+---
 # Hessian
 ***
 ###### tags: #Analysis/Multivariable  
 ***
 #### Two variables case
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Suppose that $p_{0}=(x_{0},y_{0})$ is a critical point of a function $z=f(x,y)$. We call the matrix
 >$$\begin{pmatrix}\frac{\partial^{2}f}{\partial x^{2}}(p_{0})&\frac{\partial^{2}f}{\partial x\partial y}(p_{0})\\ \frac{\partial^{2}f}{\partial y\partial x}(p_{0})&\frac{\partial^{2}f}{\partial y^{2}}(p_{0})\end{pmatrix}$$
->of second derivatives evaluated at $p_{0}$, the *Hessian* of the function $z=f(x,y)$ at a critical point $p_{0}$, and denote it by $H_{f}(p_{0})$.^[Yukio Matsumoto - "An introduction to Morse theory" p.5]
+>of second derivatives evaluated at $p_{0}$, the *Hessian* of the function $z=f(x,y)$ at a critical point $p_{0}$, and denote it by $H_{f}(p_{0})$.^[[[Yukio Matsumoto - An introduction to Morse theory.pdf#page=19|Yukio Matsumoto - "An introduction to Morse theory" p.5]]]
 
 >[!example]+ 
 >- For $z=x^{2}+y^{2}$, the Hessian at the origin is
@@ -36,8 +41,9 @@
 - [[Matrix]],
 - [[Function(mapping)]],
 - [[Function derivative]],
-- [[Function gradient]],
+- [[Transpose]],
 - [[Jacobian matrix]],
+- [[Function gradient]],
 - [[Change of coordinates]]
 #### Possibly related
 - 

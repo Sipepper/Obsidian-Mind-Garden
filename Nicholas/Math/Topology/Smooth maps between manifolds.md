@@ -8,7 +8,7 @@ aliases:
 ###### tags: #Topology/Differential 
 ***
 >[!dsn]+ Definition
->A map $f:M\to N$ between smooth manifolds $(M,\Phi)$ and $(N,\Psi)$ is called *smooth* if for every chart $\phi\in\Phi$ and any chart $\psi\in\Psi$, the composition $\phi\circ f\circ\phi^{-1}$ is smooth.^[[[Algebraic topology - Stefan Friedl.pdf#page=279 |Stefan Friedl - "Algebraic topology" p.279 ]]]
+>A map $f:M\to N$ between smooth manifolds $(M,\Phi)$ and $(N,\Psi)$ is called *smooth* if for every chart $\phi\in\Phi$ and any chart $\psi\in\Psi$, the composition $\phi\circ f\circ\phi^{-1}$ is smooth.^[[[Stefan Friedl - Algebraic topology.pdf#page=279|Stefan Friedl - "Algebraic topology" p.279 ]]]
 
 >Given two smooth manifolds $M$ and $N$ the set $C^{\infty}(M,N)$ denotes the set of all smooth maps from $M$ to $N$.
 

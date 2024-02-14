@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-01-31
+Complete: true
+aliases:
+---
 # Separability criterion for Hilbert spaces
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Hilbert space $H$ separable if and only if it has countable orthonormal basis. If $\dim(H)=N<\infty$, i.e. finite, then $H$ is isomorphic to $\mathbb{C}^{N}$. If $\dim(H)=+\infty$, then $H$ is isomorphic to $l^{2}$ space.^[Fabio Silva Botelho - "Functional analysis and applied optimization in banach spaces" p.39-40]
 
 >[!proof]+
@@ -28,7 +33,9 @@
 - [[Sequence spaces]],
 - [[Linear span]],
 - [[Dense subset]],
-- [[Complex plane]]
+- [[Complex plane]],
+- [[Rational numbers]],
+- [[Sequence]]
 #### Possibly related
 - 
 ***

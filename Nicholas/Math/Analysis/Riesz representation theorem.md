@@ -1,20 +1,21 @@
 ---
-Last check: 2023-12-12:17:38
-Complete: true
+Last time checked: 2024-02-03
+Complete: false
+aliases:
 ---
 # Riesz representation theorem
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Theorem
 >Let $H$ be a Hilbert space and let $f:H\to\mathbb{R}$ is a linear functional. Then there exists a unique element $u_{0}\in H$ such that
 >$$f(u)=(u,u_{0})_{H}\quad\forall u\in H$$
 >Furthermore
 >$$\|f\|_{H^{*}}=\|u_{0}\|_{H}$$
->.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page=52 |Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.34-35]]]
+>.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=52|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.34-35]]]
 
 >[!proof]+
->Define $N$ as $N=\{u\in H:f(u)=0\}$. Therefore because $f$ is continuous and linear functional, then $N$ is a closed subspace of $H$. Let $N=H$, then $f(u)=0=(u,\theta)_{H}$, $\forall u\in H$ and proof is done. Therefore, suppose that $N\ne H$. From [[Every element of Hilbert space can be expressed as unique sum of element from closed subspace and orthogonal to it]] we know that exists $v\ne\theta$ such that $v\in N^{\perp}$.
+>Define $N$ as $N=\{u\in H:f(u)=0\}$. Therefore because $f$ is continuous and linear functional, $N$ is a closed subspace of $H$. Let $N=H$, then $f(u)=0=(u,\theta)_{H}$, $\forall u\in H$ and proof is done. Therefore, suppose that $N\ne H$. From [[Every element of Hilbert space can be expressed as unique sum of element from closed subspace and orthogonal to it]] we know that exists $v\ne\theta$ such that $v\in N^{\perp}$.
 >
 >Define 
 >$$u_{0}=\frac{f(v)}{\|v\|_{H}^{2}}v$$

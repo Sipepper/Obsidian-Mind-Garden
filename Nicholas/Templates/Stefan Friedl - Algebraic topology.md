@@ -1,1 +1,1 @@
-^[[[Algebraic topology - Stefan Friedl.pdf#page= |Stefan Friedl - "Algebraic topology" p. ]]]
+^[[[Stefan Friedl - Algebraic topology.pdf#page=|Stefan Friedl - "Algebraic topology" p. ]]]

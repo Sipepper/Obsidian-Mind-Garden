@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-02
+Complete: true
+aliases:
+---
 # Properties of convergent sequences of real numbers
 ***
 ###### tags: #Analysis/Real 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $\{a_{n}\}_{n\in\mathbb{N}}$ and $\{b_{n}\}_{n\in\mathbb{N}}$ be a convergent sequences. Then
 >1. $$\lim\limits_{n\to\infty}(a_{n}+b_{n})=\lim\limits_{n\to\infty}a_{n}+ \lim\limits_{n\to \infty}b_{n}$$
 >2. $$\lim\limits_{n\to \infty}(a_{n}\cdot b_{n})=\lim\limits_{n\to\infty}a_{n}\cdot \lim\limits_{n\to\infty}b_{n}$$
@@ -35,7 +40,8 @@
 - [[Convergence]],
 - [[Sequence]],
 - [[Limit]],
-- [[Monotonicity]]
+- [[Monotonicity]],
+- [[Absolute value]]
 #### Possibly related
 - 
 ***

@@ -1,14 +1,20 @@
+---
+Last time checked: 2024-02-05
+Complete: false
+aliases:
+---
 # Linear map
 ***
 ###### tags: #Fundamental_math_objects 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Function $f:U\to V$, where $U$ and $V$ is a topologival vector spaces, is said to be *linear* if $$f(\alpha u+\beta v)=\alpha f(u)+\beta f(v),\quad\forall u,v\in U,\quad\alpha,\beta\in\mathbb{F}$$
+>.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=39|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.21-23]]]
 
->[!example] 
+>[!example]+
 >
 #### Properties of linear maps
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $f:U\to V$ be a linear function. Suppose the following:
 >1. $f$ is a continuous function.
 >2. $f$ is a bounded function.
@@ -21,7 +27,7 @@
 >- and if $U$ is metrizable, then from $(3)$ it follows the $(4)$, from which follows the $(1)$
 >I.e. if $U$ is metrizable, then all four propositions are equivalent.
 
->[!proof]
+>[!proof]+
 >$(1)\Rightarrow(2)$:
 >Suppose that $f$ is a continuous function, i.e. for neighbourhood of zero $\mathcal{W}\subset V$ there exists a neighbourhood of zero in $U$, denoted by $\mathcal{V}$, such that
 >$$f(\mathcal{V})\subset\mathcal{W}$$
@@ -41,19 +47,21 @@
 >Suppose that property $(1)$ is not holds; i.e. function $f$ is not continuous. Then exist some neighbourhood of zero $\mathcal{W}\subset V$ such that the preimage $f^{-1}(\mathcal{W})$ don't contain any neighbourhoods of zero in $U$. In particular, we can choose a sequence $\{u_{n}\}$ such that $u_{n}\in B_{1/n}(\theta)$ and $f(u_{n})\notin\mathcal{W}$ then $\{f(u_{n})\}$ is not converging to zero. Therefore $(4)$ will not hold.
 ***
 #### Keywords
-- [[Linear map]],
+- [[Function(mapping)]],
+- [[Topological vector space]],
+- [[Field]],
 - [[Continuous mapping]],
 - [[Bounded mapping]],
 - [[Sequence]],
+- [[Convergence]],
 - [[Metrizable space]],
 - [[Neighborhood in topological space]],
+- [[Real line]],
+- [[Set of natural numbers]],
 - [[Balanced subsets of topological vector spaces]],
-- [[Convergence]],
-- [[Function(mapping)]],
 - [[Bounded set]],
 - [[Preimage]],
 #### Possibly related
 - 
 ***
 #### Sources:
-1. Fabio Botelho "Functional analysis and Applied Optimization in Banach Spaces" p.21-23

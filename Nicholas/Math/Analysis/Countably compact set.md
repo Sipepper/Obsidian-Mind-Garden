@@ -8,14 +8,14 @@ aliases:
 ###### tags: #Topology  
 ***
 >[!dsn]+ Definition
->A set $A$ is called *countably compact* if every countable subset of $A$ has a limit point in $A$.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page=28|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.10]]]
+>A set $A$ is called *countably compact* if every countable subset of $A$ has a limit point in $A$.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=28|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.10]]]
 
 >[!example]+
 >
 
 #### Relation to compactness
 >[!dsn]+ Proposition
->Every compact set is countably compact.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach spaces.pdf#page=28|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.10]]]
+>Every compact set is countably compact.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=28|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.10]]]
 
 >[!proof]+
 >Let $B$ be a countable subset of a set $A$, suppose that $B$ has no limit points. 

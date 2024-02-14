@@ -24,7 +24,7 @@ aliases:
 - [[Boundary of topological manifold]],
 - [[Cotangent space]],
 - [[Projection map]],
-- [[Local coordinates]],
+- [[n-dimensional chart]],
 - [[n-dimensional chart]],
 - [[Open and closed subsets]],
 - [[Basis of vector space]],

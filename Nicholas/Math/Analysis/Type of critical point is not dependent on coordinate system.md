@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-02
+Complete: false
+aliases:
+---
 # Type of critical point is not dependent on coordinate system
 ***
 ###### tags: #Analysis/Multivariable 
 ***
->[!dsn]+ Direct strict note
->The property that $p_{0}$ is a non-degenerate critical point does not depend on choice of coordinates. The same is true for degenerate critical points.^[Yukio Matsumoto - "An introduction to Morse theory" p.8]
+>[!dsn]+ Proposition
+>The property that $p_{0}$ is a non-degenerate critical point does not depend on choice of coordinates. The same is true for degenerate critical points.^[[[Yukio Matsumoto - An introduction to Morse theory.pdf#page=22|Yukio Matsumoto - "An introduction to Morse theory" p.8]]]
 
 >[!proof]+
 >Let $p_{0}$ be a non-degenerate critical point of a function $f$, that is $H_{f}(p_{0})\ne0$. Consider the new coordinate system $(X,Y)$ respective Hessian $\mathcal{H}_{f}(p_{0})$. By [[change of Hessian under coordinates change]] we know that
@@ -23,6 +28,7 @@
 - [[Function(mapping)]],
 - [[Hessian]],
 - [[Jacobian matrix]],
+- [[Transpose]],
 - [[Determinant]]
 #### Possibly related
 - 

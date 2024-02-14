@@ -1,6 +1,6 @@
 ---
-Last time checked: 2023-11-19
-Complete: false
+Last time checked: 2024-02-09
+Complete: true
 aliases:
 ---
 # Kernel and image of a mapping
@@ -52,10 +52,12 @@ aliases:
 - [[Function(mapping)]]
 - [[Ring]],
 - [[Homomorphism]],
+- [[Preimage]],
 - [[Set]],
 - [[Set of integers]],
 - [[Modular arithmetic]],
-- [[Residue class]]
+- [[Residue class]],
+- [[Divisibility]],
 #### Possibly related
 - 
 ***

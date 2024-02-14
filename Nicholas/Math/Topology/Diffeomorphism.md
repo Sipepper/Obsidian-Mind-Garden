@@ -8,7 +8,7 @@ aliases:
 ###### tags: #Topology/Differential 
 ***
 >[!dsn]+ Definition
->We say that a map $f:M\to N$ between smooth manifolds is a *diffeomorphism* if $f$ is smooth and if $f$ is a bijection and $f^{-1}:N\to M$ is also smooth.^[[[Algebraic topology - Stefan Friedl.pdf#page=278 |Stefan Friedl - "Algebraic topology" p.278 ]]]
+>We say that a map $f:M\to N$ between smooth manifolds is a *diffeomorphism* if $f$ is smooth and if $f$ is a bijection and $f^{-1}:N\to M$ is also smooth.^[[[Stefan Friedl - Algebraic topology.pdf#page=278|Stefan Friedl - "Algebraic topology" p.278 ]]]
 
 >If such a diffeomorphism exists, then we say that $M$ and $N$ are *diffeomorphic*.
 

@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-01
+Complete: false
+aliases:
+---
 # Linear operator is bounded iff preimage of a closed unit ball has at least one interior point
 ***
 ###### tags: #Analysis/Functional 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $U$ and $V$ be Banach spaces and let $A:U\to V$ is a linear operator. Then $A$ is bounded if and only if the preimage $A^{-1}(\{v\in V:\|v\|_{V}\le1\})$ of a closed unit ball in $V$ has at least one interior point.^[Fabio Silvia Botelho "Functional Analysis and Applied Optimization in Banach Spaces" p.24-25]
 
 >[!proof]+
@@ -36,6 +41,8 @@
 - [[Bounded operator]],
 - [[Preimage]],
 - [[Open ball in metric space]],
+- [[Open and closed subsets]],
+- [[Normed space]],
 - [[Interior, Exterior and boundary of a set in topological space]],
 #### Possibly related
 - 

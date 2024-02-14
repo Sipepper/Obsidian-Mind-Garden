@@ -1,13 +1,18 @@
+---
+Last time checked: 2024-02-07
+Complete: false
+aliases:
+---
 # Set
 ***
 ###### tags: #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Naively speaking a *set* is a "family" of objects which called *elements* of e set with some specific properties. Formalized definition was provided in [[ZFC]].^[Philippe G.Ciarlet - "Linear and Nonlinear Functional Anallysis with Applications" p.2]
  
 
 #### Basic operations on sets
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $X$ be a set, then
 >- If $x\in A$ implies $x\in X$ then we say that $A$ is a *subset* of $X$, denoted as $A\subset X$. If $A\ne X$ then $A$ is said to be *proper subset* of $X$.
 >- There exists a set of *all* subsets of $X$ called *power set* denoted as $\mathcal{P}(X)$(or $2^{X}$).
@@ -26,7 +31,7 @@
 >  $$A\cap(B\cup C)=(A\cap B)\cup(A\cap C)$$
 
 #### Algebra of relative complements 
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $A,B,C\subset X$, then the following identities holds
 >1. $C\setminus(A\cap B)=(C\setminus A)\cup(C\setminus B)$
 >2. $C\setminus(A\cup B)=(C\setminus A)\cap(C\setminus B)$
@@ -40,7 +45,6 @@
 >10. $B\setminus A=A^{c}\cap B$
 >11. $(B\setminus A)^{c}=A\cup B^{c}$
 >12. $A\setminus X=\emptyset$
-
 
 >[!proof]+
 >
