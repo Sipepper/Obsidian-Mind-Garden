@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-20
+Complete: false
+aliases:
+---
 # Quotient group
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $N$ be a normal subgroup of a group $G$ and $G/N$ be the set of all left(right) cosets of $N$ in $G$. Because cosets don't depend on choose of representatives we can define composition law on this set, as follows
 >$$(aN)(bN)=(aN)(Nb)=a(NN)b=a(Nb)=(ab)N$$
 >we see that normatily is a crucial condition for subgroup $N$. Such group is said to be the *quotient group* of $G$ by $N$.^[https://en.wikipedia.org/wiki/Quotient_group]

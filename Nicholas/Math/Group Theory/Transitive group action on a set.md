@@ -8,7 +8,7 @@ aliases:
 ###### tags: #Group_Theory #Algebra 
 ***
 >[!dsn]+ Definition
->The action $(G,X,\phi)$ is called *transitive* if for every $x,y\in X$ there exists $g\in G$ such that $g(x)=y$.^[Marcel Berger - "Geometry 1" p.6]
+>The action $(G,X,\phi)$ is called *transitive* if for every $x,y\in X$ there exists $g\in G$ such that $g(x)=y$.^[[[Marcel Berger - Geometry 1.pdf#page=18 |Marcel Berger - "Geometry 1" p.6]]]
 
 >In practice, it sufficient to check that some fixed $a\in X$ can be mapped to any $x\in X$ by some element $g\in G$. For if we have $g(a)=x$ and $h(a)=y$, then $y=(hg^{-1})(x)$.
 >![[Pasted image 20230425212654.png]]
@@ -23,9 +23,8 @@ aliases:
 - [[Group acting on a set]],
 - [[Function(mapping)]],
 - [[Symmetric group]],
-- [[Linear groups]],
 - [[Vector space]],
-- [[Set]]
+- [[Linear groups]]
 #### Possibly related
 - 
 ***

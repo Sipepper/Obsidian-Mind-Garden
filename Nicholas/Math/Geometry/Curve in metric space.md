@@ -9,7 +9,7 @@ aliases:
 ***
 >[!dsn]+ Definition
 >Let $X$ be a metric space. A *curve* or a *path* in $X$ is a *continuous* map $c$ from a compact interval $[a,b]\subset\mathbb{R}$ to $X$.
->We say that $c$ joins the point $c(a)$ to the point $c(b)$.^[Martin R. Bridson, Andre Haefliger - "Metric spaces of non-positive curvature" p.12]
+>We say that $c$ joins the point $c(a)$ to the point $c(b)$.^[[[Martin R. Bridson, Andrea Haefliger - Metric spaces of non-positive curvature.pdf#page=31|Martin R. Bridson, Andrea Haefliger - "Metric spaces of non-positive curvature" p.12]]]
 
 >If $c_{1}:[a_{1},b_{1}]\to X$ and $c_{2}:[a_{2},b_{2}]\to X$ are two paths such that $c_{1}(b_{1})=c_{2}(a_{2})$, their *concatenation* is the path $c:[a_{1},b_{1}+b_{2}-a_{2}]\to X$ defined by $c(t)=c_{1}(t)$ if $t\in[a_{1},b_{1}]$ and $c(t)=c_{2}(t+a_{2}-b_1)$ if $t\in[b_{1},b_{1}+b_{2}-a_{2}]$. Concatenation can be inductively generalised to be applied to a finite sequence of paths.
 
@@ -19,13 +19,13 @@ aliases:
 #### Keywords
 - [[Metric space]],
 - [[Continuous mapping]],
-- [[Interval]],
 - [[Compact set]],
+- [[Interval]],
+- [[Real line]]
 - [[Mathematical induction]],
 - [[Cardinality of a set]],
 - [[Sequence]],
 - [[Space of all continuous functions on the interval]],
-- [[Real line]]
 #### Possibly related
 - 
 ***

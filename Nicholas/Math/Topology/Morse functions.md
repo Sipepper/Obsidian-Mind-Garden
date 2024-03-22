@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-13
+Complete: true
+aliases:
+---
 # Morse functions
 ***
 ###### tags: #Topology/Differential/Morse_theory 
 ***
->[!dsn]+ Direct strict note
->Let $f:M\to\mathbb{R}$ be a smooth function on a surface $M$. If every critical point of $f$ is non-degenerate, then we say that $f$ is a *Morse function*.^[Yukio Matsumoto - "An introduction to Morse theory" p.16]
+>[!dsn]+ Definition
+>Let $f:M\to\mathbb{R}$ be a smooth function on a surface $M$. If every critical point of $f$ is non-degenerate, then we say that $f$ is a *Morse function*.^[[[Yukio Matsumoto - An introduction to Morse theory.pdf#page=30|Yukio Matsumoto - "An introduction to Morse theory" p.16]]]
 
 >[!example]+ 
 >Consider the unit sphere $\mathbb{S}^{2}$ with the orthogonal coordinates $(x,y,z)$ in three-dimensional space $\mathbb{R}^{3}$; that is $\mathbb{S}^{2}$ is defined by the equation

@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-27
+Complete: true
+aliases:
+---
 # Linear groups
 ***
 ###### tags: #Group_Theory #Algebra/Linear 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >A set $\text{GL}(n,K)$ of invertible $n\times n$ matrices over a field $K$ has a group structure under operation of matrix multiplication and said to be the *general linear group* of order $n$ over a field $K$.
 
 >When $n\ge 2$ $\text{GL}(n,K)$ is *not* abelian.
@@ -18,12 +23,14 @@
   
 ***
 #### Keywords
+- [[Set]],
 - [[Matrix]],
-- [[Group]],
 - [[Field]],
+- [[Group]],
+- [[Law of composition]]
 - [[Abelian group]],
 - [[Determinant]],
-- [[Law of composition]]
+- [[Transpose]]
 #### Possibly related
 - 
 ***

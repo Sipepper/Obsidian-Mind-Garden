@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-05
+Complete: false
+aliases:
+---
 # Continuous mapping
 ***
 ###### tags: #Topology #Fundamental_math_objects 
 ***
->[!dsn]+ Direct strict note
->Let $(X,\tau)$ and $(Y,\tau_{1})$ be topological spaces and $f$ a function from $X$ into $Y$. Then $f:(X,\tau)\to(Y,\tau_{1})$ is said to be a *continuous mapping* if for each $U\in\tau_{1}$, $f^{-1}(U)\in\tau$.^[Sidney A. Morris - "Topology without tears" p.112]
+>[!dsn]+ Definition
+>Let $(X,\tau)$ and $(Y,\tau_{1})$ be topological spaces and $f$ a function from $X$ into $Y$. Then $f:(X,\tau)\to(Y,\tau_{1})$ is said to be a *continuous mapping* if for each $U\in\tau_{1}$, $f^{-1}(U)\in\tau$.^[[[Sidney A. Morris - Topology without tears.pdf#page=112|Sidney A. Morris - "Topology without tears" p.112]]]
 
 >[!example]+
 >Consider $f:\mathbb{R}\to\mathbb{R}$ given by $f(x)=x$, for all $x\in\mathbb{R}$; that is, $f$ is the identity function. Then for any open set $U$ in $\mathbb{R}$, $f^{-1}(U)=U$ and so is open. Hence $f$ is continuous.
@@ -21,20 +26,19 @@
 >>[!proof]+
 >>
 
-#### Continuity by image
->[!dsn]+ Direct strict note
->Let $f$ be a mapping of a topological space $(X,\tau)$ into a space $(Y,\tau')$. Then $f$ is continuous if and only if for each $x\in X$ and each $U\in\tau'$ with $f(x)\in U$, there exists a $V\in\tau$ such that $x\in V$ and $f(V)\subseteq U$.^[Sidney A. Morris - "Topology without tears" p.114]
-
->[!proof]+
->
+>Let $f$ be a mapping of a topological space $(X,\tau)$ into a space $(Y,\tau')$. Then $f$ is continuous if and only if for each $x\in X$ and each $U\in\tau'$ with $f(x)\in U$, there exists a $V\in\tau$ such that $x\in V$ and $f(V)\subseteq U$.^[[[Sidney A. Morris - Topology without tears.pdf#page=114|Sidney A. Morris - "Topology without tears" p.114]]]
+>>[!proof]+
+>>
 
 ***
 #### Keywords
 - [[Topological space]],
 - [[Function(mapping)]],
-- [[Real line]],
 - [[Preimage]],
+- [[Real line]],
 - [[Open and closed subsets]],
+- [[Interval]],
+- [[Kernel and image of a mapping]]
 #### Possibly related
 - 
 ***

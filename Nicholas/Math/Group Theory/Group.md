@@ -1,9 +1,9 @@
 ---
-Last time checked: 2023-12-12
+Last time checked: 2024-02-19
 Complete: true
 aliases:
- - Группа
- - Група
+  - Группа
+  - Група
 ---
 # Group
 ***

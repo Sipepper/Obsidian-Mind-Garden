@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-10
+Complete: false
+aliases:
+---
 # Locally connected space
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->A topological space $(X,\tau)$ is said to be *locally connected* if it has a basis of connected (open) sets.^[Sidney A. Morris "Topology without tears" p.252]
+>[!dsn]+ Definition
+>A topological space $(X,\tau)$ is said to be *locally connected* if it has a basis of connected (open) sets.^[[[Sidney A. Morris - Topology without tears.pdf#page=252|Sidney A. Morris - "Topology without tears" p.252]]]
 
 >[!example]+ 
 >Every discrete space is locally connected as are $\mathbb{R}^{n}$ and $\mathbb{S}^{n}$, for all $n\ge1$.

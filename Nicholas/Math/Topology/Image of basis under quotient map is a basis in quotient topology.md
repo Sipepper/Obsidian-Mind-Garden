@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Image of basis under quotient map is a basis in quotient topology
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $X$ be a topological space and let $\sim$ be an equivalence relation on $X$. Further let $\mathcal{B}$ be a basis of the topology of $X$. If the projection $p:X\to X/\sim$ is an open map, then
 >$$p(\mathcal{B})=\{p(B):B\in\mathcal{B}\}$$
->is a basis for the topology of $X/\sim$.^[Stefan Friedl - "Algebraic topology" p.183]
+>is a basis for the topology of $X/\sim$.^[[[Stefan Friedl - Algebraic topology.pdf#page=183|Stefan Friedl - "Algebraic topology" p.183]]]
 
 >[!proof]+
 >First note that the sets in $p(\mathcal{B})$ are indeed open subsets of $X/\sim$ since we assume that the projection is open.

@@ -1,17 +1,22 @@
+---
+Last time checked: 2024-02-26
+Complete: true
+aliases:
+---
 # Orbit in homogeneous space
 ***
 ###### tags: #Group_Theory #Geometry  
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $(G,X)$ be a homogeneous space. The orbit $O(x)$ of $x\in X$ is defined as
 >$$O(x)=\{g(x):g\in G\}$$
 >Thus orbits are just equivalence classes under the equivalence relation
 >$$x\sim y\Longleftrightarrow \exists g\in G:g(x)=y$$
->.^[Marcel Berger - "Geometry 1" p.9]
+>.^[[[Marcel Berger - Geometry 1.pdf#page=21 |Marcel Berger - "Geometry 1" p.9]]]
 
 >We can form the *space of orbits* $X/G$, for all $x\in X$,
 >$$O(x)\cong G/G_{x}$$
->using proof of [[If group acting on homogeneous space is finite then this space is also finite]].
+>using proof of [[if group acting on homogeneous space is finite then this space is also finite]].
 
 >[!example]+ 
 >For a given $g\in S_{n}$, put $G=\{g^{k}:k\in\mathbb{Z}\}\subset S_{n}$. Then $G$ acts on $X=\{1,\dots,n\}$, and the orbits are called *cycles* of the permutation $g$.
@@ -40,6 +45,7 @@
 #### Keywords
 - [[Homogeneous space under group action]],
 - [[Group acting on a set]],
+- [[Equivalence class]],
 - [[Equivalence relation]],
 - [[Quotient set]],
 - [[Symmetric group]],
@@ -47,6 +53,8 @@
 - [[Cyclic group]],
 - [[Euclidean space]],
 - [[Vector space]],
+- [[Linear groups]],
+- [[Isometry]],
 - [[Sphere]],
 - [[Cardinality of a set]],
 - [[Centralizer in a group]],

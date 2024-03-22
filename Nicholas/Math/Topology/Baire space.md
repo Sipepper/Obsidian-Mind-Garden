@@ -1,12 +1,17 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Baire space
 ***
 ###### tags: #Topology 
 ***
->[!dsn] Direct strict note
->A topological space $(X,d)$ is said to be a *Baire space* if for every sequence $\set{X_{n}}$ of open dense subsets of $X$, the set $\bigcap_{n=1}^{\infty}X_{n}$ is also dense.^[Sidney A. Morris - "Topology without tears" c.165-166]
+>[!dsn]+ Definition
+>A topological space $(X,\tau)$ is said to be a *Baire space* if for every sequence $\set{X_{n}}$ of open dense subsets of $X$, the set $\bigcap_{n=1}^{\infty}X_{n}$ is also dense.^[[[Sidney A. Morris - Topology without tears.pdf#page=165|Sidney A. Morris - "Topology without tears" p.165-166]]]
 
 >Every complete metrizable space is a Baire space.
->>[!proof]
+>>[!proof]+
 >>
 
 >[!example] 
@@ -17,10 +22,12 @@
 #### Keywords
 - [[Topological space]],
 - [[Sequence]],
+- [[Open and closed subsets]],
+- [[Set]],
 - [[Dense subset]],
 - [[Completely metrizable space]],
-- [[Cardinality of a set]],
 - [[Rational numbers]]
+- [[Cardinality of a set]],
 #### Possibly related
 - 
 ***

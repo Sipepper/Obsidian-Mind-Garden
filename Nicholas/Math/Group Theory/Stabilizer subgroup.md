@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-26
+Complete: true
+aliases:
+---
 # Stabilizer subgroup
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn]+ Direct strict note
->If $(X,G)$ is a group action and $x\in X$, then the *stabilizer* (or *isotropy group*) of $x$ is the subgroup $G_{x}=\{g\in G:g(x)=x\}$.^[Marcel Berger - "Geometry 1" p.7]
+>[!dsn]+ Definition
+>If $(X,G)$ is a group action and $x\in X$, then the *stabilizer* (or *isotropy group*) of $x$ is the subgroup $G_{x}=\{g\in G:g(x)=x\}$.^[[[Marcel Berger - Geometry 1.pdf#page=19 |Marcel Berger - "Geometry 1" p.7]]]
 
 >In some sense stabilizers tells us how far a group is from acting simply transitively. As we can notice that $g(x)=h(x)$ if and only if $h^{-1}g$ is in the stabilizer of $x$.
 
@@ -16,7 +21,7 @@
 >[!example]+
 >For inner automorphisms we have the following equality
 >$$G_{g}=\{h\in G:hg=gh\}$$
->the set of elements of $G$ commuting with $g$, that is the [[Centralizer in a group]]
+>the set of elements of $G$ commuting with $g$, that is the [[centralizer in a group]].
 ***
 #### Keywords
 - [[Group acting on a set]],
@@ -24,6 +29,7 @@
 - [[Simply transitive group action on a set]],
 - [[Symmetric group]],
 - [[Permutation]],
+- [[Cycle decomposition of a permutation]],
 - [[Set]],
 - [[Isomorphism]],
 - [[Direct product of groups]],

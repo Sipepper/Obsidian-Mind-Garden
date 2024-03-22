@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-20
+Complete: true
+aliases:
+---
 # Order of element in group
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $G$ be a group, then smallest $n\in\mathbb{N}$ such that $a^{n}=e$ is said to be the *order* of element $a\in G$. 
 
 >[!example]+ 

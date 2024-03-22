@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: true
+aliases:
+---
 # Product of topological manifolds
 ***
 ###### tags: #Topology/Differential  
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $M$ be an $m$-dimensional topological manifold with possibly non-empty boundary and let $N$ be an $n$-dimensional topological manifold with empty boundary. Then the following hold:
 >1. The product $M\times N$ is an $(m+n)$-dimensional topological manifold.
 >2. We have $\partial(M\times N)\subset\partial M\times N$.

@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-17
+Complete: false
+aliases:
+---
 # Graph or 1-dimensional complex  
 ***
 ###### tags: #Graph_theory #Topology/Algebraic 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $\mathbb{R}^{3}$ be a euclidean space, and let $A_{1},\dots,A_{n}$ be a set of points some of which are connected with non intersecting lines. Then such set endowed with subspace topology from $\mathbb{R}^{3}$ is called a *graph*, or *$1$-dimensional complex*.^[В.В. Прасолов "Элементы комбинаторной и дифференциальной топологии" с.17]
 
 
@@ -14,15 +19,16 @@
 
 >Sequence of pairwise different vertices $v_{1},\dots,v_{n}$ connected with edges $v_{1}v_{2},v_{2}v_{3},\dots,v_{n}v_{1}$ is called a *cycle*.
 
->[!example] 
+>[!example]+
 >
 ***
 #### Keywords
 - [[Euclidean space]],
+- [[Set]],
 - [[Euclidean topology]],
 - [[Subspace topology]],
 - [[Sequence]],
-- [[Set]],
+- [[Dimension]]
 #### Possibly related
 - 
 ***

@@ -8,7 +8,7 @@ aliases:
 ###### tags: #Geometry/Differential #Topology/Differential 
 ***
 #### Differentiable curves
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Vector $\alpha'(t)=(x'(t),y'(t),z'(t))\in\mathbb{R}^{3}$ is called a *tangent vector*(or *vector of speed*) of curve $\alpha$ in point $t$.^[Manfredo P. do Carmo - "Differential Geometry of Curves and Surfaces" с.2]
 
 >Image $\alpha(I)\subset\mathbb{R}^{3}$ is called a *trace* of a curve $\alpha(t)$. Trace of a curve and curve is a different objects.

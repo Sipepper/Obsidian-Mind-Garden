@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-27
+Complete: false
+aliases:
+---
 # Every non-discrete subgroup of real line is dense
 ***
 ###### tags: #Group_theory/Topological 
 ***
->[!dsn]+ Direct strict note
->Every non-discrete subgroup $G$ of $\mathbb{R}$ is dense.^[Sidney A. Morris - "Topology without tears" p.537]
+>[!dsn]+ Theorem
+>Every non-discrete subgroup $G$ of $\mathbb{R}$ is dense.^[[[Sidney A. Morris - Topology without tears.pdf#page=537|Sidney A. Morris - "Topology without tears" p.537]]]
 
 >[!proof]+
 >We have to show that for each $x\in\mathbb{R}$ and each $\varepsilon>0$, there exists an element $g\in G\cap[x-\varepsilon,x+\varepsilon]$.
@@ -18,6 +23,7 @@
 - [[Discrete group]],
 - [[Topological group]],
 - [[Real line]],
+- [[Dense subset]],
 - [[Interval]],
 - [[Isolated point]],
 - [[Covering of a set]],

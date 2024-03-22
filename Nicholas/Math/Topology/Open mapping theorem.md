@@ -1,15 +1,20 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Open mapping theorem
 ***
 ###### tags: #Topology #Group_theory/Topological 
 ***
 #### For Banach spaces
->[!dsn]+ Direct strict note
->Let $(B,\|\cdot\|)$ and $(B_{1},\|\cdot\|_{1})$ be Banach spaces and $L:B\to B_{1}$ a continuous linear (in the vector space sense) mapping of $B$ *onto* $B_{1}$. Then $L$ is an open mapping.^[Sidney A. Morris - "Topology without tears" p.168]
+>[!dsn]+ Theorem
+>Let $(B,\|\cdot\|)$ and $(B_{1},\|\cdot\|_{1})$ be Banach spaces and $L:B\to B_{1}$ a continuous linear (in the vector space sense) mapping of $B$ *onto* $B_{1}$. Then $L$ is an open mapping.^[[[Sidney A. Morris - Topology without tears.pdf#page=168|Sidney A. Morris - "Topology without tears" p.168]]]
 
 >[!proof]+
 >It suffices to show that there exists an $N\in\mathbb{N}$ such that $L(B_{N}(0))\supset B_{s}(0)$, for some $s>0$.
 >Clearly $B=\bigcup\limits_{n=1}^{\infty}B_{n}(0)$ and as $L$ is surjective we have $B_{1}=L(B)=\bigcup\limits_{n=1}^{\infty}L(B_{n}(0))$. 
->As $B_{1}$ is a Banach space, by [[At least one element from countable partition of complete metric space has a non empty interior]] of the [[Baire Category theorem]], there is an $N\in\mathbb{N}$, such that $\overline{L(B_{N}(0))}$ has non-empty interior.
+>As $B_{1}$ is a Banach space and [[at least one element from countable partition of complete metric space has a non empty interior]] of the [[Baire Category theorem]], there is an $N\in\mathbb{N}$, such that $\overline{L(B_{N}(0))}$ has non-empty interior.
 >So there is a $z\in B_{1}$ and $t>0$, such that $B_{t}(z)\subseteq\overline{L(B_{N}(0))}$.
 >There is no loss of generality in assuming that $z\in L(B_{N}(0))$.
 >But $B_{t}(z)=B_{t}(0)+z$, and so
@@ -31,8 +36,8 @@
 >
 
 #### For locally compact groups
->[!dsn]+
->Let $G$ be a locally compact group which is $\sigma$-compact; that is, $G=\bigcup\limits_{n=1}^{\infty}A_{n}$, where each $A_{n}$ is compact. Let $f$ be any continuous homomorphism of $G$ onto a locally compact Hausdorff group $H$. Then $f$ is an open mapping.^[Sidney A. Morris - "Topology without tears" p.535]
+>[!dsn]+ Theorem
+>Let $G$ be a locally compact group which is $\sigma$-compact; that is, $G=\bigcup\limits_{n=1}^{\infty}A_{n}$, where each $A_{n}$ is compact. Let $f$ be any continuous homomorphism of $G$ onto a locally compact Hausdorff group $H$. Then $f$ is an open mapping.^[[[Sidney A. Morris - Topology without tears.pdf#page=535|Sidney A. Morris - "Topology without tears" p.535]]]
 
 >[!proof]+
 >Let $\mathcal{U}$ be the family of all symmetric neighbourhoods of $e$ in $G$ and $\mathcal{U}'$ the family of all neighbourhoods of $e$ in $H$. It suffices to show that for every $U\in\mathcal{U}$ there is a $U'\in\mathcal{U}'$ such that $U'\subseteq f(U)$.
@@ -54,11 +59,10 @@
 - [[Linear map]],
 - [[Vector space]],
 - [[Open and closed mappings]],
-- [[Function(mapping)]],
-- [[Closure of a set]],
 - [[Open ball in metric space]],
-- [[Interior, Exterior and boundary of a set in topological space]],
+- [[Closure of a set]],
 - [[Mathematical induction]],
+- [[Sequence]],
 - [[Convergence]],
 - [[Locally compact space]],
 - [[Topological group]],
@@ -67,7 +71,10 @@
 - [[Homomorphism]],
 - [[Hausdorff space]],
 - [[Symmetric neighborhoods in topological groups]],
-- [[Cardinality of a set]]
+- [[Neighborhood in topological space]],
+- [[Cardinality of a set]],
+- [[Covering of a set]],
+- [[Interior, Exterior and boundary of a set in topological space]]
 #### Possibly related
 - 
 ***

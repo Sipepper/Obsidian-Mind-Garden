@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-16
+Complete: false
+aliases:
+---
 # Crystallographic group acts discretely on real plane
 ***
 ###### tags: #Geometry 
 ***
->[!dsn]+ Direct strict note
->Let $G$ be a crystallographic group and $E$ is a real(euclidean) plane. Then $G$ acts discretely on $E$.^[Marcel Berger - "Geometry 1" p.15]
+>[!dsn]+ Proposition
+>Let $G$ be a crystallographic group and $E$ is a real(euclidean) plane. Then $G$ acts discretely on $E$.^[[[Marcel Berger - Geometry 1.pdf#page=33 |Marcel Berger - "Geometry 1" p.15]]]
 
 >This means that, for any $a\in E$, the orbit $G(a)$ is discrete in $E$, that is it consists solely of isolated points. In particular, the intersection of any orbit with a compact set is finite, since a discrete compact set is finite.
 

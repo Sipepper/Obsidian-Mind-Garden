@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-17
+Complete: false
+aliases:
+---
 # Box product of groups
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $G_{\alpha}$, bo some family of groups with indexing set $I$ of arbitrary cardinality. Then the group $G$ called the *box product* of groups denoted as
 >$$G=\overline{\prod_{\alpha\in I}} G_{\alpha}$$
 >defined as the set of functions
@@ -13,12 +18,13 @@
 
 >The value of function $f$ in $\alpha$ is said to be a *projection* of $f$.
 
->[!example] 
+>[!example]+ 
 >
 ***
 #### Keywords
 - [[Cardinality of a set]],
 - [[Group]],
+- [[Set]],
 - [[Function(mapping)]],
 - [[Law of composition]],
 - [[Cartesian product of sets]],

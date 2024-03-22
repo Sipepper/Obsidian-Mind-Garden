@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-19
+Complete: true
+aliases:
+---
 # Group order
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $G$ be a group, then the cardinality $|G|$ is said to be the *order* of group $G$.
 
 >[!example]+ 
@@ -10,10 +15,9 @@
 >- $D_{n}$, the dihedral group, has an order of $2n$.
 ***
 #### Keywords
-- [[Symmetric group]],
+- [[Group]],
 - [[Cardinality of a set]],
 - [[Dihedral group]],
-- [[Group]],
 - [[Set of integers]]
 #### Possibly related
 - 

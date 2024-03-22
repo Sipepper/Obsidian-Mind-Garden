@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Urysohn metrization theorem
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->Every regular second countable Hausdorff space is metrizable.^[Sidney A. Morris - "Topology Without tears" p.284]
+>[!dsn]+ Theorem
+>Every regular second countable Hausdorff space is metrizable.^[[[Sidney A. Morris - Topology without tears.pdf#page=284|Sidney A. Morris - "Topology without tears" p.284]]]
 
 >[!proof]+
 >Let $(X,\tau)$ be a regular and Hausdorff space, that is $T_{3}$ space. Also $(X,\tau)$ satisfies the second axiom of countability.

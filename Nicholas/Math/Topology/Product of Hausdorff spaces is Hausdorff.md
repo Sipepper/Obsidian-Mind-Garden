@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Product of Hausdorff spaces is Hausdorff
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $(X,\tau_{1})$ and $(Y,\tau_{2})$ be a Hausdorff spaces. Then $(X\times Y,\tau)$ is a Hausdorff space.
 
 >[!proof]+

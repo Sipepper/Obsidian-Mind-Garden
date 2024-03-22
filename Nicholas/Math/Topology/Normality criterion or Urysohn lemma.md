@@ -1,6 +1,11 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Normality criterion or Urysohn lemma
->[!dsn]+ Direct strict note
->Let $(X,\tau)$ be a topological space. Then $(X,\tau)$ is normal if and only if for each pair of disjoint closed sets $A$ and $B$ in $(X,\tau)$ there exists a continuous function $f:(X,\tau)\to[0,1]$ such that $f(a)=0$ for all $a\in A$, and $f(b)=1$ for all $b\in B$.^[Sidney A. Morris - "Topology without tears" p.278]
+>[!dsn]+ Proposition
+>Let $(X,\tau)$ be a topological space. Then $(X,\tau)$ is normal if and only if for each pair of disjoint closed sets $A$ and $B$ in $(X,\tau)$ there exists a continuous function $f:(X,\tau)\to[0,1]$ such that $f(a)=0$ for all $a\in A$, and $f(b)=1$ for all $b\in B$.^[[[Sidney A. Morris - Topology without tears.pdf#page=278|Sidney A. Morris - "Topology without tears" p.278]]]
 
 >[!proof]+
 >Assume that for each $A$ and $B$ an $f$ with the property stated above exists. Then $U=f^{-1}\left([0,\frac{1}{2}) \right)$ and $V=f^{-1}\left((\frac{1}{2},1] \right)$ are open in $(X,\tau)$ and satisfy $A\subseteq U$, $B\subseteq V$, and $A\cap B=\emptyset$. Hence $(X,\tau)$ is normal.

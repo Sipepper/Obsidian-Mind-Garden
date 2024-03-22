@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-03-10
+Complete: false
+aliases:
+---
 # Normed space
 ***
 ###### tags: #Fundamental_math_objects #Topology #Algebra/Linear 

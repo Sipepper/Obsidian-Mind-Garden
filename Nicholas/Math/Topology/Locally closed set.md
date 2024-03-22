@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-10
+Complete: false
+aliases:
+---
 # Locally closed set
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->A subset $Y$ of a topological space $X$ is said to be *locally closed* if for every point $y\in Y$ there exists a open neighbourhood $V\subset X$ such that $Y\cap V$ is closed in $V$.^[Alain M. Robert - "A course in p-adic analysis" p.20]
+>[!dsn]+ Definition
+>A subset $Y$ of a topological space $X$ is said to be *locally closed* if for every point $y\in Y$ there exists a open neighbourhood $V\subset X$ such that $Y\cap V$ is closed in $V$.^[[[Alain M. Robert - A course in p-adic analysis.pdf#page=36 |Alain M. Robert - "A course in p-adic analysis" p.20]]]
 
 >It is equivalent to say that $Y$ is locally closed if and only if $Y$ is open in it's closure $\overline{Y}$.
 >>[!proof]+

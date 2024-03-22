@@ -1,12 +1,17 @@
+---
+Last time checked: 2024-03-13
+Complete: true
+aliases:
+---
 # Critical point of a function
 ***
 ###### tags: #Analysis 
 ***
 #### Of one variable
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Consider a real function $y=f(x)$. A point $x_{0}$ which satisfies
 >$$f'(x_{0})=0$$
->is called a *critical point* of the function $f$.^[Yukio Matsumoto - "An introduction to Morse theory" p.2]
+>is called a *critical point* of the function $f$.^[[[Yukio Matsumoto - An introduction to Morse theory.pdf#page=16|Yukio Matsumoto - "An introduction to Morse theory" p.2]]]
 
 >The critical point $x_{0}$ is said to be *non-degenerate* if $f''(x_{0})\ne0$, and *degenerate* if $f''(x_{0})=0$.
 
@@ -30,7 +35,7 @@
 >For $n\ge3$, the critical point $x=0$ of the degree $n$ function $y=x^{n}$ is degenerate. In fact, the second derivative $y''=n(n-1)x^{n-2}$ of $y=x^{n}$ is zero at $x=0$.
 
 #### Of two variables
->[!dsn]+
+>[!dsn]+ Definition
 >Let $f:\mathbb{R}^{2}\to\mathbb{R}$ be a real function of two variables. Point $p_{0}=(x_{0},y_{0})$ in the $xy$-plane is a *critical point* of a function $z=f(x,y)$ if the following conditions hold:
 >$$\frac{\partial f}{\partial x}(p_{0})=0,\quad\frac{\partial f}{\partial y}(p_{0})=0$$
 
@@ -53,10 +58,10 @@
 >With all non-zero determinants, thus $(0,0)$ is a non-degenerate critical point. 
 ***
 #### On surface
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $f:M\to\mathbb{R}$ be a smooth function on a surface. We say that a point $p_{0}$ of a surface $M$ is a *critical point* of a function $f:M\to\mathbb{R}$ if 
 >$$\frac{\partial f}{\partial x}(p_{0})=0,\quad \frac{\partial f}{\partial y}(p_{0})=0$$
->with respect to local coordinates in some neighborhood of $p_{0}$.^[Yukio Matsumoto - "An introduction to Morse theory" p.16]
+>with respect to local coordinates in some neighborhood of $p_{0}$.^[[[Yukio Matsumoto - An introduction to Morse theory.pdf#page=30|Yukio Matsumoto - "An introduction to Morse theory" p.16]]]
 
 #### Keywords
 - [[Function(mapping)]],

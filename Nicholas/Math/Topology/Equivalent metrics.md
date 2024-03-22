@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-03-13
+Complete: true
+aliases:
+---
 # Equivalent metrics
 ***
 ###### tags: #Topology  
@@ -8,12 +13,14 @@
 >If 
 >$$\forall \varepsilon_{1}>0 \quad d_{1}(x,y)<\varepsilon_{1}\quad\Rightarrow\quad \exists\delta_{1}\quad d_{2}(x,y)<\delta_{1}$$ 
 >and 
->$$\forall \varepsilon_{1}>0 \quad d_{2}(x,y)<\varepsilon_{2}\quad\Rightarrow\quad \exists\delta_{2}\quad d_{1}(x,y)<\delta_{2}$$ then this two metrics are equivalent.
+>$$\forall \varepsilon_{1}>0 \quad d_{2}(x,y)<\varepsilon_{2}\quad\Rightarrow\quad \exists\delta_{2}\quad d_{1}(x,y)<\delta_{2}$$ 
+>then this two metrics are equivalent.
+>>[!proof]+
+>>
 
 >In other words, different balls from metrics can be put in each other, only by changing the radius.
 
->[!example] 
->
+>[!example]+
 >In $\mathbb{R}^{2}$ with euclidean metric, $B_{r}(a)$ is the open disc with centre $a$ and radius $r$.
 >
 >In $\mathbb{R}^{2}$ with the metric $d^{*}$ given by
@@ -23,9 +30,8 @@
 ***
 #### Keywords
 - [[Metric space]],
-- [[Open ball in metric space]],
-- [[Topological space]],
 - [[Topology induced by a metric]],
+- [[Open ball in metric space]],
 - [[Euclidean space]],
 - [[Absolute value]]
 #### Possibly related

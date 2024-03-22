@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-02-29
+Complete: false
+aliases:
+---
 # Euclidean topology
 ***
 ###### tags: #Topology 

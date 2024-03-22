@@ -1,12 +1,17 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Relative compactness by subsequences
 ***
 ###### tags: #Topology 
 ***
->[!dsn] Direct strict note
->Let $(U,d)$ be a metric space. Then $A\subset U$ is a relatively compact if and only if from which sequence in $A$ we can extract converging subsequence.^[Fabio Silva Botelho - "Functional analysis and Applied Optimization in Banach Spaces" p.18]
+>[!dsn]+ Proposition
+>Let $(U,d)$ be a metric space. Then $A\subset U$ is a relatively compact if and only if from every sequence in $A$ we can extract converging subsequence.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=36|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.18]]]
 
 >[!proof]
->Suppose that $A$ is relatively compact. Then it's closure $\overline{A}$ is compact, and sequentially compact by [[Equivalence of compactness and sequentially compactness in metric spaces]].
+>Suppose that $A$ is relatively compact. Then it's closure $\overline{A}$ is compact, and sequentially compact by [[equivalence of compactness and sequentially compactness in metric spaces]].
 >
 >Then from every sequence in $\overline{A}$ we can extract a converging subsequence. In particular for any sequence from $A\subset\overline{A}$, we can extract some subsequence converging to some element in $\overline{A}$.
 >
@@ -16,12 +21,15 @@
 >$$u_{n_{k}}\to u_{0},\quad k\to\infty$$
 >And thus $\overline{A}$ is a sequentially compact, and therefore compact.
 
+>[!example]+
+>
+
 ***
 #### Keywords
 - [[Metric space]],
-- [[Relatively compact set]],
 - [[Sequence]],
 - [[Convergence]],
+- [[Relatively compact set]],
 - [[Closure of a set]],
 - [[Compact subsets of a metric space]],
 - [[Sequentially compact set]],

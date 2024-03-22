@@ -1,10 +1,15 @@
+---
+Last time checked: 2024-03-01
+Complete: true
+aliases:
+---
 # T1 space
 ***
 ###### tags: #Topology 
 ***
 #### Definition by closed points
->[!dsn]+ Direct strict note
->Topological space $(X,\tau)$ is said to be a $T_{1}$*-space* if every singleton set $\set{x}$, $x\in X$, is a closed set in $\tau$.^[Sidney A. Morris - "Topology without tears" p.239]
+>[!dsn]+ Definition
+>Topological space $(X,\tau)$ is said to be a $T_{1}$*-space* if every singleton set $\set{x}$, $x\in X$, is a closed set in $\tau$.^[[[Sidney A. Morris - Topology without tears.pdf#page=239|Sidney A. Morris - "Topology without tears" p.239]]]
 
 >[!example]+ 
 >Let $X=\{a,b,c\}$ with topology $\tau=\{\emptyset,X,\{a\},\{b\},\{a,b\}\}$. Then $(X,\tau)$ is not a $T_{1}$ space because for $a,b\in X$, we have open sets $\{a\}$ and $X$ such that $a\in a$ and $c\notin\{a\}$. This shows that we cannot find an open set which contains $c$ but not $a$, so $(X,\tau)$ is not a $T_{1}$ space.
@@ -12,8 +17,8 @@
 >Furthermore $(X,\tau)$ is not even $T_{0}$ space.
 
 #### Definition by neighborhoods
->[!dsn]+ Direct strict note
->Topological space $(X,\tau)$ is said to be a $T_{1}$*-space* if for any two points $x\ne y$ there exists an open neighborhood of $x$ which don't contain $y$ and vice versa.^[Glen E. Bredon - "Topology and geometry" p.13]
+>[!dsn]+ Definition
+>Topological space $(X,\tau)$ is said to be a $T_{1}$*-space* if for any two points $x\ne y$ there exists an open neighborhood of $x$ which don't contain $y$ and vice versa.^[[[Glen E. Bredon - Geometry and Topology.pdf#page=26|Glen E. Bredon - "Geometry and Topology" p.13]]]
 
 >[!example]+ 
 >The real line $\mathbb{R}$ with usual topology is a $T_{1}$ space.
@@ -36,7 +41,7 @@
 - [[Real line]],
 - [[Euclidean topology]],
 - [[Neighborhood in topological space]],
-- [[Interval]]
+- [[Interval]],
 #### Possibly related
 - 
 ***

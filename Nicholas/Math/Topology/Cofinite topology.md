@@ -1,7 +1,8 @@
 ---
-Last time checked: 2023-12-12
+Last time checked: 2024-03-03
 Complete: true
 aliases:
+- Finite-closed topology
 ---
 # Cofinite topology
 ***

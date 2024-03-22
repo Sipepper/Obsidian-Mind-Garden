@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Every subset of Euclidean space is second countable and Hausdorff
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->Every subset of some $\mathbb{R}^{n}$ is second countable and Hausdorff.^[Stefan Friedl - "Algebraic Topology" p.262]
+>[!dsn]+ Proposition
+>Every subset of some $\mathbb{R}^{n}$ is second countable and Hausdorff.^[[[Stefan Friedl - Algebraic topology.pdf#page=262|Stefan Friedl - "Algebraic topology" p.262]]]
 
 >[!proof]+
 >As $\mathbb{R}$ is second countable, if we choose

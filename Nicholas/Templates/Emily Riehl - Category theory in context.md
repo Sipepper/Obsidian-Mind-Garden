@@ -1,0 +1,1 @@
+^[[[Emily Riehl - Category theory in context.pdf#page=+18|Emily Riehl - "Category theory in context" p.]]]

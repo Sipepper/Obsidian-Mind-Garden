@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # n-dimensional chart
 ***
 ###### tags: #Topology/Differential 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $(X,\tau)$ be a topological space. An *n-dimensional chart* for $X$ at a point $x\in X$ is a homeomorphism $\Phi:U\to V$ where $U$ is an open neighborhood of $x$ and
 >1. $V$ is an open subset of $\mathbb{R}^{n}$ or
 >2. $V$ is an open subset of the upper half-space $H_{n}$ and $\Phi(x)$ lies in $\partial H_{n}$.

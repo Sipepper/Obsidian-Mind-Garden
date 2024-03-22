@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-10
+Complete: false
+aliases:
+---
 # Interior of a first category subset of a Baire space is empty
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->If $Y$ is a first category subset of a Baire space $(X,\tau)$, then the interior of $Y$ is empty.^[Sidney A. Morris - "Topology without tears" p.167]
+>[!dsn]+ Proposition
+>If $Y$ is a first category subset of a Baire space $(X,\tau)$, then the interior of $Y$ is empty.^[[[Sidney A. Morris - Topology without tears.pdf#page=167|Sidney A. Morris - "Topology without tears" p.167]]]
 
 >[!proof]+
 >As $Y$ is first category, $Y=\bigcup\limits_{n=1}^{\infty}Y_{n}$, where each $Y_{n}$, $n\in\mathbb{N}$, is nowhere dense.

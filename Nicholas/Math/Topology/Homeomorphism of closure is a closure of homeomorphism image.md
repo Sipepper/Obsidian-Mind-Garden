@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: true
+aliases:
+---
 # Homeomorphism of closure is a closure of homeomorphism image
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $X$ and $Y$ be topological spaces, let $f:X\to Y$ be a homeomorphism, and let $A\subseteq X$. Then $f(\overline{A})=\overline{f(A)}$.^[http://mathonline.wikidot.com/the-closure-of-a-set-under-homeomorphisms-on-topological-spa]
 
 

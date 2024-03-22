@@ -1,13 +1,18 @@
+---
+Last time checked: 2024-02-29
+Complete: true
+aliases:
+---
 # Group of invertible elements in a ring of p-adic integers
 ***
 ###### tags: #p-adic #Algebra 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Proposition
 >The group $\mathbb{Z}_{p}^{\times}$ of invertible elements in the ring $\mathbb{Z}_{p}$ consists of the $p$-adic integers of order zero, namely
 >$$\mathbb{Z}_{p}^{\times}=\left\{\sum\limits_{i\ge0}a_{i}p^{i}:a_{0}\ne0\right\}$$
->.^[Alain M. Robert - "A course in p-adic analysis"]
+>.^[[[Alain M. Robert - A course in p-adic analysis.pdf#page=21 |Alain M. Robert - "A course in p-adic analysis" p.5]]]
 
->[!proof]
+>[!proof]+
 >If a $p$-adic integer $a$ is invertible, so must be its reduction $\varepsilon(a)$ in $\mathbb{F}_{p}$. This proves the inclusion $\mathbb{Z}_{p}^{\times}\subset\left\{\sum_{i\ge0}a_{i}p^{i}:a_{0}\ne0\right\}$. Conversely, we have to show that any $p$-adic integer $a$ of order $v(a)=0$ is invertible in this field. Choose $0<b_{0}<p$ with $a_{0}b_{0}\equiv1\mod{p}$ and write $a_{0}b_{0}=1+kp$. Hence, if we write $a=a_{0}+p\alpha$, then
 >$$a\cdot b_{0}=1+kp+p\alpha b_{0}=1+p\kappa$$
 >for some $p$-adic integer $\kappa$. It suffices to show that the $p$-adic integer $1+\kappa p$ is invertible, since we can then write
@@ -22,7 +27,9 @@
 - [[Ring of p-adic integers]],
 - [[p-adic order]],
 - [[Reduction modulo p]],
+- [[Unit in a ring]],
 - [[Finite field]],
+- [[Congruent integers]]
 #### Possibly related
 - 
 ***

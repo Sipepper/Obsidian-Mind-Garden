@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-26
+Complete: false
+aliases:
+---
 # Semidirect product of groups
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $G$ be a group and let $H\le G$ and $N\trianglelefteq G$. We say that $G$ is a *semidirect product* of $H$ and $N$ if $G=NH$ and $H\cap N=\{e\}$.^[Serge Lang - "Algebra" p.76]
 >
 >https://bbb.imath.kiev.ua/playback/presentation/2.3/3905d4fd1c79ccd8c03ec4bf1b6c9457e23c977b-1666965099023

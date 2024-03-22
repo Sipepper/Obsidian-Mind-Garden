@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-03
+Complete: false
+aliases:
+---
 # Closed subset of compact space is compact
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->Every closed subset of a compact space is compact.^[Sidney A. Morris - "Topology without tears" p.181]
+>[!dsn]+ Proposition
+>Every closed subset of a compact space is compact.^[[[Sidney A. Morris - Topology without tears.pdf#page=181|Sidney A. Morris - "Topology without tears" p.181]]]
 
 >[!proof]+
 >Let $A$ be a closed subset of a compact space $(X,\tau)$. Let $U_{i}\in\tau$, $i\in I$, be any open covering of $A$. Then

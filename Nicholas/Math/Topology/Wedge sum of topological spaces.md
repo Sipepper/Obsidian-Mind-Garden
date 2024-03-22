@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: true
+aliases:
+---
 # Wedge sum of topological spaces
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $\{(X_{i},p_{i})\}$ be a family of pointed topological spaces. The quotient space $\left(\bigsqcup_{i\in I}(X_{i},p_{i})\right)\Big/\sim$ ,with $\sim$ identifying all points $p_{i}$, denoted as $\bigvee (X_{i},p_{i})$ is called the *wedge sum*.^[https://en.wikipedia.org/wiki/Wedge_sum]
 
 >[!example]+ 
@@ -12,7 +17,8 @@
 #### Keywords
 - [[Pointed topological space]],
 - [[Quotient topology]],
-- [[Set]]
+- [[Set]],
+- [[Sphere]],
 #### Possibly related
 - 
 ***

@@ -1,17 +1,22 @@
+---
+Last time checked: 2024-02-29
+Complete: false
+aliases:
+---
 # Frechet space
 ***
 ###### tags: #Topology  
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >*Frechet space* is a completely metrizable locally convex topological vector space.
 
->[!example] 
+>[!example]+
 >
 ***
 #### Keywords
-- [[Topological vector space]],
+- [[Completely metrizable space]],
 - [[Locally convex topological vector space]],
-- [[Completely metrizable space]]
+- [[Topological vector space]],
 #### Possibly related
 - 
 ***

@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Local homeomorphism
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >A function $f:X\to Y$ between two topological spaces is called a *local homeomorphism* if for every point $x\in X$ there exists an open set $U$ containing $x$, such that the image $f(U)$ is open in $Y$ and the restriction $f|_{U}:U\to f(U)$ is a homeomorphism, with respective subspace topologies on $U$ and $f(U)$.^[https://en.wikipedia.org/wiki/Local_homeomorphism]
 
 >Local homeomorphism is an open map.

@@ -1,5 +1,5 @@
 ---
-Last time checked: 2024-01-20
+Last time checked: 2024-03-08
 Complete: true
 aliases:
 ---
@@ -8,7 +8,9 @@ aliases:
 ###### tags: #Algebra #Group_Theory 
 ***
 >[!dsn]+ Definition
-> Let $S$ be a set and $G$ is a group. Mapping $G\times S\to S$, denoted as $xs$ as image of pair $(x,s)$, such that $\forall x,y\in G$ and $s\in S$ following properties holds $$(xy)s=x(ys)\quad\text{and}\quad es=s$$ is called a *left group action*.^[С. Ленг Алгебра с.32-33]
+>Let $S$ be a set and $G$ is a group. Mapping $G\times S\to S$, denoted as $xs$ as image of pair $(x,s)$, such that $\forall x,y\in G$ and $s\in S$ following properties holds $$(xy)s=x(ys)\quad\text{and}\quad es=s$$ is called a *left group action*.^[С. Ленг Алгебра с.32-33]
+
+>Analogously we can define the *right group action* as a mapping from $S\times G\to S$. Right and left action are often different, as for two element $g,h\in G$ the left action $(gh)x$ can differ from the right action $x(hg)$.
 
 >When group $G$ acting on a set $S$, the set $S$ is often called a *$G$-set*. 
 
@@ -20,9 +22,15 @@ aliases:
 >acts on $X$.
 
 >[!example]+
->Let $X=G$ be a group. Then $G$ acts on itself in several important ways:
+>Let $X$ be a set of vertices of octahedron and $G$ be the [[Octahedral group]], then $G$ acts on $X$ by symmetries.^[[Richard E. Borcherds - "Group theory 2"](https://youtu.be/AZUDhtnz-Do?si=7HcnXf0M8H0_qXuU)]
+
+>[!example]+
+>Let $S=G$ be a group. Then $G$ acts on itself in several important ways:
 >- $\phi(g)(h)=gh$ *left translations*
->- $\phi(g)(h)=hg$ *right translations*
+>- $\phi(g)(h)=hg^{-1}$ *right translations*
+>  >If we consider $\phi(g)(h)=hg$ action, it will *not* be an action as
+>  >$$sgh=\phi(gh)(s)=\phi(g)(gh)=shg$$
+>  >which is not true if $gh\ne hg$ 
 >- $\phi(g)(h)=ghg^{-1}$ *inner automorphisms* (*conjugation*)
 ***
 #### Keywords

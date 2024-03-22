@@ -1,10 +1,15 @@
+---
+Last time checked: 2024-03-13
+Complete: true
+aliases:
+---
 # Homeomorphism between real line an open interval
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ 
+>[!dsn]+ Proposition
 >The space $\mathbb{R}$ with usual topology is homeomorphic to an open interval $(-1,1)$ with subspace topology, by using function $f:(-1,1)\to\mathbb{R}$ defined as
->$$f(x)=\frac{x}{1-|x|}$$.^[Sidney A. Morris - "Topology without tears" p.99]
+>$$f(x)=\frac{x}{1-|x|}$$.^[[[Sidney A. Morris - Topology without tears.pdf#page=99|Sidney A. Morris - "Topology without tears" p.99]]]]
 
 >[!proof]+
 >Consider a function

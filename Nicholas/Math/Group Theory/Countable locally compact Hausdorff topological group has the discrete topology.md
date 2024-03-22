@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-27
+Complete: false
+aliases:
+---
 # Countable locally compact Hausdorff topological group has the discrete topology
 ***
 ###### tags: #Group_theory/Topological 
 ***
->[!dsn]+ Direct strict note
->Let $G$ be any countable locally compact Hausdorff topological group. Then $G$ has the discrete topology.^[Sidney A. Morris - "Topology without tears" p. 534]
+>[!dsn]+ Proposition
+>Let $G$ be any countable locally compact Hausdorff topological group. Then $G$ has the discrete topology.^[[[Sidney A. Morris - Topology without tears.pdf#page=534|Sidney A. Morris - "Topology without tears" p.534]]]
 
 >[!proof]+
 >[[Souslin space]]
@@ -35,7 +40,11 @@
 >
 ***
 #### Keywords
-- 
+- [[Cardinality of a set]],
+- [[Locally compact space]],
+- [[Hausdorff space]],
+- [[Topological group]],
+- [[Discrete topology]]
 #### Possibly related
 - 
 ***

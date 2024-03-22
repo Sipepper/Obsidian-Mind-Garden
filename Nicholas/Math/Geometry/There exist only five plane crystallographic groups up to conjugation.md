@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-16
+Complete: true
+aliases:
+---
 # There exist only five plane crystallographic groups up to conjugation
 ***
 ###### tags: #Geometry 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $E$ be the Euclidean plane. Up to conjugation in the $GL(\mathbb{R}^{2})$, there exist only *five* crystallographic groups $G$, corresponding to figures 1.7.4.1 through 1.7.4.5.
 >![[Pasted image 20230723155203.png]]
 >These pictures depicts [[Fundamental tilings]].
@@ -27,15 +32,16 @@
 >|case III|2|3|6|
 >
 >We easily deduce 1.7.4, by showing that cases I, II and III correspond to the groups associated with figures 1.7.4.3, 1.7.4.4 and 1.7.4.5, respectively.
-
-
-
-
->[!example]+ 
->
 ***
 #### Keywords
-- [[Linear groups]]
+- [[Euclidean space]],
+- [[Linear groups]],
+- [[Axioms for tilings and crystallographic group]],
+- [[Vector space]],
+- [[Homomorphism]],
+- [[Isometry]],
+- [[Cardinality of a set]],
+- [[Set of integers]],
 #### Possibly related
 - 
 ***

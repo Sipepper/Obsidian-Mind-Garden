@@ -1,12 +1,17 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Baire Category theorem
 ***
 ###### tags: #Topology 
 ***
 #### For metric spaces
->[!dsn]+ Direct strict note
->Let $(X,d)$ be a complete metric space. If $X_{1},X_{2},\dots,X_{n},\dots$ is a sequence of open dense subsets of $X$, then the set $\bigcap_{n=1}^{\infty}X_{n}$ is also dense in $X$.^[Sidney A. Morris - "Topology without tears" p.164]
+>[!dsn]+ Theorem
+>Let $(X,d)$ be a complete metric space. If $X_{1},X_{2},\dots,X_{n},\dots$ is a sequence of open dense subsets of $X$, then the set $\bigcap_{n=1}^{\infty}X_{n}$ is also dense in $X$.^[[[Sidney A. Morris - Topology without tears.pdf#page=164|Sidney A. Morris - "Topology without tears" p.164]]]
 
->In other words, by [[At least one element from countable partition of complete metric space has a non empty interior]] follows that we can restate the theorem as: *Complete metric space is never can be a countable union of nowhere dense subsets*.^[Fabio Silva Botelho - "Functional analysis and applied optimisation in banach spaces" p.25]
+>In other words, as [[at least one element from countable partition of complete metric space has a non empty interior]] follows that we can restate the theorem as: *Complete metric space is never can be a countable union of nowhere dense subsets*.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page= 43|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.25]]]
 
 >[!proof]+
 >It suffices to show that if $U$ is any non-empty open subset of $(X,d)$, then $U\cap\bigcap_{n=1}^{\infty}\ne\emptyset$.
@@ -21,12 +26,15 @@
 >
 
 #### For locally compact spaces
->[!dsn]+
->If $X$ is a locally compact regular space, then $X$ is not the union of a countable collection of closed sets all having empty interior.^[Sidney A. Morris - "Topology without tears" p.534]
+>[!dsn]+ Theorem
+>If $X$ is a locally compact regular space, then $X$ is not the union of a countable collection of closed sets all having empty interior.^[[[Sidney A. Morris - Topology without tears.pdf#page=534|Sidney A. Morris - "Topology without tears" p.534]]]
 
 >[!proof]+
 >Suppose that $X=\bigcup\limits_{n=1}^{\infty}A_{n}$, where each $A_{n}$ is closed and $\text{Int}(A_{n})=\emptyset$, for each $n$. Put $D_{n}=X\setminus A_{n}$. Then each $D_{n}$ is open and dense in $X$. We shall show that $\bigcap\limits_{n=1}^{\infty}D_{n}\ne\emptyset$, contradicting the equality $X=\bigcup\limits_{n=1}^{\infty}A_{n}$.
 >Let $U_{0}$ be a non-empty open subset of $X$ such that $\overline{U_{0}}$ is compact. As $D_{1}$ is dense in $X$, $U_{0}\cap D_{1}$ is a non-empty open subset of $X$. Using the regularity of $X$ we can choose a non-empty open set $U_{1}$ such taht $\overline{U_{1}}\subseteq U_{0}\cap D_{1}$. Inductively define $U_{n}$ so that each $U_{n}$ is a non-empty open set and $\overline{U_{n}}\subseteq U_{n-1}\cap D_{n}$. Since $\overline{U_{0}}$ is compact and each $\overline{U_{n}}$ is non-empty, $\bigcap\limits_{n=1}^{\infty}\overline{U_{n}}\ne\emptyset$. This implies $\bigcap\limits_{n=1}^{\infty}D_{n}\ne\emptyset$. This contradiction the supposition is false and so the theorem is proved.
+
+>[!example]+
+>
 ***
 #### Keywords
 - [[Complete metric space]],

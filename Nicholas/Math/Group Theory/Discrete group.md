@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-27
+Complete: true
+aliases:
+---
 # Discrete group
 ***
 ###### tags: #Group_theory/Topological 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $G$ be a topological group, if $G$ has the discrete topology it's said to be *discrete group*.^[https://en.wikipedia.org/wiki/Discrete_group]
 
 >That is, $G$ is discrete if there is no limit points in it. And equivalently $G$ is discrete if and only if its identity is isolated.

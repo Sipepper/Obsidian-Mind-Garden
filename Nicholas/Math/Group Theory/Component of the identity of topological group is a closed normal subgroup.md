@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-25
+Complete: false
+aliases:
+---
 # Component of the identity of topological group is a closed normal subgroup
 ***
 ###### tags: #Group_theory/Topological 
 ***
->[!dsn]+ Direct strict note
->The component of the identity (that is, the largest connected subset containing $e$) of a topological group is a closed normal subgroup.^[Sidney A. Morris - "Topology without tears" p.523]
+>[!dsn]+ Proposition
+>The component of the identity (that is, the largest connected subset containing $e$) of a topological group is a closed normal subgroup.^[[[Sidney A. Morris - Topology without tears.pdf#page=523|Sidney A. Morris - "Topology without tears" p.523]]]
 
 >[!proof]+
 >Let $C$ be the component of the identity in a topological group $G$. As in any topological space components are closed sets, $C$ is closed.
@@ -16,11 +21,11 @@
 ***
 #### Keywords
 - [[Component of topological space]],
-- [[Topological group translations are homeomorphisms]],
 - [[Connected topological space]],
 - [[Topological group]],
 - [[Open and closed subsets]],
 - [[Normal subgroup]],
+- [[Topological group translations are homeomorphisms]],
 - [[Homeomorphism]],
 - [[Group#Subgroup]]
 #### Possibly related

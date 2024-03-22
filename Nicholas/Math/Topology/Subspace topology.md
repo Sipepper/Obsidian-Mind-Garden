@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Subspace topology
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $Y$ be a non-empty subset of topological space $(X,\tau)$. Then family $\tau_{Y}=\{O\cap Y:O\in\tau\}$ of subsets of $Y$ is a topology on $Y$ which is called *subspace topology*( or *induced topology* or *topology induced by $\tau$ on $Y$*).
 >
->Topological space $(Y,\tau_{Y})$ is said to be a *subspace* of $(X,\tau)$.^[Sidey A. Morris - "Topology without tears" p.91]
+>Topological space $(Y,\tau_{Y})$ is said to be a *subspace* of $(X,\tau)$.^[[[Sidney A. Morris - Topology without tears.pdf#page=91|Sidney A. Morris - "Topology without tears" p.91]]]
 
 >[!proof]+
 >
@@ -47,8 +52,9 @@
 - [[Topological space]],
 - [[Set of integers]],
 - [[Real line]],
-- [[Euclidean topology]],
 - [[Discrete topology]],
+- [[Euclidean topology]],
+- [[Interval]],
 - [[Open and closed subsets]],
 - [[Topology basis]],
 #### Possibly related

@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Homeomorphisms between topological manifolds
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $M$ and $N$ be two topological manifolds.
 >1. If $f\colon M\to N$ is a local homeomorphism, then $f(\partial M)=(\partial N)\cap f(M)$.
->2. If $f\colon M\to N$ is in fact a homeomorphism, then $f$ restricts to a homeomorphism $\partial M\to\partial N$.^[Stefan Friedl - "Algebraic topology" p.265]
+>2. If $f\colon M\to N$ is in fact a homeomorphism, then $f$ restricts to a homeomorphism $\partial M\to\partial N$.^[[[Stefan Friedl - Algebraic topology.pdf#page=265|Stefan Friedl - "Algebraic topology" p.265]]]
 
 >[!proof]+
 >Let $f\colon M\to N$ be a local homeomorphism, that is for every point $x\in M$ there exist an open set $U$ containing $x$ (neighborhood), such that the image $f(U)$ is open in $Y$ and the restriction $f|_{U}\colon U\to f(U)$ is a homeomorphism.

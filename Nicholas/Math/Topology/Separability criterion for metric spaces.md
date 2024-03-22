@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-12
+Complete: false
+aliases:
+---
 # Separability criterion for metric spaces
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->Let $(X,d)$ be a metric space and $\tau$ be topology induced by $d$. Then $(X,\tau)$ is a separable space if and only if it is satisfies the second axiom of countability.^[Sidney A. Morris - "Topology without tears" p.241-242]
+>[!dsn]+ Proposition
+>Let $(X,d)$ be a metric space and $\tau$ be topology induced by $d$. Then $(X,\tau)$ is a separable space if and only if it is satisfies the second axiom of countability.^[[[Sidney A. Morris - Topology without tears.pdf#page=241|Sidney A. Morris - "Topology without tears" p.241-242]]]
 
 >[!proof]+
 >$\Rightarrow$
@@ -20,16 +25,15 @@
 ***
 #### Keywords
 - [[Metric space]],
-- [[Topological space]],
 - [[Topology induced by a metric]],
 - [[Separable space]],
 - [[Second axiom of countability]],
 - [[Cardinality of a set]],
-- [[Open ball in metric space]],
-- [[Set of integers]],
-- [[Topology basis]],
 - [[Dense subset]],
-- [[Set]]
+- [[Set of natural numbers]],
+- [[Open ball in metric space]],
+- [[Topology basis]],
+- [[Set]],
 #### Possibly related
 - 
 ***

@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-03-13
+Complete: true
+aliases:
+---
 # Real line with euclidean metric is a complete metric space
 ***
 ###### tags: #Topology 
 ***
->[!dsn] Direct strict note
->The metric space $\mathbb{R}$ with the euclidean metric is a complete metric space.^[Sidney A. Morris - "Topology without tears" p.152]
+>[!dsn]+ Proposition
+>The metric space $\mathbb{R}$ with the euclidean metric is a complete metric space.^[[[Sidney A. Morris - Topology without tears.pdf#page=152|Sidney A. Morris - "Topology without tears" p.152]]]
 
->[!proof]
+>[!proof]+
 >Let $\{x_{n}\}$ be any Cauchy sequence in $(\mathbb{R},d)$.
 >As $\set{x_{n}}$ is a Cauchy sequence, there exists a positive integer $N$, such that $\forall n\ge N$ and $\forall m\ge N$, $d(x_{n},x_{m})<1$; that is, $|x_{n}-x_{m}|<1$. Put $M=|x_{1}|+|x_{2}|+\dots+|x_{N}|+1$. Then $|x_{n}|<M$, $\forall\in\mathbb{N}$; that is, the sequence $\set{x_{n}}$ is bounded.
 >So by [[Bolzano-Weierstrass Theorem]], this sequence has a convergent subsequence; that is, there is an $a\in\mathbb{R}$ and a subsequence $\set{x_{n_{k}}}$ with $x_{n_{k}}\to a$.
@@ -21,9 +26,11 @@
 #### Keywords
 - [[Metric space]],
 - [[Real line]],
-- [[Euclidean topology]],
+- [[Euclidean space]],
 - [[Complete metric space]],
 - [[Cauchy sequence]],
+- [[Set of integers]],
+- [[Absolute value]],
 - [[Sequence]],
 - [[Bounded set]],
 - [[Convergence]],

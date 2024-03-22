@@ -1,11 +1,16 @@
+---
+Last time checked: 2024-02-27
+Complete: false
+aliases:
+---
 # Discrete subgroup of euclidean space contained in sp_Q of it's generators
 ***
 ###### tags: #Group_theory/Topological 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $G$ be a discrete subgroup of $\mathbb{R}^{n}$ of rank $p$, and $a_{1},\dots,a_{p}\in G$ a basis for $\text{gp}_{\mathbb{R}}(G)$. Let $P$ be the closed parallelotope with centre $0$ and basis vectors $a_{1},\dots,a_{p}$; that is,
 >$$P=\left\{\sum\limits_{i=1}^{p}r_{i}a_{i}:-1\le r_{i}\le1,i=1,\dots,p \right\}$$
->then $G\cap P$ is finite and $\text{gp}(G\cap P)=G$. Further, every point in $G$ is a linear combination of $\{a_{1},\dots,a_{p}\}$ with rational coefficients; that is, $G\subseteq\text{sp}_{\mathbb{Q}}\{a_{1},\dots,a_{p}\}$.^[Sidney A. Morris - "Topology without tears" p.540]
+>then $G\cap P$ is finite and $\text{gp}(G\cap P)=G$. Further, every point in $G$ is a linear combination of $\{a_{1},\dots,a_{p}\}$ with rational coefficients; that is, $G\subseteq\text{sp}_{\mathbb{Q}}\{a_{1},\dots,a_{p}\}$.^[[[Sidney A. Morris - Topology without tears.pdf#page=540|Sidney A. Morris - "Topology without tears" p.540]]]
 
 >[!proof]+
 >As $P$ is compact and $G$ is discrete (and closed in $\mathbb{R}^{n}$), $G\cap P$ is discrete and compact, and hence finite.
@@ -30,8 +35,11 @@
 - [[Open and closed subsets]],
 - [[Basis of vector space]],
 - [[Cardinality of a set]],
-- [[Linear span]]
+- [[Linear span]],
+- [[Rational numbers]],
+- [[Compact set]],
+- [[Set of integers]]
 #### Possibly related
-- 
+- [[Rank]]
 ***
 #### Sources:

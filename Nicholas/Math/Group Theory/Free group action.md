@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-27
+Complete: true
+aliases:
+---
 # Free group action
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn]+ Direct strict note
->Let $X$ be a set and $G$ be a group acting on it. The action is called *free*, if $g\cdot x=x$ for some $x\in X$ implies that $g=e$.^[Stefan Friedl - "Algebraic topology" p.185]
+>[!dsn]+ Definition
+>Let $X$ be a set and $G$ be a group acting on it. The action is called *free*, if $g\cdot x=x$ for some $x\in X$ implies that $g=e$.^[[[Stefan Friedl - Algebraic topology.pdf#page=185|Stefan Friedl - "Algebraic topology" p.185]]]
 
 >[!example]+
 >The group $\mathbb{Z}^{n}$ acts on $\mathbb{R}^{n}$ by addition. This action is free, as only $(0,0,\dots,0)$ "preserve" any element of $\mathbb{R}^{n}$.

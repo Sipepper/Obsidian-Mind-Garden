@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Functions on surfaces
 ***
 ###### tags: #Topology/Differential  
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $M$ be a surface. We call a map
 >$$f:M\to\mathbb{R}$$
 >which assigns a real number to each point $p$ of $M$, a function on $M$.

@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Smooth function
 ***
 ###### tags: #Analysis/Multivariable  #Fundamental_math_objects 

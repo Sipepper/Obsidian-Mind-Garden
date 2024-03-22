@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Continuous bijection between compact and Hausdorff spaces is a homeomorphism
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $f:(X,\tau)\to(Y,\tau_{1})$ be a continuous bijection. If $(X,\tau)$ is compact and $(Y,\tau_{1})$ is Hausdorff, then $f$ is a homeomorhphism.^[https://math.stackexchange.com/questions/3042668/continuous-bijection-between-compact-and-hausdorff-spaces-is-a-homeomorphism]
 
 >[!proof]+

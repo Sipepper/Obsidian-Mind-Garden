@@ -1,12 +1,17 @@
+---
+Last time checked: 2024-02-23
+Complete: false
+aliases:
+---
 # Closure of certain subgroups in topological groups
 ***
 ###### tags: #Group_theory/Topological 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $H$ be a subgroup of a topological group $G$. Then
 >1. the closure $\overline{H}$ of $H$ is a subgroup of $G$.
 >2. if $H$ is a normal subgroup of $G$, then $\overline{H}$ is a normal subgroup of $G$.
->3. if $G$ is Hausdorff and $H$ is abelian, then $\overline{H}$ is abelian.^[Sidney A. Morris - "Topology without tears" p.520]
+>3. if $G$ is Hausdorff and $H$ is abelian, then $\overline{H}$ is abelian.^[[[Sidney A. Morris - Topology without tears.pdf#page=|Sidney A. Morris - "Topology without tears" p.520]]]
 
 >[!proof]+
 >1. If $H$ is closed, then $\overline{H}=H\le G$. Thus suppose that $H$ is not closed, then let $a\in\overline{H}$. Let $U$ be a neighborhood of $a$, then $n^{-1}(U\cap H)\ne\emptyset$ and $n^{-1}(U\cap H)=n^{-1}(U)\cap n^{-1}(H)=n^{-1}(U)\cap H$. Because $n^{-1}(U)$ is a neighborhood of $a^{-1}$, then every neighborhood of $a^{-1}$ intersects $H$, i.e. $a^{-1}\in\overline{H}$.
@@ -14,7 +19,7 @@
 >   $$ab^{-1}\in m(A\cap H,B\cap H)=m(A,B)\cap m(H,H) =U\cap H$$
 >   because $U$ was chosen arbitrarily, then $ab^{-1}\in\overline{H}$
 >   
->2. Let $H$ be a normal subgroup of topological group $G$, then $gH=Hg$, $\forall g\in G$. Then because [[Topological group translations are homeomorphisms]] and [[Homeomorphism of closure is a closure of homeomorphism image]] we get that $g\overline{H}=\overline{gH}=\overline{Hg}=\overline{H}g$. Therefore because $\overline{H}$ is a subgroup of $G$, $\overline{H}$ be a normal subgroup of $G$.
+>2. Let $H$ be a normal subgroup of topological group $G$, then $gH=Hg$, $\forall g\in G$. Then because [[topological group translations are homeomorphisms]] and [[homeomorphism of closure is a closure of homeomorphism image]] we get that $g\overline{H}=\overline{gH}=\overline{Hg}=\overline{H}g$. Therefore because $\overline{H}$ is a subgroup of $G$, $\overline{H}$ be a normal subgroup of $G$.
 >3. Let $G$ be a topological group and $H$ be it's abelian subgroup. Then consider the following mapping
 >   $$k:G\times G\to G\qquad k(a,b)=aba^{-1}b^{-1}$$
 >   $k$ is continuous as composition of continuous mappings (multiplication and inversion). Then $k(H,H)=e$ because $H$ is abelian subgroup. Now take the preimage of neutral element $e$, because $\set{e}$ is a closed set (by Hausdorffness of $G$), the preimage $k^{-1}(e)$ is also closed thus

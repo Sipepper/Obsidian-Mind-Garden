@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Morse lemma
 ***
 ###### tags: #Topology/Differential/Morse_theory 

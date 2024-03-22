@@ -1,12 +1,17 @@
+---
+Last time checked: 2024-02-16
+Complete: false
+aliases:
+---
 # Subgroup of translations of euclidean plane is a lattice
 ***
 ###### tags: #Geometry #Algebra 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >The subgroup $\Gamma=G\cap T(E)$ of translation of crystallographic group $G$ is a lattice, that is there exists a basis $\{\vec{u},\vec{v}\}$ of $\vec{E}$ such that $\Gamma$ consists exactly of translations by vectors in $\mathbb{Z}\vec{u}+\mathbb{Z}\vec{v}$.^[Marcel Berger - "Geometry 1" p.16]
 
 >[!proof]+
->We stary by proving, by contradiction, that $\Gamma$ contains at least two linearly independent translations. Assume first that $\Gamma=\text{Id}_{E}$, that is, $G$ contains only rotations; if two such rotations $r,s$ had different centers, their commutator $[r,s]=rsr^{-1}s^{-1}$ would be a non-trivial translation, by [[Commutator of two rotations with different centers is a translations]]. Thus the rotations of $G$ all have the same center $\omega$, and $\bigcup\limits_{g\in\Gamma}g(P)$ is contained in a disc of fixed radius, contradicting first axiom of [[axioms for tilings and crystallographic group]].
+>We start by proving, by contradiction, that $\Gamma$ contains at least two linearly independent translations. Assume first that $\Gamma=\text{Id}_{E}$, that is, $G$ contains only rotations; if two such rotations $r,s$ had different centers, their commutator $[r,s]=rsr^{-1}s^{-1}$ would be a non-trivial translation, by [[Commutator of two rotations with different centers is a translations]]. Thus the rotations of $G$ all have the same center $\omega$, and $\bigcup\limits_{g\in\Gamma}g(P)$ is contained in a disc of fixed radius, contradicting first axiom of [[axioms for tilings and crystallographic group]].
 >![[Pasted image 20230815233102.png]]
 >Now suppose that the directions of elements of $\Gamma$ are all parallel. Take $r\in G\setminus\Gamma$ and a translation $t\in\Gamma$ by a vector $\vec{\xi}$. Then $rtr^{-1}$ is a translation by the vector $r(\vec{\xi})$, and, since $r(\vec{\xi})$ must be parallel to $\vec{\xi}$, we conclude that $r$ is a reflection through some point. All elements of $G\setminus\Gamma$ are thus reflections through points; but if two reflections $r,s$ have centers $a,a'$, then $sr$ is a translation by the vector $2\overrightarrow{aa'}$
 >![[Pasted image 20230815233926.png]]
@@ -42,14 +47,17 @@
 - [[Axioms for tilings and crystallographic group]],
 - [[Lattice in vector space]],
 - [[Basis of vector space]],
+- [[Euclidean space]],
 - [[Linear span]],
+- [[Set of integers]],
 - [[Commutator subgroup]],
 - [[Rotations of euclidean space]],
 - [[Conjugation in groups]],
 - [[Normed space]],
 - [[Euclidean space]],
 - [[Vector]],
-- [[Vector space]]
+- [[Vector space]],
+- [[Orbit in homogeneous space]],
 #### Possibly related
 - 
 ***

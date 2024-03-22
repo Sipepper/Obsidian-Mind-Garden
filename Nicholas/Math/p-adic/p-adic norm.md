@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-28
+Complete: false
+aliases:
+---
 # p-adic norm
 ***
 ###### tags: #p-adic 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $p$ be some prime number, we can define a different norm(absolute value) on a field of rational numbers $\mathbb{Q}$ called $p$*-adic* norm.
 >Any rational number $a$ can be written as a product
 >$$a=a'p^{n}$$
@@ -13,8 +18,11 @@
 >$$\|a+b\|\le\max(\|a\|,\|b\|)$$.^[Курош А.Г. - "Теория Групп" p.188]
 ***
 #### Keywords
+- [[Prime number]],
 - [[Normed space]],
 - [[Rational numbers]],
+- [[Relatively prime numbers]],
+- [[Set of integers]],
 #### Possibly related
 - 
 ***

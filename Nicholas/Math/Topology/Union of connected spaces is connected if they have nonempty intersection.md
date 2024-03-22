@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Union of connected spaces is connected if they have nonempty intersection
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $(X,\tau)$ be a topological space. Let $\{B_{i}\}_{i\in\Lambda}$ be a family of connected sets of $X$. Let $\exists x\in\bigcap\limits_{i\in\Lambda}B_{i}$ is a connected set of $T$.^[https://proofwiki.org/wiki/Union_of_Connected_Sets_with_Common_Point_is_Connected]
 
 >[!proof]+

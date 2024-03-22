@@ -1,15 +1,20 @@
+---
+Last time checked: 2024-02-28
+Complete: false
+aliases:
+---
 # Euclidean models of p-adic integers
 ***
 ###### tags: #p-adic 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $V$ be a finite dimensional Euclidean vector space. Define a injective map
 >$$v:S=\{0,1,2,\dots,p-1\}\to V\quad v(S)=\Sigma\subset V$$
 >now define a vector function
 >$$\Psi=\Psi_{v,b}:\mathbb{Z}_{p}\to V\qquad\sum\limits_{i\ge0}a_{i}p^{i}\mapsto\nu\sum\limits_{i\ge0}\frac{v(a_{i})}{b^{i+1}}$$
 >As ring $\mathbb{Z}_{p}$ can be represented as a disjoint union $\mathbb{Z}_{p}=\bigsqcup\limits_{a_{0}\in S}(a_{0}+p\mathbb{Z}_{p})$, we have that
 >$$\Psi(\mathbb{Z}_{p})=\bigcup\limits_{v\in\Sigma}\left(\nu\frac{v}{b}+\frac{1}{b}\Psi(\mathbb{Z}_{p}) \right)$$
->For $b$ big enough the image $F=F_{v,b}=\Psi_{v,b}(\mathbb{Z}_{p})$ is a *disjoint* union of self similar images. Thus we obtain a spatial model of $\mathbb{Z}_{p}$ by iterating similarly to the construction of Cantor set.^[Alain M. Robert - "A course in p-adic analysis" p.12-16]
+>For $b$ big enough the image $F=F_{v,b}=\Psi_{v,b}(\mathbb{Z}_{p})$ is a *disjoint* union of self similar images. Thus we obtain a spatial model of $\mathbb{Z}_{p}$ by iterating similarly to the construction of Cantor set.^[[[Alain M. Robert - A course in p-adic analysis.pdf#page=28 |Alain M. Robert - "A course in p-adic analysis" p.12-16]]]
 
 >Let $\widehat{\Sigma}$ be a convex hull of vectors $\Sigma$ in $V$. Let $\lambda$ be the affine functional on $V$ such that $\lambda\le1$ on $\Sigma$ and $\lambda(1)$ for some $v\in\Sigma$. Choose $\nu=b-1$. Then
 >$$\lambda\left(\nu\sum\limits_{i\ge0}\frac{v(a_{i})}{b^{i+1}}\right)\le\nu\sum\limits_{i\ge0}\frac{1}{b^{i+1}}=\nu\frac{1}{b-1}=\frac{b-1}{b-1}=1$$
@@ -47,6 +52,7 @@
 - [[Function(mapping)]],
 - [[Ring of p-adic integers]],
 - [[Self-similarity]],
+- [[Kernel and image of a mapping]],
 - [[Cantor space]],
 - [[Convex hull]],
 - [[Affine map]],

@@ -1,15 +1,20 @@
+---
+Last time checked: 2024-02-14
+Complete: false
+aliases:
+---
 # Hausdorff dimension
 ***
 ###### tags: #Fundamental_math_objects #Geometry/Fractal 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >The *Hausdorff dimension* $\dim_{H}F$ of a set $F$, is
 >$$\dim_{H}F=\inf\{s\ge0:\mathcal{H}^{s}(F)=0 \}=\sup\{s:\mathcal{H}^{s}(F)=\infty\}$$
->i.e. there is a critical point at which $\mathcal{H}^{s}(F)$ "jumps" from $\infty$ to zero.^[Kenneth Falconer - "Fractal Geometry 2e." p.32]
+>i.e. there is a critical point at which $\mathcal{H}^{s}(F)$ "jumps" from $\infty$ to zero.^[[[Kenneth Falconner - Fractal geometry 2e.pdf#page=57|Kenneth Falconner - "Fractal geometry" p.32 ]]]
 >![[Pasted image 20220816223542.png]]
 
-
-
+>[!example]+ 
+>
 
 #### Properties
 1. *Monotonicity*
@@ -35,16 +40,19 @@
    >[!proof]+
    >
 
->[!example]+ 
->
 ***
 #### Keywords
 - [[Set]],
 - [[Hausdorff measure]],
 - [[Supremum and infinum]],
 - [[Cardinality of a set]],
+- [[Monotonicity]],
+- [[Sequence]],
 - [[Open and closed subsets]],
-- [[Smooth manifold]]
+- [[Smooth manifold]],
+- [[Submanifold]],
+- [[Euclidean space]],
+- [[Dimension]]
 #### Possibly related
 - 
 ***

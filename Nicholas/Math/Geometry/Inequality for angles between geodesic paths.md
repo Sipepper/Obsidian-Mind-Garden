@@ -1,13 +1,18 @@
+---
+Last time checked: 2024-02-15
+Complete: false
+aliases:
+---
 # Inequality for angles between geodesic paths
 ***
 ###### tags: #Geometry 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Proposition
 >Let $X$ be a metric space and let $c$,$c'$ and $c''$ be three geodesic paths in $X$ issuing from the same point $p$. Then,
 >$$\angle(c',c'')\le\angle(c,c')+\angle(c,c'')$$
->.^[Martin R. Bridson - "Metric spaces of non-positive curvature" p.10]
+>.^[[[Martin R. Bridson, Andrea Haefliger - Metric spaces of non-positive curvature.pdf#page=29|Martin R. Bridson, Andrea Haefliger - "Metric spaces of non-positive curvature" p.10]]]
 
->[!proof]
+>[!proof]+
 >We argue by contradiction. If this inequality were not true, then there would exist $\delta>0$ such that $\angle(c',c'')>\angle(c,c')+\angle(c,c'')+3\delta$. Using the definition of the $\limsup$, we could then find an $\varepsilon>0$ such that:
 >1. $$\angle_{p}(c(t),c'(t'))<\angle(c,c')+\delta\quad\forall t,t'<\varepsilon$$
 >2. $$\angle_{p}(c(t),c''(t''))<\angle(c,c'')+\delta\quad\forall t,t''<\varepsilon$$
@@ -21,12 +26,16 @@
 >and hence $d(c(t),c'(t'))<d(x,x')$. Similarly, $d(c(t),c''(t''))<d(x,x'')$. Thus 
 >$$d(c'(t'),c''(t''))>d(x',x'')=d(x,x')+d(x,x'')>d(c(t),c'(t'))+d(c(t),c''(t''))$$
 >which contradicts the triangle inequality in $X$.
+
+>[!example]+
+>
 ***
 #### Keywords
 - [[Metric space]],
 - [[Geodesic path in metric space]],
 - [[Angle between the geodesic paths]],
 - [[Supremum and infinum]],
+- [[Upper and lower limit]],
 - [[Euclidean space]],
 #### Possibly related
 - 

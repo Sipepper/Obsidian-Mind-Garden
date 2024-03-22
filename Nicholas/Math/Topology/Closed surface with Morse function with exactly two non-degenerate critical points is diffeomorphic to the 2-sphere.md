@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Closed surface with Morse function with exactly two non-degenerate critical points is diffeomorphic to the 2-sphere
 ***
 ###### tags: #Topology/Differential/Morse_theory 
 ***
->[!dsn]+ Direct strict note
->Let $M$ be a closed surface. Suppose that there exists a Morse function $f:M\to\mathbb{R}$ with exactly two non-degenerate critical points (and no other critical points). Then $M$ is diffeomorphic to the sphere $\mathbb{S}^{2}$.^[Yukio Matsumoto - "An introduction to Morse theory" p.17]
+>[!dsn]+ Theorem
+>Let $M$ be a closed surface. Suppose that there exists a Morse function $f:M\to\mathbb{R}$ with exactly two non-degenerate critical points (and no other critical points). Then $M$ is diffeomorphic to the sphere $\mathbb{S}^{2}$.^[[[Yukio Matsumoto - An introduction to Morse theory.pdf#page= 31|Yukio Matsumoto - "An introduction to Morse theory" p.17]]]
 
 >[!proof]+
 >Notice that a closed surface $M$ is compact(in fact as [[Surfaces are topological manifolds]] a closed surface is a two-dimensional compact manifold without boundary). 

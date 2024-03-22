@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-01
+Complete: false
+aliases:
+---
 # Interior, Exterior and boundary of a set in topological space
 ***
 ###### tags: #Topology 
 ***
 #### Interior
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >Let $(X,\tau)$ be a topological space and $A\subset X$. Let $x\in A$ and $U\in\tau$ is an open neighbourhood of $x$ which contained in $A$, i.e. $U\subseteq A$, then if for any $x$ there exists such neighbourhood then $x$ is said to be *interior point* of $A$. The set of all interior points of $A$ is denoted as $\text{Int}(A)$.
 
 >The $\text{Int}(A)$ is equivalent to the biggest open set contained in $A$.
@@ -12,14 +17,14 @@
 >
 
 #### Exterior
->[!dsn]+ 
+>[!dsn]+ Definition
 >Let $(X,\tau)$ be a topological space and $A\subset X$. The set $\text{Ext}(A)$ defined as $\text{Int}(X\setminus A)$ is said to be the *exterior* of a set $A$.  Every point of $\text{Ext}(A)$ is a point such that there exist an open neighbourhood of $x$ which contained in complement to $A$. Points of $\text{Ext}(A)$ is said to be the *exterior points* of $A$.
 
 >[!example]+
 >
 
 #### Boundary
->[!dsn]+
+>[!dsn]+ Definition
 >A set $\partial A=\overline{A}\setminus\text{Int}(A)$ is said to be the *boundary* of $A$. Points of $\partial A$ is said to be the *boundary points* of $A$.
 
 >Boundary is a closed set, as a complement to an open set.
@@ -28,7 +33,7 @@
 >
 
 #### Properties
->[!dsn]+
+>[!dsn]+ Proposition
 >1. $X=\text{Int}(A)\sqcup\partial A\sqcup\text{Ext}(A)$
 >2. $\text{Int}(X\setminus A)=\text{Ext}(A)$
 >3. $\partial(X\setminus A)=\partial A$
@@ -53,7 +58,7 @@
 - [[Open and closed subsets]],
 - [[Neighborhood in topological space]],
 - [[Set]],
-- [[Closure of a set]],
+- [[Closure of a set]]
 #### Possibly related
 - 
 ***

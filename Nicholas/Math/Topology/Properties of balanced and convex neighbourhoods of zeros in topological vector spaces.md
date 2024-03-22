@@ -1,13 +1,18 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Properties of balanced and convex neighbourhoods of zeros in topological vector spaces
 ***
 ###### tags: #Topology 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Proposition
 >In a topological vector space $U$ we have:
 >1. every neighbourhood of zero contains a balanced neighbourhood of zero
->2. every convex neighbourhood of zero contains a balanced convex neighbourhood of zero.^[Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.8]
+>2. every convex neighbourhood of zero contains a balanced convex neighbourhood of zero.^[[[Fabio Silva Botelho - Functional Analysis and Applied Optimization in Banach Spaces.pdf#page=26|Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.8]]]
 
->[!proof]
+>[!proof]+
 >1. Suppose $\mathcal{U}$ is a neighbourhood of zero. From the continuity of scalar multiplication, there exist $\mathcal{V}$(neighbourhood of zero) and $\delta>0$, such that $\alpha\mathcal{V}\subset\mathcal{U}$ whenever $|\alpha|<\delta$. Define $\mathcal{W}=\bigcup_{|\alpha|<\delta}\alpha\mathcal{V}$; thus $\mathcal{W}\subset\mathcal{U}$ is a balanced neighbourhood of zero.
 >2. Suppose $\mathcal{U}$ is a convex neighbourhood of zero in $U$. Define
 >   $$A=\left\{\bigcap\alpha\mathcal{U}:\alpha\in\mathbb{C},|\alpha|=1 \right\}$$
@@ -15,6 +20,9 @@
 >   $$r\beta A=\bigcap_{|\alpha|=1}r\beta\alpha\mathcal{U}=\bigcap_{|\alpha|=1}r\alpha\mathcal{U}$$
 >   Since $\alpha\mathcal{U}$ is a convex set that contains zero, we obtain that $r\alpha\mathcal{U}\subset\alpha\mathcal{U}$, so that $r\beta A\subset A$, which completes the proof.
 
+
+>[!example]+
+>
 ***
 #### Keywords
 - [[Topological vector space]],

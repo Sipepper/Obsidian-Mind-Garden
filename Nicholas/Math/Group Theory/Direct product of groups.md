@@ -1,37 +1,42 @@
+---
+Last time checked: 2024-02-18
+Complete: true
+aliases:
+---
 # Direct product of groups
 ***
 ###### tags: #Group_Theory 
 ***
 #### Finite case
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $G$ and $G'$ be the groups. Product set $G\times G'$, i.e. set of ordered pairs $(a,a')$,$a\in G$ and $a'\in G'$, with a componentwise multiplication 
 >$$(a,a')(b,b')=(ab,a'b')$$
 >has a group structure with $(e_{G},e_{G'})$ as a neutral element.
 >>Group constructed in a such way is called the *direct product* of groups $G$ and $G'$.
 
 >We can define a trivial homomorphisms which are called *projections*
-$$
-\begin{matrix}
-G&&&&G \\ 
-&\overset{i}{\searrow}&&\overset{p}{\nearrow} \\ 
-&&G\times G'&& \\ 
-&\underset{i'}{\nearrow}&&\underset{p'}{\searrow} \\ 
-G'&&&&G'
-\end{matrix}
-$$
-$$
-i(x)=(x,1),\;i'(x')=(1,x'),\;p(x,x')=x,\;p'(x,x')=x'
-$$
-$$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
+>$$
+>\begin{matrix}
+>G&&&&G \\ 
+>&\overset{i}{\searrow}&&\overset{p}{\nearrow} \\ 
+>&&G\times G'&& \\ 
+>&\underset{i'}{\nearrow}&&\underset{p'}{\searrow} \\ 
+>G'&&&&G'
+>\end{matrix}
+>$$
+>$$
+>i(x)=(x,1),\;i'(x')=(1,x'),\;p(x,x')=x,\;p'(x,x')=x'
+>$$
+>$$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
 
->[!example] 
+>[!example]+ 
 >Let $G=\mathbb{R}$, additive group of real numbers, and $G'=\mathbb{T}=\set{z\in\mathbb{C}:|z|=1}$, i.e. the *circle group*. Then the direct product $\mathbb{R}\times\mathbb{T}$ will consists of pairs $(a,e^{i\alpha})$ with the following composition law
 >$$(a,e^{i\alpha})*(b,e^{i\beta})=(a+b,e^{i\alpha}\cdot e^{i\beta})$$  
 >>Geometrically this direct product represents the "infinite tube" in space.
 
 >Such multiplication and constructions above can easily be continued on any finite number of groups.
 #### Case of an arbitrary cardinality
->[!dsn] Direct strice note
+>[!dsn]+ Definition
 >Suppose that we have some family of groups $G_{\alpha}$, $\alpha\in I$, then by *restricted direct product* of this family of groups we mean some subset
 >$$\overline{\prod\limits_{\alpha\in I}}G_{\alpha}$$ 
 >of functions from *box product* of groups with *finite support*. By a law of composition we take a composition of two such functions.
@@ -40,7 +45,7 @@ $$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
 
 >For a finite number of groups we can view the direct product as *componentwise multiplication*.
 
->[!example]
+>[!example]+
 >Let $C_{p^{\infty}}$ be the Prufer $p$-group, then the direct product of all such groups for all prime numbers $p$ will have the following closed form
 >$$\prod_{p\;\text{prime}}C_{p^\infty}\cong\mathbb{Q}/\mathbb{Z}$$
 >i.e. isomorphic to a quotient group $\mathbb{Q}/\mathbb{Z}$.
@@ -50,16 +55,18 @@ $$\ker(p)=1\times G'\qquad \ker(p')=G\times 1$$
 ***
 #### Keywords
 - [[Group]],
+- [[Cartesian product of sets]],
 - [[Box product of groups]],
 - [[Function(mapping)]],
 - [[Cardinality of a set]],
 - [[Homomorphism]],
 - [[Kernel and image of a mapping]],
 - [[Law of composition]],
-- [[Cartesian product of sets]],
 - [[Circle group]],
 - [[Real line]],
+- [[Absolute value]],
 - [[Set]],
+- [[Prime number]]
 - [[Locally cyclic group]],
 - [[Quotient group]],
 - [[Quasi-cyclic group]],

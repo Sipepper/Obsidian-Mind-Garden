@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Connected subset of union of disjoint open sets
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $(X,\tau)$ be a topological space. Let $A$ be a connected subset of $T$. Let $U,V$ be disjoint open sets and $A\subseteq U\cup V$, then either $A\subseteq U$ or $A\subseteq V$.^[https://proofwiki.org/wiki/Connected_Subset_of_Union_of_Disjoint_Open_Sets]
 
 >[!proof]+

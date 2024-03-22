@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-02-23
+Complete: true
+aliases:
+---
 # Topological group translations are homeomorphisms
 ***
 ###### tags: #Group_theory/Topological 
 ***
->[!dsn]+ Direct strict note
->Let $(G,\tau)$ be a topological group. For each $a\in G$, left and right translation by $a$ are homeomorphisms of $(G,\tau)$. Inversion is also a homeomorphism.^[Sidney A. Morris - "Topology without tears" p.514]
+>[!dsn]+ Proposition
+>Let $(G,\tau)$ be a topological group. For each $a\in G$, left and right translation by $a$ are homeomorphisms of $(G,\tau)$. Inversion is also a homeomorphism.^[[[Sidney A. Morris - Topology without tears.pdf#page=514|Sidney A. Morris - "Topology without tears" p.514]]]
 
 >[!proof]+
 >The map $L_{a}:(G,\tau)\to(G,\tau)$ fiven by $g\mapsto ag$ is the product of the two continuous maps.
@@ -21,8 +26,8 @@
 - [[Function(mapping)]],
 - [[Cartesian product of sets]],
 - [[Product topology]],
+- [[Continuous mapping]],
 - [[Inverse function]],
-- [[Continuous mapping]]
 #### Possibly related
 - 
 ***

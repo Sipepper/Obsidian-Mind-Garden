@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Every regular second countable space is normal
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->Every regular second-countable space $(X,\tau)$ is normal.^[Sidney A. Morris - "Topology without tears" p.284]
+>[!dsn]+ Proposition
+>Every regular second-countable space $(X,\tau)$ is normal.^[[[Sidney A. Morris - Topology without tears.pdf#page=284|Sidney A. Morris - "Topology without tears" p.284]]]
 
 >[!proof]+
 >Let $A$ and $B$ be disjoint closed subsets of $(X,\tau)$ and $B$ a countable basis for $\tau$. As $(X,\tau)$ is regular and $X\setminus B$ is an open set, for each $a\in A$ there exists a $V_{a}\in\mathcal{B}$ such that $\overline{V}_{a}\subseteq X\setminus B$.

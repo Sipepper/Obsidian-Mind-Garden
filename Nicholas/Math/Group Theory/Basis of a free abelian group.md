@@ -1,13 +1,18 @@
+---
+Last time checked: 2024-02-17
+Complete: false
+aliases:
+---
 # Basis of a free abelian group
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $U$ be a free abelian group, and the following direct decomposition into direct sum(product) is true
 >$$U=\sum\limits_{\nu}(u_{\nu})$$
 >Then if we take the all generators $u_{\nu}$, then such set is said to be *basis* of a group $U$.^[Курош А.Г. - "Теория Групп" p.118]
 
->[!example] 
+>[!example]+ 
 >
 ***
 #### Keywords

@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-03-10
+Complete: false
+aliases:
+---
 # Locally compact space
 ***
 ###### tags: #Topology 

@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Every normal second countable Hausdorff space is metrizable
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->Every normal second countable Hausdorff space $(X,\tau)$ is metrizable.^[Sidney A. Morris - "Topology without tears" p.283]
+>[!dsn]+ Proposition
+>Every normal second countable Hausdorff space $(X,\tau)$ is metrizable.^[[[Sidney A. Morris - Topology without tears.pdf#page=283|Sidney A. Morris - "Topology without tears" p.283]]]
 
 >[!proof]+
 >It suffices to show that $(X,\tau)$ can be embedded in the Hilbert cube $I^{\infty}$. By [[The embedding lemma]] and as every [[hausdorff space]] is a [[T1 space]], to verigy that $(X,\tau)$ can be embedded in the Hilbert cube it is enough to find a countable family of continuous maps of $(X,\tau)$ into $[0,1]$ which separates points and closed sets.

@@ -1,13 +1,18 @@
+---
+Last time checked: 2024-02-18
+Complete: false
+aliases:
+---
 # Group commutator
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Definition
 >Let $G$ be a group, and $a,b\in G$. The expression $a^{-1}b^{-1}ab$ is called a *commutator* of elements $a$ and $b$ and denoted as $[a,b]$.
 
 >Two elements $a,b$ commutes, precisely when $[a,b]=e$.
 
->[!example] 
+>[!example]+ 
 >
 
 #### Properties

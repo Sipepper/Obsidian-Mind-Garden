@@ -1,12 +1,17 @@
+---
+Last time checked: 2024-03-07
+Complete: true
+aliases:
+---
 # Homeomorphisms of Cantor space
 ***
 ###### tags: #Topology 
 ***
 #### Product of discrete finite spaces
->[!dsn]+ Direct strict note
->Let $(G,\tau)$ be a Cantor space and $\left(\prod_{i=1}^{\infty}A_{i},\tau' \right)$ be a product of spaces $\{0,2\}$. Then mapping $f:(G,\tau)\to\left(\prod_{i=1}^{\infty}A_{i},\tau'\right)$ given by
+>[!dsn]+ Proposition
+>Let $(G,\tau)$ be a Cantor space and $\left(\prod_{i=1}^{\infty}A_{i},\tau' \right)$ be a product of discrete spaces $\{0,2\}$. Then mapping $f:(G,\tau)\to\left(\prod_{i=1}^{\infty}A_{i},\tau'\right)$ given by
 >$$f\left(\sum\limits_{n=1}^{\infty}\frac{a_{n}}{3^{n}}\right)=(a_{1},a_{2},\dots,a_{n},\dots)$$
->is a homeomorphism.^[Sidney A. Morris - "Topology without tears" p.228]
+>is a homeomorphism.^[[[Sidney A. Morris - Topology without tears.pdf#page=228|Sidney A. Morris - "Topology without tears" p.228]]]
 
 >[!proof]+
 >By definition of [[Cantor space]] we know that such mapping is a bijection. As $(G,\tau)$ is compact and $\left(\prod_{i=1}^{\infty}A_{i},\tau'\right)$ is a Hausdorff space, then $f$ is a homeomorphism if it is continuous by [[Continuous bijection between compact and Hausdorff spaces is a homeomorphism]].
@@ -14,16 +19,16 @@
 >
 >Consider the following open interval
 >$$\left(\sum\limits_{n=1}^{\infty}\frac{a_{n}}{3^{n}}-\frac{1}{3^{N+2}},\sum\limits_{n=1}^{\infty}\frac{a_{n}}{3^{n}}+\frac{1}{3^{N+2}}\right)$$
->and let $W$ be the intersectino of such interval with $G$. Then $W$ be open in $(G,\tau)$ and if $x=\sum_{n=1}^{\infty}\frac{x_{n}}{3^{n}}\in W$, then $x_{i}=a_{i}$, where $i=1,2,\dots,N$.
+>and let $W$ be the intersection of such interval with $G$. Then $W$ be open in $(G,\tau)$ and if $x=\sum_{n=1}^{\infty}\frac{x_{n}}{3^{n}}\in W$, then $x_{i}=a_{i}$, where $i=1,2,\dots,N$.
 >Therefore
 >$$f(x)\in U_{1}\times U_{2}\times\dots\times U_{N}\times A_{N+1}\times A_{N+2}\times\dots$$
 >and thus $f(W)\subseteq U$ as required.
 
 #### Cantor space is homeomorhic to a countable product of cantor spaces
->[!dsn]+ Direct strict note
+>[!dsn]+ Proposition
 >Let $(G_{i},\tau_{i})$, $i\in\mathbb{N}$ be a countable family of topological spaces, every of which homeomorphic to a Cantor Space $(G,\tau)$. Then
->$$(G,\tau)\cong\prod\limits_{i=1}^{\infty}(G_{i},\tau_{i})\cong\prod\limits_{i=1}^{\infty}(G_{i},\tau_{i})\quad\forall n\in\mathbb{N}$$
->.^[Sidney A. Morris - "Topology without tears" p.229]
+>$$(G,\tau)\cong\prod\limits_{i=1}^{n}(G_{i},\tau_{i})\cong\prod\limits_{i=1}^{\infty}(G_{i},\tau_{i})\quad\forall n\in\mathbb{N}$$
+>.^[[[Sidney A. Morris - Topology without tears.pdf#page=229|Sidney A. Morris - "Topology without tears" p.229]]]
 
 >[!proof]+
 >Firstly we verify that $(G,\tau)\cong(G_{1},\tau_{1})\times(G_{2},\tau_{2})$, which is equivalent, by [[Homeomorphisms of Cantor space#Product of discrete finite spaces|Cantor space is homeomorphic to a countable product of dinite discrete spaces]], to showing that
@@ -40,37 +45,36 @@
 >(proof that $\phi$ is a homeomorphism) and the proof is complete.
 
 #### Interval is a continuous image of a Cantor space
->[!dsn]+ Direct strict note
->The topological space $[0,1]$ is a continuous image the Cantor Space $(G,\tau)$.^[Sidney A. Morris - "Topology without tears" p.230]
+>[!dsn]+ Proposition
+>The topological space $[0,1]$ is a continuous image the Cantor Space $(G,\tau)$.^[[[Sidney A. Morris - Topology without tears.pdf#page=230|Sidney A. Morris - "Topology without tears" p.230]]]
 
 >[!proof]+
->In view of [[Homeomorphisms of Cantor space#Product of discrete finite spaces|Cantor space is homeomorphic to a countable product of dinite discrete spaces]] it suffices to find a continous mapping $\phi$ of $\prod_{i=1}^{\infty}(A_{i},\tau_{i})$ onto $[0,1]$. Such mapping is given by
+>In view of [[homeomorphisms of Cantor space#product of discrete finite spaces|cantor space is homeomorphic to a countable product of dinite discrete spaces]] it suffices to find a continous mapping $\phi$ of $\prod_{i=1}^{\infty}(A_{i},\tau_{i})$ onto $[0,1]$. Such mapping is given by
 >$$\phi((a_{1},a_{2},\dots,a_{i},\dots))=\sum\limits_{i=1}^{\infty}\frac{a_{i}}{2^{i+1}}$$
->Recalling that each $a_{i}\in\{0,2\}$ and that each number $x\in[0,1]$ has a dyadic expansion of the form $\sum_{j=1}^{\infty}\frac{b_{j}}{2^{j}}$, where $b_{j}\in\{0,1\}$, we see that $\phi$ is an onto mapping. To show that $\phi$ is continous it suffices, by [[Continuous mapping#Continuity by image]], to verify that if $U$ is the open interval
+>Recalling that each $a_{i}\in\{0,2\}$ and that each number $x\in[0,1]$ has a dyadic expansion of the form $\sum_{j=1}^{\infty}\frac{b_{j}}{2^{j}}$, where $b_{j}\in\{0,1\}$, we see that $\phi$ is an onto mapping. To show that $\phi$ is continous it suffices, by [[continuous mapping#continuity by image]], to verify that if $U$ is the open interval
 >$$\left(\sum\limits_{i=1}^{\infty}\frac{a_{i}}{2^{i+1}}-\varepsilon,\sum\limits_{i=1}^{\infty}\frac{a_{i}}{2^{i+1}}+\varepsilon \right)\ni\sum\limits_{i=1}^{\infty}\frac{a_{i}}{2^{i+1}}\quad\forall\varepsilon>0$$
 >then there exists an open set $W\ni(a_{1},a_{2},\dots,a_{i},\dots)$ such that $\psi(W)\subseteq U$. Choose $N$ sufficiently large that $\sum_{i=N}^{\infty}\frac{a_{i}}{2^{i+1}}<\varepsilon$, and put
 >$$W=\{a_{1}\}\times\{a_{2}\}\times\dots\times\{a_{N}\}\times A_{N+1}\times A_{N+2}\times\dots$$
 >Then $W$ is open in $\prod_{i=1}^{\infty}(A_{i},\tau_{i})$, $W\ni(a_{1},a_{2},\dots,a_{i},\dots)$, and $\phi(W)\subseteq U$, as required. 
 
->[!example]+ 
->
 ***
 #### Keywords
 - [[Cantor space]],
 - [[Product topology]],
+- [[Discrete topology]],
 - [[Function(mapping)]],
 - [[Homeomorphism]],
 - [[Compact set]],
 - [[Hausdorff space]],
 - [[Continuous mapping]],
+- [[Topology basis]],
 - [[Open and closed subsets]],
+- [[Cartesian product of sets]],
 - [[Interval]],
-- [[Topological space]],
-- [[Discrete topology]],
+- [[Cardinality of a set]],
 - [[Set]],
 - [[Mathematical induction]],
 - [[Integer Bases]]
 #### Possibly related
-- [[Topology basis]]
 ***
 #### Sources:

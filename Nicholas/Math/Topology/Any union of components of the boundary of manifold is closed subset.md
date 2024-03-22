@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Any union of components of the boundary of manifold is closed subset
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->Let $M$ be a topological manifold, then any union of components of $\partial M$ is a closed subset of $M$. In particular $\partial M$ itself is a closed subset of $M$.^[Stefan Friedl - "Algebraic topology" p.265]
+>[!dsn]+ Proposition
+>Let $M$ be a topological manifold, then any union of components of $\partial M$ is a closed subset of $M$. In particular $\partial M$ itself is a closed subset of $M$.^[[[Stefan Friedl - Algebraic topology.pdf#page=265|Stefan Friedl - "Algebraic topology" p.265]]]
 
 >[!proof]+
 >Let $M$ be a topological manifold. By definition the set of points in $M$ admitting a chart of type $(i)$ is an open subset of $M$. If follows from the definition of $\partial M$ that $M\setminus\partial M$ is an open subset. Thus the boundary $\partial M$ is a closed subset of $M$.

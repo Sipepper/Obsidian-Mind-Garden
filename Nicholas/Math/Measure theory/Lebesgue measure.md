@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-02-27
+Complete: false
+aliases:
+---
 # Lebesgue measure
 ***
 ###### tags: #Measure_theory 
 ***
->[!dsn]+ Direct strict note
+>[!dsn]+ Definition
 >*Lebesgue measure* is a generalization of volume in $n$-dimensional euclidean spaces. Which is defined as 
 >$$\mathcal{L}^{n}(A)=\inf\left\{\sum\limits_{i=1}^{\infty}\text{vol}^{n}(A_{i}):A\subseteq\bigcup\limits_{i=1}^{\infty}A_{i} \right\}$$
 >where $A_{i}$ are $n$-dimensional parallelopipeds with $n$-dimensional "volume" 

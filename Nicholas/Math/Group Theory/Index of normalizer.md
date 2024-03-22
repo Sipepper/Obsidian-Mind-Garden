@@ -1,15 +1,20 @@
+---
+Last time checked: 2024-02-19
+Complete: false
+aliases:
+---
 # Index of normalizer
 ***
 ###### tags: #Group_Theory 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Proposition
 >Let $G$ be a group, and $S$ is a subset of $G$, then the number of distinct subsets of $G$ which are conjugates of $S$ is $[G:N_{G}(S)]$.^[https://proofwiki.org/wiki/Number_of_Distinct_Conjugate_Subsets_is_Index_of_Normalizer]
 
 >In particular when $S$ consists of one elements $a$, we have the following
 >$$|a^{G}|=|G:N_{G}(a)|$$
 >i.e. the number of elements in conjugacy class of element $a$.
 
->[!proof]
+>[!proof]+
 >If two sets are conjugate to the set $S$ we can write the following
 >$$S^{a}=S^{b}$$
 >then it's equivalent to
@@ -21,15 +26,17 @@
 >
 >Since $G/N_{G}$ has $[G:N_{G}(S)]$ elements, the result is follows.
 
->[!example] 
+>[!example]+
 >
 ***
 #### Keywords
 - [[Group]],
 - [[Set]],
 - [[Conjugacy class]],
-- [[Conjugation in groups]],
 - [[Index of a subgroup]],
+- [[Group order]],
+- [[Normalizer in a group]],
+- [[Conjugation in groups]],
 - [[Group coset]],
 - [[Function(mapping)]],
 - [[Cardinality of a set]]

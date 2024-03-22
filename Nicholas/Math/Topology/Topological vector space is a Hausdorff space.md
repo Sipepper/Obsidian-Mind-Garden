@@ -1,8 +1,13 @@
+---
+Last time checked: 2024-03-13
+Complete: false
+aliases:
+---
 # Topological vector space is a Hausdorff space
 ***
 ###### tags: #Topology 
 ***
->[!dsn] Direct strict note
+>[!dsn]+ Proposition
 >Any topological vector space $U$ is a Hausdorff space.^[Fabio Silva Botelho - "Functional analysis and applied optimization in Banach spaces" p.7]
 
 >[!proof]

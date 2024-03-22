@@ -1,9 +1,9 @@
 ---
-Last time checked: 2024-01-03
+Last time checked: 2024-02-16
 Complete: true
-aliases: 
- - Проективное пространство
- - Проективний простір
+aliases:
+  - Проективное пространство
+  - Проективний простір
 ---
 # Projective space
 ***

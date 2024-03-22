@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-12
+Complete: false
+aliases:
+---
 # Regularity criterion for Hausdorff spaces
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->A Hausdorff topological space $(X,\tau)$ is regular if and only if closed neighbourhood of every point form a neighbourhood basis for that point.^[Glen E. Bredon - "Topology and geometry" p.13]
+>[!dsn]+ Proposition
+>A Hausdorff topological space $(X,\tau)$ is regular if and only if closed neighbourhood of every point form a neighbourhood basis for that point.^[[[Glen E. Bredon - Geometry and Topology.pdf#page=26|Glen E. Bredon - "Geometry and Topology" p.13]]]
 
 >[!proof]+
 >$\Rightarrow$
@@ -21,8 +26,8 @@
 - [[Regular and T3 space]],
 - [[Open and closed subsets]],
 - [[Neighborhood basis at point in topological space]],
-- [[Set]],
 - [[Neighborhood in topological space]],
+- [[Set]],
 - [[Closure of a set]]
 #### Possibly related
 - 

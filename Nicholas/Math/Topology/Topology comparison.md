@@ -1,9 +1,14 @@
+---
+Last time checked: 2024-03-13
+Complete: true
+aliases:
+---
 # Topologies comparison
 ***
 ###### tags: #Topology 
 ***
->[!dsn]+ Direct strict note
->Let $\tau_{1}$ and $\tau_{2}$ be topologies on a set $X$. Then $\tau_{1}$ is said to be a *finer topology* than $\tau_{2}$ (and $\tau_{2}$ is said to be a *coarser topology* than $\tau_{1}$) if $\tau_{1}\supseteq\tau_{2}$.^[Sidney A. Morris - "Topology without tears" p.198]
+>[!dsn]+ Definition
+>Let $\tau_{1}$ and $\tau_{2}$ be topologies on a set $X$. Then $\tau_{1}$ is said to be a *finer topology* than $\tau_{2}$ (and $\tau_{2}$ is said to be a *coarser topology* than $\tau_{1}$) if $\tau_{1}\supseteq\tau_{2}$.^[[[Sidney A. Morris - Topology without tears.pdf#page=198|Sidney A. Morris - "Topology without tears" p.198]]]
 
 >[!example]+ 
 >The discrete topology on a set $X$ is finer than any other topology on $X$. The indiscrete topology on $X$ is coarser than any other topology on $X$.
@@ -16,7 +21,8 @@
 - [[Topological space]],
 - [[Set]],
 - [[Discrete topology]],
-- [[Indiscrete topology]]
+- [[Indiscrete topology]],
+- [[Power set]]
 #### Possibly related
 - 
 ***

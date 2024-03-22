@@ -1,3 +1,8 @@
+---
+Last time checked: 2024-02-28
+Complete: false
+aliases:
+---
 # Restricted measure
 ***
 ###### tags: #Measure_theory 
@@ -7,11 +12,14 @@
 >$$\forall E'\in\Sigma':\nu(E')=\mu(E')$$
 >That is $\nu$ is the restriction $\mu|_{\Sigma'}$.^[https://proofwiki.org/wiki/Definition:Restricted_Measure]
 
+>[!example]+
+>
+
 ***
 #### Keywords
 - [[Measure]],
-- [[Restriction and extension of a mapping]],
 - [[Sigma-algebra of sets]],
+- [[Restriction and extension of a mapping]],
 - [[Function(mapping)]],
 - [[Real line]],
 #### Possibly related
